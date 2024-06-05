@@ -1,0 +1,17 @@
+{
+    "filename": "royal_variations_[Forge]_1.20.1_1.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8f4e69eae61f00528de95b80556de1494299dbac",
+        "sha512": "5420f16be5edbb981a11565584ced92918ac18ebf3aa44cac6fea525fa2d89d128b98af5fec0313f318ba8d23812610a2d8b7a23fa603f915ecbb37029c979b8",
+        "murmur2": 2678698251
+    },
+    "fileSize": 211319,
+    "sources": {
+        "curseforge": {
+            "projectId": 989611,
+            "fileUrl": "https://edge.forgecdn.net/files/5196/62/royal_variations_%5bForge%5d_1.20.1_1.0.jar",
+            "fileId": 5196062
+        }
+    }
+}

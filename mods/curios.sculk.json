@@ -1,0 +1,21 @@
+{
+    "filename": "curios-forge-5.9.1+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d5698ca0e90adba53d0ca660a2dc0b79ac09504b",
+        "sha512": "ce3605f16269bd02fd4b764652ac8e78dcb882d81d07fb0b8ac4f59c674256050aaafae39867173b4665738e4c16d33fc6cea9a92af267c61af9e706b98a2b80",
+        "murmur2": 3373913553
+    },
+    "fileSize": 382970,
+    "sources": {
+        "curseforge": {
+            "projectId": 309927,
+            "fileUrl": "https://edge.forgecdn.net/files/5367/944/curios-forge-5.9.1%2b1.20.1.jar",
+            "fileId": 5367944
+        },
+        "modrinth": {
+            "projectId": "vvuO3ImH",
+            "fileUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/moWmAnjY/curios-forge-5.9.1%2B1.20.1.jar"
+        }
+    }
+}

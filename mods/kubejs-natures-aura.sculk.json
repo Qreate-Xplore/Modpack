@@ -1,0 +1,21 @@
+{
+    "filename": "kubejs_naturesaura-1.20.1-forge-1.0.1.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "c428de330cf271a1a86108d3375b2952b1a48c28",
+        "sha512": "2541e26907d2de3813993f9511408bbb9d1590b26ad57f6b41a94dd29a0c85397134759b5de042d0ac68c7ca9eca2e470922b9e0818302ceace96b5bc8ab5c91",
+        "murmur2": 784021639
+    },
+    "fileSize": 74097,
+    "sources": {
+        "curseforge": {
+            "projectId": 1013074,
+            "fileUrl": "https://edge.forgecdn.net/files/5314/557/kubejs_naturesaura-1.20.1-forge-1.0.1.jar",
+            "fileId": 5314557
+        },
+        "modrinth": {
+            "projectId": "4UOGHCIr",
+            "fileUrl": "https://cdn.modrinth.com/data/4UOGHCIr/versions/hGGVseHs/kubejs_naturesaura-1.20.1-forge-1.0.1.jar"
+        }
+    }
+}

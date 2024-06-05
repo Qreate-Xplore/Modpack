@@ -1,0 +1,21 @@
+{
+    "filename": "MaxHealthFix-Forge-1.20.1-12.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c4194bac838c5346708c70724ca4a095f89d6312",
+        "sha512": "154320cdf3bb9cdf7485e1824eb9a97c593c1c0c202bcb8d7de0183ea042a7a8190ed8b54e679d9baece0c3b219dea8592aa0dcc4b56238b4f3415036a9e2e98",
+        "murmur2": 1020227340
+    },
+    "fileSize": 10782,
+    "sources": {
+        "curseforge": {
+            "projectId": 492246,
+            "fileUrl": "https://edge.forgecdn.net/files/5378/283/MaxHealthFix-Forge-1.20.1-12.0.3.jar",
+            "fileId": 5378283
+        },
+        "modrinth": {
+            "projectId": "mH8wdmqr",
+            "fileUrl": "https://cdn.modrinth.com/data/mH8wdmqr/versions/dnOhiNlT/MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+        }
+    }
+}

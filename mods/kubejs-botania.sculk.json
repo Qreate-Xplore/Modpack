@@ -1,0 +1,17 @@
+{
+    "filename": "kubejs_botania-1.4.0-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0f1f202f213b781f504f05ea22936f62a5c4b59d",
+        "sha512": "903b169dc72bf6f4d2a13240e4d52855a01c0225a60a5c4f73dae3c4ff82e465323e0b757a016e87d7330e49a377e0ebd093ae1e3cc29332a101df57978f7cda",
+        "murmur2": 1903370714
+    },
+    "fileSize": 28516,
+    "sources": {
+        "curseforge": {
+            "projectId": 618511,
+            "fileUrl": "https://edge.forgecdn.net/files/4948/244/kubejs_botania-1.4.0-forge.jar",
+            "fileId": 4948244
+        }
+    }
+}

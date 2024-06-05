@@ -1,0 +1,17 @@
+{
+    "filename": "Connector-1.0.0-beta.43+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "aa993138baa05a7cc7b55f9a97ea20a0328afcf1",
+        "sha512": "bf6842f9906568563e4a34e550dfae55f2c125aed4b2b12ad1a52c1e475c1b1b1aff927c22d6b7b03ce9d98cfe176a258681f2cc22ae98f744d9750e6e4f37d9",
+        "murmur2": 1812159061
+    },
+    "fileSize": 4514566,
+    "sources": {
+        "curseforge": {
+            "projectId": 890127,
+            "fileUrl": "https://edge.forgecdn.net/files/5299/502/Connector-1.0.0-beta.43%2b1.20.1.jar",
+            "fileId": 5299502
+        }
+    }
+}

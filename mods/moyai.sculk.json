@@ -1,0 +1,17 @@
+{
+    "filename": "moyai-1.20-2.1.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "1588ee3d595236e567dc18c0345f548b8d8915ef",
+        "sha512": "95475d4c07d74f1c5939d64ceee6042fb8f35fc256c9fd10778c2ebaf0b721c8df55292c899e5a88d05a56360c8e552a8d768d8d629568c4092fd0a85a32b4ee",
+        "murmur2": 814351211
+    },
+    "fileSize": 431718,
+    "sources": {
+        "curseforge": {
+            "projectId": 577252,
+            "fileUrl": "https://edge.forgecdn.net/files/4864/238/moyai-1.20-2.1.4.jar",
+            "fileId": 4864238
+        }
+    }
+}

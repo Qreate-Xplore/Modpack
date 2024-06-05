@@ -1,0 +1,17 @@
+{
+    "filename": "kubejspowah-1.2.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ced4d7b2cc2b6e255d88fc2f3fbcecf13ee3f77f",
+        "sha512": "45b05d0abffbaa2f147bc24d2dea1ea3eb432f052e0877a5654511998ea9969e36ee67a16e3d02ab7787f45d67853b1a037e04a28cff7dff1bc1acaedd01a965",
+        "murmur2": 3798090899
+    },
+    "fileSize": 7837,
+    "sources": {
+        "curseforge": {
+            "projectId": 838378,
+            "fileUrl": "https://edge.forgecdn.net/files/4920/550/kubejspowah-1.2.1.jar",
+            "fileId": 4920550
+        }
+    }
+}

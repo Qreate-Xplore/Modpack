@@ -1,0 +1,21 @@
+{
+    "filename": "Patchouli-1.20.1-84-FORGE.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
+        "sha512": "c38eb664bf5a0a9552e01e790b43a60551e2286309042ec2f71c5abd7881975623f0409c49b12db1d74db497e678cd74061d9e8d6b6d4d363cd3747eca8da25d",
+        "murmur2": 1862914209
+    },
+    "fileSize": 642506,
+    "sources": {
+        "curseforge": {
+            "projectId": 306770,
+            "fileUrl": "https://edge.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar",
+            "fileId": 4966125
+        },
+        "modrinth": {
+            "projectId": "nU0bVIaL",
+            "fileUrl": "https://cdn.modrinth.com/data/nU0bVIaL/versions/JMtc0mTS/Patchouli-1.20.1-84-FORGE.jar"
+        }
+    }
+}

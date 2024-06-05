@@ -1,0 +1,17 @@
+{
+    "filename": "betterchunkloading-1.20.1-4.2.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "885a1c6e7d85450b630fa2bdd9243ba3c7d0c59c",
+        "sha512": "9ac7f4be7e4805c7837f340a08c040d774bd7c1649bf3c647e41513929431bcd3e1eb8200478f869342254c251011d9168f480b2f55b1973de6c85acdb0332b9",
+        "murmur2": 3480975294
+    },
+    "fileSize": 38247,
+    "sources": {
+        "curseforge": {
+            "projectId": 899487,
+            "fileUrl": "https://edge.forgecdn.net/files/5310/74/betterchunkloading-1.20.1-4.2.jar",
+            "fileId": 5310074
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "Gobber2-Forge-1.20.1-2.8.9.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6a5a8164526940325355bda87b89045ce3f4eeef",
+        "sha512": "d9fa54f9c4f7d59f86e1e87fbf2aa958224878fd7231718bf5eee203892e0b9cfb352d1d5ab47ebba13e76e84ba68d1f039c6fcbd8407b0f79345fe2628e7a1d",
+        "murmur2": 3225930265
+    },
+    "fileSize": 567050,
+    "sources": {
+        "curseforge": {
+            "projectId": 301700,
+            "fileUrl": "https://edge.forgecdn.net/files/5329/818/Gobber2-Forge-1.20.1-2.8.9.jar",
+            "fileId": 5329818
+        }
+    }
+}

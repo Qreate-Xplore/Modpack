@@ -1,0 +1,17 @@
+{
+    "filename": "denseores-1.20.1-1.2.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ccdf015a46f5efd5cb807a6e92685dc89f2ba693",
+        "sha512": "74f87c9056fac32780d60f4a8393a6aa0232c7ec4f545c014ced03f1c58f7d84072de37874187e919ac3707fe6d88eab9870516d52c6d42ad55edf1dd9e59daf",
+        "murmur2": 2366371381
+    },
+    "fileSize": 175125,
+    "sources": {
+        "curseforge": {
+            "projectId": 729297,
+            "fileUrl": "https://edge.forgecdn.net/files/4993/69/denseores-1.20.1-1.2.2.jar",
+            "fileId": 4993069
+        }
+    }
+}

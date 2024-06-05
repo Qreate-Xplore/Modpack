@@ -1,0 +1,17 @@
+{
+    "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+        "sha512": "8519f95133e1bab4163b44d39fb5c7bf5968be340961df428d9b98ab92f6f75641d76c81f632e5f86e244b429321758957d6e8c5d0e0007f498259697bfc7018",
+        "murmur2": 1243520454
+    },
+    "fileSize": 20299,
+    "sources": {
+        "curseforge": {
+            "projectId": 256717,
+            "fileUrl": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "fileId": 5278538
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "infernalmobs-1.20.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b00815ba8cee3182aa62c5a7c76f2bfcb83b3191",
+        "sha512": "8e369a029f6f0e4281e7ad03963b00d1e39817b1fd6d50e5e9da48a4a5afd5f3c4ca604ceeb21888ed7e2100ac18fde20b473da83a8188fd4b880c192a14ec52",
+        "murmur2": 3699859592
+    },
+    "fileSize": 142108,
+    "sources": {
+        "curseforge": {
+            "projectId": 227875,
+            "fileUrl": "https://edge.forgecdn.net/files/5077/900/infernalmobs-1.20.1.2.jar",
+            "fileId": 5077900
+        }
+    }
+}

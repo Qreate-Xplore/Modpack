@@ -1,0 +1,17 @@
+{
+    "filename": "ultimine_addition-forge-1.20.1-v1.3.2-release.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "45410688026a0107fc217aeee1ab91f9ef67501c",
+        "sha512": "4ab8ab3074498b39d0f3aa0a7563e5a1b65aa89688c32ce0c1c70855e70852caf1e151f56ec1c880691a15afe9da23e2bd1e0d4296e2279ff02c8e7e2e8724f0",
+        "murmur2": 73410024
+    },
+    "fileSize": 670598,
+    "sources": {
+        "curseforge": {
+            "projectId": 733166,
+            "fileUrl": "https://edge.forgecdn.net/files/5159/698/ultimine_addition-forge-1.20.1-v1.3.2-release.jar",
+            "fileId": 5159698
+        }
+    }
+}

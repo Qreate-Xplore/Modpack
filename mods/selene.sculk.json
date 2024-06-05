@@ -1,0 +1,21 @@
+{
+    "filename": "moonlight-1.20-2.11.31-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "336c7e47898b90ea4468abbb33c9a6c92360e69c",
+        "sha512": "fe2127e8dc634ce1d09442dcf075636aa00ddc3e34c242289aa9791646648a4dd6bcf5d07cd242a075613a3b8d3fe9da5e4c5db93aed9b613d5a8cb0f6842a6c",
+        "murmur2": 1955246981
+    },
+    "fileSize": 1182401,
+    "sources": {
+        "curseforge": {
+            "projectId": 499980,
+            "fileUrl": "https://edge.forgecdn.net/files/5372/910/moonlight-1.20-2.11.31-forge.jar",
+            "fileId": 5372910
+        },
+        "modrinth": {
+            "projectId": "twkfQtEc",
+            "fileUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/arDcM3bX/moonlight-1.20-2.11.31-forge.jar"
+        }
+    }
+}

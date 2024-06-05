@@ -1,0 +1,17 @@
+{
+    "filename": "Structory_1.20.x_v1.3.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
+        "sha512": "e583bb081bea1c8638deffae5c12b3548f86651641dd78f2655ccca78b2658dd5847db2bd9081e913b8755818de2e15501dd24963d8f6f67ebabc155e4fc94ff",
+        "murmur2": 2196549393
+    },
+    "fileSize": 1286460,
+    "sources": {
+        "curseforge": {
+            "projectId": 636540,
+            "fileUrl": "https://edge.forgecdn.net/files/5351/581/Structory_1.20.x_v1.3.5.jar",
+            "fileId": 5351581
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "libraryferret-forge-1.20.1-4.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+        "sha512": "0b7e2e52459fc72f2f952918708dade810616b62d18da1c9e9153aac0129f3522bbb80617bbd7d8e0654773ccbb73919a93f57849e97dbd74a52bea8bfc222e1",
+        "murmur2": 2890112686
+    },
+    "fileSize": 190536,
+    "sources": {
+        "curseforge": {
+            "projectId": 532727,
+            "fileUrl": "https://edge.forgecdn.net/files/4601/234/libraryferret-forge-1.20.1-4.0.0.jar",
+            "fileId": 4601234
+        }
+    }
+}

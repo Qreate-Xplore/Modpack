@@ -1,0 +1,17 @@
+{
+    "filename": "framework-forge-1.20.1-0.6.27.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ec67a259a060c58571d7c2e7e12c8e6f9d7bd8e4",
+        "sha512": "b5c3ac29917c583911b50b17295cd63a205e33b162d9589c671059eb9f547bce67633605f624f62846400b08a360b0e4aab427e6531589cfea1d2942fea3781e",
+        "murmur2": 2281135426
+    },
+    "fileSize": 298074,
+    "sources": {
+        "curseforge": {
+            "projectId": 549225,
+            "fileUrl": "https://edge.forgecdn.net/files/5180/972/framework-forge-1.20.1-0.6.27.jar",
+            "fileId": 5180972
+        }
+    }
+}

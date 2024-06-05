@@ -1,0 +1,17 @@
+{
+    "filename": "ForgottenPots-1.1.4-FORGE-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9f77b459377657e5429180302aa17fc455134486",
+        "sha512": "305e8dd7897ed1c4b2db50e28e28edd500376de49ffd727d6cfa4a66221cb7bb2d2b78891729a1a4de56ecf57514a066ae1c955360f2c4b06a847ad7acbdc794",
+        "murmur2": 1355453571
+    },
+    "fileSize": 9091749,
+    "sources": {
+        "curseforge": {
+            "projectId": 949567,
+            "fileUrl": "https://edge.forgecdn.net/files/4956/87/ForgottenPots-1.1.4-FORGE-1.20.1.jar",
+            "fileId": 4956087
+        }
+    }
+}

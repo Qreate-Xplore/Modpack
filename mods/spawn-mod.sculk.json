@@ -1,0 +1,21 @@
+{
+    "filename": "spawn-1.0.2-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4a9ffc09b6bad80bfe21f241bc1f222b4ad7e550",
+        "sha512": "624d4d1392e8888d12dc34cc8d4c22e96ad665c4574633877dc1ed6790210a17df12c60ea2f68ffb500cebfc1c419c3c53e12ad9772fd61ce1d23a5c4623bb4a",
+        "murmur2": 3928444082
+    },
+    "fileSize": 7031738,
+    "sources": {
+        "curseforge": {
+            "projectId": 935694,
+            "fileUrl": "https://edge.forgecdn.net/files/4860/439/spawn-1.0.2-forge.jar",
+            "fileId": 4860439
+        },
+        "modrinth": {
+            "projectId": "rex9wwpz",
+            "fileUrl": "https://cdn.modrinth.com/data/rex9wwpz/versions/RXKJiHaV/spawn-1.0.2-forge.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "darkmobs-forge-1.20.1-1.0.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ec2a497ee513aaa0ccaf5e9ec9c12f6695700648",
+        "sha512": "0aba4558d3bbc826108d04b277bb557eb05d45fa6626ab48a2ccf3c270067ae4c95671fa4eb2fb5a76f543224cce7e1c61fc563784ee62fa856da0cea2bc18cf",
+        "murmur2": 11332809
+    },
+    "fileSize": 18003,
+    "sources": {
+        "curseforge": {
+            "projectId": 876027,
+            "fileUrl": "https://edge.forgecdn.net/files/5041/529/darkmobs-forge-1.20.1-1.0.6.jar",
+            "fileId": 5041529
+        },
+        "modrinth": {
+            "projectId": "qzcubdoE",
+            "fileUrl": "https://cdn.modrinth.com/data/qzcubdoE/versions/Tl6sIiNC/darkmobs-forge-1.20.1-1.0.6.jar"
+        }
+    }
+}

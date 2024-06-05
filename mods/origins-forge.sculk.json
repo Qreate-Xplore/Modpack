@@ -1,0 +1,21 @@
+{
+    "filename": "origins-forge-1.20.1-1.10.0.9-all.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "71af2b5fa4d2905ab71ca7c488a508dba277f109",
+        "sha512": "b103ac2ac509e98eaceedf04891bbe302e82f8b4a7fc3790b3d63bd912306bb09f9925489473211627a7a87d2049672a3e66c5cf6f5b1e34e62049f3a43d0e5d",
+        "murmur2": 2746634277
+    },
+    "fileSize": 2307868,
+    "sources": {
+        "curseforge": {
+            "projectId": 474438,
+            "fileUrl": "https://edge.forgecdn.net/files/5314/209/origins-forge-1.20.1-1.10.0.9-all.jar",
+            "fileId": 5314209
+        },
+        "modrinth": {
+            "projectId": "jl3m2lR9",
+            "fileUrl": "https://cdn.modrinth.com/data/jl3m2lR9/versions/vynFXywM/origins-forge-1.20.1-1.10.0.9-all.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "cofh_core-1.20.1-11.0.2.56.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6f7c0056fece31bf393df450d79482810ed444af",
+        "sha512": "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73",
+        "murmur2": 3041669468
+    },
+    "fileSize": 1509649,
+    "sources": {
+        "curseforge": {
+            "projectId": 69162,
+            "fileUrl": "https://edge.forgecdn.net/files/5374/122/cofh_core-1.20.1-11.0.2.56.jar",
+            "fileId": 5374122
+        },
+        "modrinth": {
+            "projectId": "OWSRM4vD",
+            "fileUrl": "https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2.56.jar"
+        }
+    }
+}

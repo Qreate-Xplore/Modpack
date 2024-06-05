@@ -1,0 +1,21 @@
+{
+    "filename": "kubejsoffline-4.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2c8083133dd154d789df507d99849618f4228d94",
+        "sha512": "1c87f39e23caa787c3bf872c425b92bc1a2b0e5362ebc7b5eaaca42192cc3f9f4457c1a606dd5d39dcb168375f0c1f1929cdaf78e31731b52bbeed7e6890f3a0",
+        "murmur2": 1819593721
+    },
+    "fileSize": 1442901,
+    "sources": {
+        "curseforge": {
+            "projectId": 641627,
+            "fileUrl": "https://edge.forgecdn.net/files/5296/322/kubejsoffline-4.0.2.jar",
+            "fileId": 5296322
+        },
+        "modrinth": {
+            "projectId": "7I1fu1km",
+            "fileUrl": "https://cdn.modrinth.com/data/7I1fu1km/versions/jdnrwfKw/kubejsoffline-4.0.2.jar"
+        }
+    }
+}

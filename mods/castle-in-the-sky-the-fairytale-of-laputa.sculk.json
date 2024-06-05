@@ -1,0 +1,17 @@
+{
+    "filename": "castle_in_the_sky-1.20.1-0.6.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c2657ef187c92d2a702938c94cd74ef7307bdf7d",
+        "sha512": "6550293af989f679dd3e9d813189c246842a5916301a11eb6ee3daa44e0deb147a6ef3ccb8f912e4c714168fbc8c9752470dfff975bff8fe4664f4686dac7c07",
+        "murmur2": 2944386108
+    },
+    "fileSize": 4181108,
+    "sources": {
+        "curseforge": {
+            "projectId": 496698,
+            "fileUrl": "https://edge.forgecdn.net/files/5035/852/castle_in_the_sky-1.20.1-0.6.0.jar",
+            "fileId": 5035852
+        }
+    }
+}

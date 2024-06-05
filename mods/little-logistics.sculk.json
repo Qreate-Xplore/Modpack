@@ -1,0 +1,17 @@
+{
+    "filename": "littlelogistics-mc1.20.1-v1.20.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0ad9a31ec3be326be5367128a53e175c9da8be13",
+        "sha512": "817cc14f84c0bbd2770057430633189ae6bd66e38ebddf5ccd1967b60241e834262d69d961b49e1d38b8108fe438dde802825d1fbab4e040d4df67e1cc8f7981",
+        "murmur2": 3596502950
+    },
+    "fileSize": 834991,
+    "sources": {
+        "curseforge": {
+            "projectId": 570050,
+            "fileUrl": "https://edge.forgecdn.net/files/4799/459/littlelogistics-mc1.20.1-v1.20.1.2.jar",
+            "fileId": 4799459
+        }
+    }
+}

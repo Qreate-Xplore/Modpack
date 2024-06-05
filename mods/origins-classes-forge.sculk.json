@@ -1,0 +1,21 @@
+{
+    "filename": "origins-classes-forge-1.2.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "63e099d2faf0785e667b17b1d9db7a4648805ed3",
+        "sha512": "1588f53b340560445428599d230999b9e2bf39fa3f3dba97cfd586cb0ed933f488cb6a19a0da9ce4aa92c4e6fc42786f51c44048cc27e4855ead00a685bee031",
+        "murmur2": 2135317943
+    },
+    "fileSize": 190573,
+    "sources": {
+        "curseforge": {
+            "projectId": 610127,
+            "fileUrl": "https://edge.forgecdn.net/files/4965/453/origins-classes-forge-1.2.1.jar",
+            "fileId": 4965453
+        },
+        "modrinth": {
+            "projectId": "HTjxjxqK",
+            "fileUrl": "https://cdn.modrinth.com/data/HTjxjxqK/versions/To1odLIP/origins-classes-forge-1.2.1.jar"
+        }
+    }
+}

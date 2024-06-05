@@ -1,0 +1,17 @@
+{
+    "filename": "createteleporters2.1-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4369ba1e89f2017b2839ab540f8ee94205d2636d",
+        "sha512": "e9bb3c4ffebebc5087f3efcf9aac53d5d7a12c40c5a5b2ee4b8a954030c20d8260e371bfaadfab14c28d7303dedf871d9142fe68a2fe999ed4e93dfea0f3343a",
+        "murmur2": 4194699477
+    },
+    "fileSize": 1891161,
+    "sources": {
+        "curseforge": {
+            "projectId": 829272,
+            "fileUrl": "https://edge.forgecdn.net/files/5320/473/createteleporters2.1-1.20.1.jar",
+            "fileId": 5320473
+        }
+    }
+}

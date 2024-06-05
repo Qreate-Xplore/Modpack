@@ -1,0 +1,17 @@
+{
+    "filename": "MobCaptains-v2.1.2.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "f5f9303095e5f82ee442f122fcfd1393203b4d0f",
+        "sha512": "3f3ce75f37afab28640a4158a84a1ce2c85574e1e76664c962c2ff458c9bbcbbbb6854cf89dbee6889cb25c612f8b829fe3e2e82bfac028959464dfa12a4a51b",
+        "murmur2": 1221618943
+    },
+    "fileSize": 145445,
+    "sources": {
+        "curseforge": {
+            "projectId": 857310,
+            "fileUrl": "https://edge.forgecdn.net/files/4720/207/MobCaptains-v2.1.2.jar",
+            "fileId": 4720207
+        }
+    }
+}

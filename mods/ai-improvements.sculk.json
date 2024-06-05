@@ -1,0 +1,21 @@
+{
+    "filename": "AI-Improvements-1.20-0.5.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+        "sha512": "eb932308aceb30f5157e967f1bd4b57eb1a1b2093886cbfaef6524b780337b8b0e2bd41c5103694c3a275827ceb7d63e7c55637a7a46f8e21f0a6770346b757d",
+        "murmur2": 2983526960
+    },
+    "fileSize": 29553,
+    "sources": {
+        "curseforge": {
+            "projectId": 233019,
+            "fileUrl": "https://edge.forgecdn.net/files/4578/262/AI-Improvements-1.20-0.5.2.jar",
+            "fileId": 4578262
+        },
+        "modrinth": {
+            "projectId": "DSVgwcji",
+            "fileUrl": "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+        }
+    }
+}

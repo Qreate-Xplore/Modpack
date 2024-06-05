@@ -1,0 +1,21 @@
+{
+    "filename": "The_Undergarden-1.20.1-0.8.14.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d823f6da5ea81ee09df8038dc5645986b184a451",
+        "sha512": "1fa7bc50530af3d4f551bb617103c3556b37bb53bb1939203e6d623c0e33404562bb8b772a33d3d0034fd5a29d1fac8cb531a664893e57f2dd3b7d968e71a7a1",
+        "murmur2": 1819346941
+    },
+    "fileSize": 45084263,
+    "sources": {
+        "curseforge": {
+            "projectId": 379849,
+            "fileUrl": "https://edge.forgecdn.net/files/5182/632/The_Undergarden-1.20.1-0.8.14.jar",
+            "fileId": 5182632
+        },
+        "modrinth": {
+            "projectId": "Ejfl5qDL",
+            "fileUrl": "https://cdn.modrinth.com/data/Ejfl5qDL/versions/pXfmvzA9/The_Undergarden-1.20.1-0.8.14.jar"
+        }
+    }
+}

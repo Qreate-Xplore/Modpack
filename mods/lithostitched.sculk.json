@@ -1,0 +1,21 @@
+{
+    "filename": "lithostitched-forge-1.20.1-1.1.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f1a538d8b0913a090ddbc2a59d6fcb6f88bebb7c",
+        "sha512": "d236a2ba3b0b50b5e0d8bd326a2227fda07353750e3917324fb65b8560bb4221afc62fe6d1d43b87b485fbf141ec3f7fbe9ea74528bd1639136c9f0aac1c5a5d",
+        "murmur2": 2503511210
+    },
+    "fileSize": 156273,
+    "sources": {
+        "curseforge": {
+            "projectId": 936015,
+            "fileUrl": "https://edge.forgecdn.net/files/5095/48/lithostitched-forge-1.20.1-1.1.5.jar",
+            "fileId": 5095048
+        },
+        "modrinth": {
+            "projectId": "XaDC71GB",
+            "fileUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/Tr6EqtWX/lithostitched-forge-1.20.1-1.1.5.jar"
+        }
+    }
+}

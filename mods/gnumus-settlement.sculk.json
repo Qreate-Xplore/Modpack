@@ -1,0 +1,17 @@
+{
+    "filename": "gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "058b7f35e0b91fe8b946cffe80bb28e5270bfb41",
+        "sha512": "6b91e9e997aa073b16a2747e9bdfb70b3fff25b0edf0ef19257bff489f1ca5a7f336c30acd78d31824e8bdc48623bdf25488790e9a15273bf8e1dfd69d68f905",
+        "murmur2": 1031376957
+    },
+    "fileSize": 891249,
+    "sources": {
+        "curseforge": {
+            "projectId": 720397,
+            "fileUrl": "https://edge.forgecdn.net/files/5012/952/gnumus_settlement_%5bForge%5d1.20.1_v1.0.jar",
+            "fileId": 5012952
+        }
+    }
+}

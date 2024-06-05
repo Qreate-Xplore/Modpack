@@ -1,0 +1,21 @@
+{
+    "filename": "EnigmaticLegacy-2.29.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8e4157a20b62270154ab9e35dbe3bfd5285b1072",
+        "sha512": "ebaad2070f1830b94302fb7c0762df571d335c5d022864980a1fe7ed1888bd43908fc78dca7afac5d1108b22f85b73a570e981ba0bb468d9392547fb4931ba6f",
+        "murmur2": 1860463296
+    },
+    "fileSize": 7007581,
+    "sources": {
+        "curseforge": {
+            "projectId": 336184,
+            "fileUrl": "https://edge.forgecdn.net/files/4976/252/EnigmaticLegacy-2.29.0.jar",
+            "fileId": 4976252
+        },
+        "modrinth": {
+            "projectId": "IpUWAlqM",
+            "fileUrl": "https://cdn.modrinth.com/data/IpUWAlqM/versions/mkqkIwez/EnigmaticLegacy-2.29.0.jar"
+        }
+    }
+}

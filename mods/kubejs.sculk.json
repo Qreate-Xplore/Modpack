@@ -1,0 +1,21 @@
+{
+    "filename": "kubejs-forge-2001.6.5-build.7.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "a41d08fbf8148a198c438e74d426c6f79bb901f1",
+        "sha512": "71983984d6aaba03ea0ba535e6bde59500991c61f8357111e85d7e6d3d454f4a53408104ddc3566fd45f837251c21e7112a0e30affdc1b2cdf2059946ff7adb0",
+        "murmur2": 1343039795
+    },
+    "fileSize": 1651674,
+    "sources": {
+        "curseforge": {
+            "projectId": 238086,
+            "fileUrl": "https://edge.forgecdn.net/files/5268/32/kubejs-forge-2001.6.5-build.7.jar",
+            "fileId": 5268032
+        },
+        "modrinth": {
+            "projectId": "umyGl7zF",
+            "fileUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/YAwgjR2e/kubejs-forge-2001.6.5-build.7.jar"
+        }
+    }
+}

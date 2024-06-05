@@ -1,0 +1,21 @@
+{
+    "filename": "redirector-5.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0b246b2648a2e463f243852fdd1ef8c2931da19c",
+        "sha512": "ba00e39e30c255be0db2baa81fa876d349f9f7d7c4d49505c95cb56c13b90dfb654c63797d24208314422f6f632b74f58ab8caa65e02a15123aff8c24c6dbe10",
+        "murmur2": 3492161874
+    },
+    "fileSize": 5793,
+    "sources": {
+        "curseforge": {
+            "projectId": 877289,
+            "fileUrl": "https://edge.forgecdn.net/files/5224/17/redirector-5.0.0.jar",
+            "fileId": 5224017
+        },
+        "modrinth": {
+            "projectId": "nzRWPE5v",
+            "fileUrl": "https://cdn.modrinth.com/data/nzRWPE5v/versions/vnotZ9tN/redirector-5.0.0.jar"
+        }
+    }
+}

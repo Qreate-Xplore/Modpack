@@ -1,0 +1,17 @@
+{
+    "filename": "brutalbosses-1.20.1-6.8.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "81732510cdcde32f9083925be35f4c40ff510630",
+        "sha512": "cfe494d214f038058655788884583a281faf09b5f7adc9cf9ef8058d32aa2d1f9b9a6da47eaabaf425c34087f9680b1a956afb901c65aa3b03ce6558ab78a37d",
+        "murmur2": 3852046747
+    },
+    "fileSize": 172211,
+    "sources": {
+        "curseforge": {
+            "projectId": 557999,
+            "fileUrl": "https://edge.forgecdn.net/files/5157/161/brutalbosses-1.20.1-6.8.jar",
+            "fileId": 5157161
+        }
+    }
+}

@@ -1,0 +1,1516 @@
+{
+    "formatVersion": "1.1",
+    "name": "Qreate-0.1.0",
+    "author": "",
+    "version": "1.0.0",
+    "minecraft": "1.20.1",
+    "loader": {
+        "type": "forge",
+        "version": "47.2.20"
+    },
+    "manifests": [
+        {
+            "path": "mods/cull-less-leaves-reforged.sculk.json",
+            "sha256": "7765d27b757f774c6fa0a334f37f14eb01e6823df719f5f3fca354fbba209bfd"
+        },
+        {
+            "path": "mods/immediatelyfast.sculk.json",
+            "sha256": "cdcd6ce136dc179517c5189b476a1b8917d5c09433d405cc2bc02ada21089010"
+        },
+        {
+            "path": "mods/botania.sculk.json",
+            "sha256": "4e9b16a1f470ab7702714cfc042eb0f046e42d79e62925fc3f77fba584980fc9"
+        },
+        {
+            "path": "mods/cb-multipart.sculk.json",
+            "sha256": "ec5e5ce94b146b30d6213c47b53bfd2bcb4f4e88e05c9bde1f87f83ba95ad4a0"
+        },
+        {
+            "path": "mods/geckojs.sculk.json",
+            "sha256": "a5c24601f757e771c553624fc8d4875a8da24024ac34421ba844380fd399d2fa"
+        },
+        {
+            "path": "mods/emi-create-schematics.sculk.json",
+            "sha256": "ff694d6d79dbe8235ee5053afd188264bd595be24ccee37db0adea029343e1fa"
+        },
+        {
+            "path": "mods/attributefix.sculk.json",
+            "sha256": "d607061de92d979003b807b54ca81ddfe2d19ee92ab9c6708bcdfcde8a603221"
+        },
+        {
+            "path": "mods/pig-pen-cipher.sculk.json",
+            "sha256": "1f2294eb32f82f99078d0bc23d292825664e383205efe3d38d1fcb277edc7e3e"
+        },
+        {
+            "path": "mods/natures-compass.sculk.json",
+            "sha256": "3eb4e6215af26f3fa467d0ac8fb41ffd12ac51a6243eb4c8970553a54aefeff2"
+        },
+        {
+            "path": "mods/stellarity.sculk.json",
+            "sha256": "f4f52d6699c0df3462bf703146a894e049ac303e399b6314cf65310b1ef75937"
+        },
+        {
+            "path": "mods/codechicken-lib.sculk.json",
+            "sha256": "588aaad7a6c720301b911dd52700461c4cbb5279db02f59a4c32db70d2b771ca"
+        },
+        {
+            "path": "mods/electrodynamics.sculk.json",
+            "sha256": "03a5279c797ce4f2ab44f067d6ef7c638eeee645328658af3462d5a36bd4e94d"
+        },
+        {
+            "path": "mods/jei.sculk.json",
+            "sha256": "1d729e4ba7750ce915c2256f3278847edf31f582c0a9452870195ca59a1733f0"
+        },
+        {
+            "path": "mods/runelic.sculk.json",
+            "sha256": "bae39559697118097f26f0bf485b2b28ef422d5b2f1aba6ee695dc6d176a77f4"
+        },
+        {
+            "path": "mods/masterful-machinery.sculk.json",
+            "sha256": "3517a1fd0ed95925eff75ff8de9c4e8b33e29f4b9110ca57fd5a8c799d3e3557"
+        },
+        {
+            "path": "mods/powah.sculk.json",
+            "sha256": "b793216754a1eda05176479942bb9dcee335435822526ef8455fb6f6c3062232"
+        },
+        {
+            "path": "mods/natures-aura.sculk.json",
+            "sha256": "0b19f82b27b54b19d40c9d03a826120632d9080e7f38d07fb0e1498fbf786434"
+        },
+        {
+            "path": "mods/philips-ruins.sculk.json",
+            "sha256": "bd88c406b054f22f9c013182d44a5a3740b7df59fb1a5888984ff0faebfbb18d"
+        },
+        {
+            "path": "mods/extraquests.sculk.json",
+            "sha256": "acf977879ca7285d76d3429c6efda9b190c5ac8a7117d716334f9170d77746b4"
+        },
+        {
+            "path": "mods/configured-defaults.sculk.json",
+            "sha256": "323f886bb2d21603b2b32f52e770febf8d2e9db828c37d435c349dfd62f80f53"
+        },
+        {
+            "path": "mods/max-health-fix.sculk.json",
+            "sha256": "1db49c25dd6f8220a1fd416100be1c26a7e18b227ed6591b09db171a0ef2f29b"
+        },
+        {
+            "path": "mods/better-compatibility-checker.sculk.json",
+            "sha256": "dd6f4291e3442794a71660901692f982f5c1241f7eb02fbd998657ae591189d9"
+        },
+        {
+            "path": "mods/patchouli.sculk.json",
+            "sha256": "d40b40ac383bd6f9470ea30e8c88eb1cdffa580f0cc449525b4e1f5b9d20f1f1"
+        },
+        {
+            "path": "mods/pehkui.sculk.json",
+            "sha256": "33211c1fa037db3e1c649f42916055e32bf865b0937ceac0ec98feda99f47609"
+        },
+        {
+            "path": "mods/no-see-no-tick.sculk.json",
+            "sha256": "a87a63ca14a8904ab743cfcdd0e05f0c8a1cb2266d9ed1b17038410dbb6036f0"
+        },
+        {
+            "path": "mods/item-obliterator.sculk.json",
+            "sha256": "c0cc4aea549439a4e518c58e7ba97c322a446e21565ffe574ea3abea961c4570"
+        },
+        {
+            "path": "mods/mekanism.sculk.json",
+            "sha256": "789b2ae3fff8916b9c67b0d651affe9206519deacd5f4aef376a38422336d9a1"
+        },
+        {
+            "path": "mods/ai-improvements.sculk.json",
+            "sha256": "9c9e3b1c90c6d277125be5f179238a77a7568852ca8b2a692057c245cbcc79f3"
+        },
+        {
+            "path": "mods/hammer-lib.sculk.json",
+            "sha256": "739943a39139f73855a3c852cf274d2547e92eece8a4e7e7075ef46b58dbb79b"
+        },
+        {
+            "path": "mods/connector-extras.sculk.json",
+            "sha256": "54d24ba60dce392cbca90455ab1ebfea5330dac69be098e1b063de725f0a8614"
+        },
+        {
+            "path": "mods/quark.sculk.json",
+            "sha256": "572867edb271e797fee637494530c3e2e04750b20c5209bdb44bba012674cd09"
+        },
+        {
+            "path": "mods/edivadlib.sculk.json",
+            "sha256": "c57f8ca8573acce72dd84a89d1779a0db351a4f631c3a8573dc2d9544be6a7aa"
+        },
+        {
+            "path": "mods/create-questing.sculk.json",
+            "sha256": "d0562b345856d11726cddefb241735d8f221935eac40e5d0d9e4112397fb61c1"
+        },
+        {
+            "path": "mods/enchanting-infuser.sculk.json",
+            "sha256": "19fbdcf1b1f289f325d348163acf8525e29931735df0b45ff3d15be6cb9a117c"
+        },
+        {
+            "path": "mods/explorers-compass.sculk.json",
+            "sha256": "4784ff148ce3e45a89f3b38f6e3b875988da93be2cacc268fc2992e1a64e89a1"
+        },
+        {
+            "path": "mods/nuclear-science.sculk.json",
+            "sha256": "9be25798c81cc48b572ada7cddbb6ae19021e21cbe63621d633207fe6e8a86f8"
+        },
+        {
+            "path": "mods/leaves-be-gone.sculk.json",
+            "sha256": "308d54efc6a20b9fda2cd4a0e256aec10b3edc80cef3a91aac914418190e6cd5"
+        },
+        {
+            "path": "mods/puzzles-lib.sculk.json",
+            "sha256": "49a19c481055cdba9eadf65ba8014c1e9796bb367236b2f9a94d02ffe96ce4c8"
+        },
+        {
+            "path": "mods/farmers-delight.sculk.json",
+            "sha256": "ecac88041caa9d24371623fc309ff5d59022a56c63dec21e902b955b1db1ba06"
+        },
+        {
+            "path": "mods/lostfeatures.sculk.json",
+            "sha256": "145094f1b0e1ec65eab4d7df68c687afe09d7306d0de88ebee99a207adb4ec07"
+        },
+        {
+            "path": "mods/remastered-structure.sculk.json",
+            "sha256": "0d394102c4ae809ee0ce7785f92ef177a9a5c9cb6b33b505473d9bedd2db9d9c"
+        },
+        {
+            "path": "mods/dungeon-now-loading.sculk.json",
+            "sha256": "f82dbfbc44707fc1f399bdf2781fc1d237e3e6f9067b4d163fe5eaea44b94ef7"
+        },
+        {
+            "path": "mods/extrastorage.sculk.json",
+            "sha256": "a94d920656e49e48ac886e991004a151e984a51466242088b9be0621d2a4860f"
+        },
+        {
+            "path": "mods/create-dreams-and-desires.sculk.json",
+            "sha256": "9b70a5610aab0694b90353067f39e040f598a8f49937f80f568bbf5f1960f2fe"
+        },
+        {
+            "path": "mods/chunky.sculk.json",
+            "sha256": "cca168e9643031227978816c1b830dc8e902f630b3db14ab933c1a6a988aec3f"
+        },
+        {
+            "path": "mods/dark-utilities.sculk.json",
+            "sha256": "982b97db3842931bfcbd50fa7e9e9c423af24e2f27f3f5867340f4d38611e4ad"
+        },
+        {
+            "path": "mods/badoptimizations.sculk.json",
+            "sha256": "2c4d03cbbb61a4705137fecb8b6b48ba439dfbc236948cfcd0cbfe63e09d3a54"
+        },
+        {
+            "path": "mods/bookshelf-lib.sculk.json",
+            "sha256": "6dc23d076736c782e37eb4a915d8fe46d484a54a86097971a4ccde732097f1a6"
+        },
+        {
+            "path": "mods/achievements-optimizer.sculk.json",
+            "sha256": "25391867b8840deda08ace834043c2e193a20151aecff1b425a53116c2966a30"
+        },
+        {
+            "path": "mods/geckoanimfix.sculk.json",
+            "sha256": "3d20e27825a1e60666250185d5ba9392b47af7838fb83d106283653f4f3a708c"
+        },
+        {
+            "path": "mods/enigmatic-legacy.sculk.json",
+            "sha256": "30e990d1f9710b5ed61c1d2b75ee45558f76c2ec40ee5d02577e9272126b48ca"
+        },
+        {
+            "path": "mods/jade.sculk.json",
+            "sha256": "0646f553379f8cbcd9110c25ddd4bfcc9f41eb1510701c0c866d28b1498694cb"
+        },
+        {
+            "path": "mods/mouse-tweaks.sculk.json",
+            "sha256": "88ad161ce6dd225e33e732963575b1f50a7229ba1e94833e8ccbc134127a5280"
+        },
+        {
+            "path": "mods/illager-invasion.sculk.json",
+            "sha256": "5f17010a7cf7e7b4e73af7fc8199594f19d9338ba2d7387296a409d6128bd8a9"
+        },
+        {
+            "path": "mods/shut-up-gl-error.sculk.json",
+            "sha256": "8799d8bed3bbcdd245b96c2554a9277c5de0a7317271e1e659a0d3156609db33"
+        },
+        {
+            "path": "mods/necronomicon.sculk.json",
+            "sha256": "fecd724d914ef65a06b8d6c5725c47f9a4ad4117734479aad3da5fb30060cf55"
+        },
+        {
+            "path": "mods/libx.sculk.json",
+            "sha256": "73937c89bc2877ff2eae144ac9db50a64335d9f36c925198cbb2bdb463bbe7b0"
+        },
+        {
+            "path": "mods/icterine.sculk.json",
+            "sha256": "eed18f16e3a2d2ee722c5d310667031e19b9b3e59d2c8523acf61fc1473eebb2"
+        },
+        {
+            "path": "mods/fastload.sculk.json",
+            "sha256": "0b7f01a1ffcb2092e16baf86fa8ae716f0ebc8b1d275846a982691db6b5492cf"
+        },
+        {
+            "path": "mods/kubejs-thermal.sculk.json",
+            "sha256": "f0359e383ea8ed9ee3ddf80b0f43f8a45ca062c0a195a3622e63ad6e7ade7fc8"
+        },
+        {
+            "path": "mods/badpackets.sculk.json",
+            "sha256": "5be1a982791909fca03a4853658c9a989baebd72b030a91de45adb2ae392c83a"
+        },
+        {
+            "path": "mods/refined-storage-addons.sculk.json",
+            "sha256": "a1acea6d9aec3e8ebf471e1fd82a2e998ae6c8290ca4b3d4a8bd190c0598601a"
+        },
+        {
+            "path": "mods/formations-nether.sculk.json",
+            "sha256": "fa889cceb29341254e2050b802a4f10501af8b94d5320daefb46691dbde021b7"
+        },
+        {
+            "path": "mods/moyai.sculk.json",
+            "sha256": "193df50a0ccde8809e945e731c374e1d1bd576ad0e65dcc950fdc22111f828c7"
+        },
+        {
+            "path": "mods/too-many-glyphs.sculk.json",
+            "sha256": "e026d363117c71f6c06c3e41f1ba640cca99084c75cb36d9fd8ff9d54986c1ab"
+        },
+        {
+            "path": "mods/connectivity.sculk.json",
+            "sha256": "88cff1fb04bb6a724f8346545287a89419c48fd1cf9bdf27dd66ef7127c0e88b"
+        },
+        {
+            "path": "mods/click-machine.sculk.json",
+            "sha256": "a76f0e251b7795a0569045532f535653efe6e4eed1a78b1d98281e1ad8f24c4a"
+        },
+        {
+            "path": "mods/framework.sculk.json",
+            "sha256": "44c95d2dce9e72509d1f9d48392f3dcb484ec1f72b1c98af1060510a659d2bf5"
+        },
+        {
+            "path": "mods/better-fps-render-distance.sculk.json",
+            "sha256": "e44ee00c7b44feb7ef5d158c956cf8d189c7f06a81ffc597fa01d741547201bd"
+        },
+        {
+            "path": "mods/enchanting-infuser-forge.sculk.json",
+            "sha256": "19fbdcf1b1f289f325d348163acf8525e29931735df0b45ff3d15be6cb9a117c"
+        },
+        {
+            "path": "mods/better-chunk-loading-forge-fabric.sculk.json",
+            "sha256": "6f3f3ee95024e33f636c2519a4bb28b1dfbcf08ae242b520c04da2c3f3cd98b2"
+        },
+        {
+            "path": "mods/createaddoncompatibility.sculk.json",
+            "sha256": "fd8bf875eae6f7518cefadfada987487cf89077100a6fa67144455e88f12724c"
+        },
+        {
+            "path": "mods/create-industry.sculk.json",
+            "sha256": "d56627cba6613184fe06c5ec91b51cafbc5efadb62b768d7143f23e3f5afe706"
+        },
+        {
+            "path": "mods/async-locator.sculk.json",
+            "sha256": "aa1ae9e8bc2948a54c73166ebeea509a7134a8d2d2849bd715cddcccdc92d8da"
+        },
+        {
+            "path": "mods/notenoughrecipebook.sculk.json",
+            "sha256": "4d6e4a51b30eabed507e230ee9dc28772a2ff3460e931895d618814d8de503c4"
+        },
+        {
+            "path": "mods/yungs-better-nether-fortresses.sculk.json",
+            "sha256": "5163bed0d2fa98400c10571588e9bf144f8bb126558119c9ffe4aa57bbb2d8ac"
+        },
+        {
+            "path": "mods/sophisticated-core.sculk.json",
+            "sha256": "aae3d359f01552535f30568b568f97a62e3211b259dd9c446c47012a9390a56e"
+        },
+        {
+            "path": "mods/appleskin.sculk.json",
+            "sha256": "012caa94e14019837c8976ed17540ff7a754696a33ec0dd5e07e46d40f63fb2c"
+        },
+        {
+            "path": "mods/construction-wand.sculk.json",
+            "sha256": "0f61b7c0b28d0afba6ce3db28c6c129b977ea807e928ea626b32bce737197688"
+        },
+        {
+            "path": "mods/mobtimizations.sculk.json",
+            "sha256": "958e4a5350148d12d0377ee59bebfc6d0c6d72b25195a2d6a841d8b3d8e150aa"
+        },
+        {
+            "path": "mods/refined-storage.sculk.json",
+            "sha256": "447bb6f1e9774d6de365ae0f6e221a29eb5dff580be0af5694f77bb7f3b27e76"
+        },
+        {
+            "path": "mods/embeddiumplus.sculk.json",
+            "sha256": "c6398c2f99e677f8397ea4496114d33d851ce7198d3d02d61d014debcb43ccaf"
+        },
+        {
+            "path": "mods/industrial-foregoing-souls.sculk.json",
+            "sha256": "b8eafe7cfef0694b899e01ebf4147c13f6e4ad08f219429d20e591075de6f2b7"
+        },
+        {
+            "path": "mods/gobber.sculk.json",
+            "sha256": "a5f2240805e172db6b9dcc8be1e6606f915cac4123b2a520ea2a49fee5566e33"
+        },
+        {
+            "path": "mods/configured.sculk.json",
+            "sha256": "e8f229f13a8ccace0c8be6cc95494a1359a91c83d02756bdd9a1c42c2b71eaf6"
+        },
+        {
+            "path": "mods/enderman-overhaul.sculk.json",
+            "sha256": "6b1558ca4308ba5db1a38aede6a16de32b8fe8f29c1f5a45bfda8aa477765fc6"
+        },
+        {
+            "path": "mods/yungs-extras.sculk.json",
+            "sha256": "eacadb8db695f3bde5fc97ea1de4c647456e8c1b6b6cf3b213ec73994f2de50a"
+        },
+        {
+            "path": "mods/geckolib.sculk.json",
+            "sha256": "a4c4fcaac52959143cc30c11ca088b85342888c2ba96a3a7ad82e8cec82f7ea7"
+        },
+        {
+            "path": "mods/createaddition.sculk.json",
+            "sha256": "4aeb5a29e0944e5bd811171b6473139039bde215d7d1d64dfc0a1bd6106d6f27"
+        },
+        {
+            "path": "mods/xaeros-minimap.sculk.json",
+            "sha256": "7317f3e379338cd05d7aadba1548e7d1a595bdb59047d84dc3ec9c8934f95140"
+        },
+        {
+            "path": "mods/smooth-chunk-save.sculk.json",
+            "sha256": "9e869cad1dc8b59a067a0af47f23be724b4f46363fef9cf36864beb3a14fca06"
+        },
+        {
+            "path": "mods/yungs-better-dungeons.sculk.json",
+            "sha256": "9d67bd2c3d7eccbab21b73ac0c6bd6bd39150c053302ba78bd157376ddbf0325"
+        },
+        {
+            "path": "mods/dimensional-threads.sculk.json",
+            "sha256": "dd0cce9d7cbf36a67108ccfe21725549dddfc9787c1035f17e3635732194d448"
+        },
+        {
+            "path": "mods/jagms-kiwis.sculk.json",
+            "sha256": "b34e9a0f2ec95f4b590d562e261aa09c1d618559f4f7a98a5c6ecd1203c9e795"
+        },
+        {
+            "path": "mods/mobs-of-sins-alexs-mobs-integration-forge.sculk.json",
+            "sha256": "760b89b8615ef5077c7ba0d5d833faea958a5a91bdf0ac9d986f9359dbfa68e1"
+        },
+        {
+            "path": "mods/the-twilight-forest.sculk.json",
+            "sha256": "4b17a8ffb7d905841be75fcc191139f6bf91a25a417d7ce7383405106862bc4b"
+        },
+        {
+            "path": "mods/kubejs-ars-nouveau.sculk.json",
+            "sha256": "d0ed71bfa525f763126cd615645ed197d63f15b92eb509f4a3603d8af80040bf"
+        },
+        {
+            "path": "mods/chunk-sending-forge-fabric.sculk.json",
+            "sha256": "31311f52dffee69b4fe9ea195cf106d5602f782f14db164493b79d9123a63dd6"
+        },
+        {
+            "path": "mods/time-in-a-bottle-forge.sculk.json",
+            "sha256": "af82ac3f5ad9b1bc1ee1ba1af0075bc7c5cc33e096b6b0626d068dcbc1f12bc9"
+        },
+        {
+            "path": "mods/compressedcreativity.sculk.json",
+            "sha256": "a1a8fa06660df7128f38f87ef1c8e5d058dc64a11edb10b6f9cd35bed3428b88"
+        },
+        {
+            "path": "mods/sinytra-connector.sculk.json",
+            "sha256": "300bf361b1459241804aec4f10757a512583536ce27444997eb55ceba05716e2"
+        },
+        {
+            "path": "mods/thermal-foundation.sculk.json",
+            "sha256": "6ebbcd68c87829b62030c659ecf228a823a7cb25aa441fd2fc8d2ffb2acb7997"
+        },
+        {
+            "path": "mods/umbral-skies.sculk.json",
+            "sha256": "2731c64a873b85bc2658c0c324a46bebf54d8b679f2bf64bcf5c2a85391a5f32"
+        },
+        {
+            "path": "mods/majrusz-library.sculk.json",
+            "sha256": "52a0b74c8c57bf7f6945ae7445489d39da5afdae0e364ef0656fb98be113089f"
+        },
+        {
+            "path": "mods/saturn.sculk.json",
+            "sha256": "2b75fdccf54f04f25aa1d7c3fe325fbe7550022446585fa95695da78c5f9e7d2"
+        },
+        {
+            "path": "mods/starlight-forge.sculk.json",
+            "sha256": "407becd6f3a256da63367198d8a1a8dc31387a50a7dedfa4bead7b2d24eed591"
+        },
+        {
+            "path": "mods/subterrestrial.sculk.json",
+            "sha256": "c9ec3e16565772926a49eb5594cc79af184fcee6b6e875efeec910133a97e941"
+        },
+        {
+            "path": "mods/ruins.sculk.json",
+            "sha256": "bd88c406b054f22f9c013182d44a5a3740b7df59fb1a5888984ff0faebfbb18d"
+        },
+        {
+            "path": "mods/smooth-boot-reloaded.sculk.json",
+            "sha256": "acaa08bddf0ba7dae6975682b5b9b0d89652299d5eea61ff511f214a5470278e"
+        },
+        {
+            "path": "mods/integrated-stronghold.sculk.json",
+            "sha256": "0c085b8c9e6a5d9f9378ffb57f912d30af1cb8c467be3daee72a6416b66e12fc"
+        },
+        {
+            "path": "mods/zeta.sculk.json",
+            "sha256": "67f12ecd5172f7422363bbff7ae839b2fefc32463c2786fbf63fba30f9df8f66"
+        },
+        {
+            "path": "mods/entityculling.sculk.json",
+            "sha256": "2e2b1b908639d66204c2b708384de87cd34d8e2feb4e9ba341da84596d7daf3e"
+        },
+        {
+            "path": "mods/ftb-quests-forge.sculk.json",
+            "sha256": "81c63d40703ab7902fa466b05e4350ee97756f969ebac8669a1e1d0efaea4840"
+        },
+        {
+            "path": "mods/simple-corinthium.sculk.json",
+            "sha256": "bb2253b0493b1de5b1bc86263dfd17cdff54d3ab8fe5b601c024035aeeeee2e4"
+        },
+        {
+            "path": "mods/create-teleporters.sculk.json",
+            "sha256": "22075769c8caeca145376d0a8070a53213d654cd947a2e2608797d4e7b5fb696"
+        },
+        {
+            "path": "mods/thermal-cultivation.sculk.json",
+            "sha256": "0d26eac5f4112b891959020020c365b50009e4d5f08ab02befd8612feca13a50"
+        },
+        {
+            "path": "mods/formations.sculk.json",
+            "sha256": "102a7ad93046684775c54bf22ba2c7486f77cceaa3596b8a1768bacd9cdd366e"
+        },
+        {
+            "path": "mods/yung-structures-addon-for-loot-integrations.sculk.json",
+            "sha256": "ec27aa6d3825050796ace2d6ac1f9b2f80bf4df0ac78c77c00f6429631fd3286"
+        },
+        {
+            "path": "mods/ferritecore.sculk.json",
+            "sha256": "a12423681919a5be8f8bb39e854b0abb91830748f494ea5dfc6e975878a07285"
+        },
+        {
+            "path": "mods/paragliders.sculk.json",
+            "sha256": "82e117df89c0361b331e669854045095892532abb93965a90db37cdccbc96c2c"
+        },
+        {
+            "path": "mods/supplementaries.sculk.json",
+            "sha256": "e9720430baa8db8a89334efec710cf15eccd72bafdcc5850f00ef17d4141f426"
+        },
+        {
+            "path": "mods/alexs-caves-torpedoes.sculk.json",
+            "sha256": "e246cb9b6cb1983d7a6709ebca148be757b88c82b98bfdfac2c0ceddbf7147e6"
+        },
+        {
+            "path": "mods/you-shall-not-spawn.sculk.json",
+            "sha256": "ddd234067853af5729a6e90416cfc058ee632d9af728791361b23ba7d03f0e96"
+        },
+        {
+            "path": "mods/create-balanced-flight.sculk.json",
+            "sha256": "919901fa048e78905727b8b92b3aab9a06a4af2fcaac2ee66928b72ad079f506"
+        },
+        {
+            "path": "mods/controlling.sculk.json",
+            "sha256": "defb40b7bfd880724d0379604eb3a2d43c355de6c5549cf10894d2a5f431120b"
+        },
+        {
+            "path": "mods/mangos-multiblock-library.sculk.json",
+            "sha256": "6f14af3fff1fe716ff2dbb28194cc1533227f61a9a65a6dfa82f58664543e6fd"
+        },
+        {
+            "path": "mods/ftb-ultimine-forge.sculk.json",
+            "sha256": "54882d843a25a3399f8b81c907ef0a31a4cd347db88676f02bfb8a61cf4470dd"
+        },
+        {
+            "path": "mods/kubejs-additions.sculk.json",
+            "sha256": "6a083918f0ba004df75d1eaa3665b867b3589a455e238af3f3f81e9f93896df0"
+        },
+        {
+            "path": "mods/autumnity.sculk.json",
+            "sha256": "2507591abe5f46eef1dac0b57b4d31830dcca80d84ad4819ca31e8cce5123e34"
+        },
+        {
+            "path": "mods/cupboard.sculk.json",
+            "sha256": "d5f9fda705b888f3c6f590eece0b9fdcd779b2eaa6d28a9df295777a52975704"
+        },
+        {
+            "path": "mods/deeperdarker.sculk.json",
+            "sha256": "b97497f4ac0392d1cbc5adfbc533952ef8164f78cbc1b5e4db9b11586e4496d4"
+        },
+        {
+            "path": "mods/cloth-config.sculk.json",
+            "sha256": "28c3febdcc06b2e2af1e6794da57811c1a2bc6d62cd20449270b7d300dee4de7"
+        },
+        {
+            "path": "mods/kubejs-offline.sculk.json",
+            "sha256": "239826e94195fc2a2dc1a31969302eb3b2211d5af6ec8f4a44ab22132b7ef97c"
+        },
+        {
+            "path": "mods/create-stuff-additions.sculk.json",
+            "sha256": "00d060564f99a446c4f975042c940af916f15b872bd0fb9384c1af5306cfa31c"
+        },
+        {
+            "path": "mods/playeranimator.sculk.json",
+            "sha256": "83a4957d5ddcf2477fb499861f3d0ffd5dee052e863da2826be3f1ab82872668"
+        },
+        {
+            "path": "mods/entangled.sculk.json",
+            "sha256": "de32de0c30614e31b07e51554639f4dce270080d0dcd5fe65529bceaea9a1edf"
+        },
+        {
+            "path": "mods/noisium.sculk.json",
+            "sha256": "cbc3cf060c0370558eedceea78dfa230aff4d34ea7a4cca62ceb57fdddae500b"
+        },
+        {
+            "path": "mods/emi.sculk.json",
+            "sha256": "af313b5c84dc87cc3345a1f77d2d3174307b78e2638ace04ade2013789b24d9c"
+        },
+        {
+            "path": "mods/lios-overhauled-villages.sculk.json",
+            "sha256": "f22fd9acd923f41172f56dfec49842599833878b1d5b84bc3636a8c23e2309ef"
+        },
+        {
+            "path": "mods/origins-classes-forge.sculk.json",
+            "sha256": "b633ecb0334657c6b3378cd42c89aa9d4199c45eff255ccb893c28dfb1f6b65d"
+        },
+        {
+            "path": "mods/create-sifting.sculk.json",
+            "sha256": "6a562f11642e90b9b9faf0be3af1f64c8454c27de8c044de60f6fa9ed95020c1"
+        },
+        {
+            "path": "mods/little-logistics.sculk.json",
+            "sha256": "feb1cb9570cb9fb1b10872656e58873a02b3256d2f20a7f0f2d2a271e7f4f96c"
+        },
+        {
+            "path": "mods/create-irradiated.sculk.json",
+            "sha256": "2bc44c7ae89b935857462026b41245c3ec2297675c7575d48fc1a8a827b22794"
+        },
+        {
+            "path": "mods/dungeon-crawl.sculk.json",
+            "sha256": "1e28afc04ad7f4136412a30cb80608e097b106db68b02c083514db6b2e4d5e08"
+        },
+        {
+            "path": "mods/creeper-overhaul.sculk.json",
+            "sha256": "91be4ac51c85bd928085d3e8dad7d51f10c6f09061b7e70c71af3b47ec29ec28"
+        },
+        {
+            "path": "mods/cofh-core.sculk.json",
+            "sha256": "8f376f8ff89bf0fc3f5bb6aceb1d9989e4389f48f6e3ea69002a6a2c3ef8dc54"
+        },
+        {
+            "path": "mods/rftools-base.sculk.json",
+            "sha256": "8e203911a85cdb44659bbb87fe5391dd9166f1f46ffa356b5a11e70c81851c5c"
+        },
+        {
+            "path": "mods/modonomicon.sculk.json",
+            "sha256": "7f4c923b2480d385d8ab5d25eaedfb3585a7987744427e6854227ff8fe78ada3"
+        },
+        {
+            "path": "mods/create.sculk.json",
+            "sha256": "8e853931ef612b5d8bdafff821d38913a7286ecc403f24d0aa342fe4cb6fff4d"
+        },
+        {
+            "path": "mods/oculus.sculk.json",
+            "sha256": "9ade79ad515def6cc8a97b6c04fd24864007fc5ebf5214dd9b98315f56a0f612"
+        },
+        {
+            "path": "mods/resourceful-lib.sculk.json",
+            "sha256": "cbb59af3bc8f800b139134959f588e5f86a456f78cb986a7720db24fea5f191c"
+        },
+        {
+            "path": "mods/xaeros-world-map.sculk.json",
+            "sha256": "0bad0667f00bb58ba5585baaff2b408c12c37b7c10d9a08acb9304929cc45580"
+        },
+        {
+            "path": "mods/create-creating-space.sculk.json",
+            "sha256": "45df2abe86bd2463aee17bd04c0a8b8ef94769a2dde5362e6fdcff5b9e7944d2"
+        },
+        {
+            "path": "mods/curios.sculk.json",
+            "sha256": "a4fd1d554800f39831ef965cd391e00d9cc69f11dc3ee0abf9026e4fe805b7ef"
+        },
+        {
+            "path": "mods/yungs-better-desert-temples.sculk.json",
+            "sha256": "698223bc50bbf6621c4f106e5b29a3ae08d50c8ce2ce8220998d6858b8e9c698"
+        },
+        {
+            "path": "mods/formations-overworld.sculk.json",
+            "sha256": "1479d4bc525bb582899456734e153575fbb8a63d6622310110533c2cf927d588"
+        },
+        {
+            "path": "mods/difficult-caves.sculk.json",
+            "sha256": "e34dd734962564d79ca59b994ff08fbe2359a6040b4242edffeffedebf0e1a8e"
+        },
+        {
+            "path": "mods/moogs-voyager-structures.sculk.json",
+            "sha256": "f215af5de15e325e1525c608c80b1780055073890e2a74019bcf239e658f3cf2"
+        },
+        {
+            "path": "mods/kubejs-natures-aura.sculk.json",
+            "sha256": "51773f2ccf05ada3cf8db9b0eecdd54801e536df52ace8306704b779199e5031"
+        },
+        {
+            "path": "mods/codechicken-lib-1-8.sculk.json",
+            "sha256": "588aaad7a6c720301b911dd52700461c4cbb5279db02f59a4c32db70d2b771ca"
+        },
+        {
+            "path": "mods/embers-rekindled.sculk.json",
+            "sha256": "980bed963e9b10c7c853c14873597de36aed48c9bf3118cb18868aee8a273795"
+        },
+        {
+            "path": "mods/lost-features.sculk.json",
+            "sha256": "145094f1b0e1ec65eab4d7df68c687afe09d7306d0de88ebee99a207adb4ec07"
+        },
+        {
+            "path": "mods/model-gap-fix.sculk.json",
+            "sha256": "d550a764eea310fd94b640395691695d4fbfbe7b3c137b850a76930487bd23ad"
+        },
+        {
+            "path": "mods/coolcatlib.sculk.json",
+            "sha256": "487776900fa8c1a3a3c74a46b027fec2289508036df8340f792f9397f734cad4"
+        },
+        {
+            "path": "mods/lithostitched.sculk.json",
+            "sha256": "fb88aae6c77ac42a108e65af70c86a5ed3aefded4e5029883b1bbc1834650bf1"
+        },
+        {
+            "path": "mods/octo-lib.sculk.json",
+            "sha256": "e9f0ab09ffbdba30e2ab73ee97e6d6b9c4f37fca05e25fc5221e28b57cb08397"
+        },
+        {
+            "path": "mods/create-molten-vents.sculk.json",
+            "sha256": "ab8a15fad83b246e089e2d713b619f72b2ebe3462d552c7b88d8168366eda249"
+        },
+        {
+            "path": "mods/lootjs.sculk.json",
+            "sha256": "44b9efcedee6761008bd6dd304bbbdcd9c101eaa591a0703429f80b58f76c322"
+        },
+        {
+            "path": "mods/kubejs.sculk.json",
+            "sha256": "4f64d9a53bc53c2cc6b3a90394831bfc59da79c381e5d5d7e816557c51bb7538"
+        },
+        {
+            "path": "mods/create-vintage-improvements.sculk.json",
+            "sha256": "55c0353323eb9a525a7d5a5ec163dd27703b93e0343fc256a96aac3b5d74c5ed"
+        },
+        {
+            "path": "mods/explorify.sculk.json",
+            "sha256": "ec5a52199aa9e7bd146e66fcb02806e5f4e46866dfae4ef14e5de119f32cce01"
+        },
+        {
+            "path": "mods/forgified-fabric-api.sculk.json",
+            "sha256": "ebf703b9ee30afb86c8ae6e4489b2b1d888b5338dd1c5ca43f2cef5ca3163558"
+        },
+        {
+            "path": "mods/forbidden-arcanus.sculk.json",
+            "sha256": "1d5fa70d3a4131b23649631d7b32b74e227d1e2366ee7882bbd7472f9107aa93"
+        },
+        {
+            "path": "mods/fast-ip-ping.sculk.json",
+            "sha256": "9f0ef5ceae3eefd69cd8455760b7c5fd1b4f947de625c905e238ca79f9b7a21b"
+        },
+        {
+            "path": "mods/uniquedungeons.sculk.json",
+            "sha256": "e0a28281436573f7509889c5c562231f0de6e9ad1992d158336b7b9c9bbac250"
+        },
+        {
+            "path": "mods/fast-paintings.sculk.json",
+            "sha256": "d099ba7f6c2ff340ccf02b0efe8582c72ee3e22c9ba009bbf14e2cc79898c9a2"
+        },
+        {
+            "path": "mods/create-enchantment-industry.sculk.json",
+            "sha256": "1e1e83a414944b58b07e477e1d19990988b50b3ca80cd2dbe52a665ca22dc58c"
+        },
+        {
+            "path": "mods/aether.sculk.json",
+            "sha256": "63cb6b1b547b674f4d9b2ec7a433aaf97e2e27daa425e52b715e7b5a1676d5c2"
+        },
+        {
+            "path": "mods/blood-magic.sculk.json",
+            "sha256": "70478d9eec6c997e538cb60332b69c560e93d9638463766d4ef2aca1014dca69"
+        },
+        {
+            "path": "mods/multipart-machines-mining.sculk.json",
+            "sha256": "01ed4c039063dc898c05650943ef1ec1bcf8187606dd0072ad33b0c04488f921"
+        },
+        {
+            "path": "mods/ftb-filter-system.sculk.json",
+            "sha256": "cdd4e5d0f12c2455b25e13ee56e550771a0976e5822ffc26522e5d688eeda462"
+        },
+        {
+            "path": "mods/fishing-bobber-detector.sculk.json",
+            "sha256": "feec894be112859b8c8a1d25987d3fefe355f7f833c187ea5bd8d61ae45f9428"
+        },
+        {
+            "path": "mods/born-in-chaos.sculk.json",
+            "sha256": "5cc7d723a8692a68afeb8518aecd1b1ecccddbb5a10572352a0903698573ed19"
+        },
+        {
+            "path": "mods/yungs-better-jungle-temples.sculk.json",
+            "sha256": "21d047fd51881dba0702382d36febc6ce5cca336f9359816804cfc94d5a99862"
+        },
+        {
+            "path": "mods/animal-feeding-trough.sculk.json",
+            "sha256": "c4fbb32bf674937911f153e78daf18ec80711d1128ad6a8f1e13c0993759e9c7"
+        },
+        {
+            "path": "mods/culllessleaves-reforged.sculk.json",
+            "sha256": "ebfdc705cc47c0e62313edefc5fbcb4f7fd07d5b25a1095788a1cb36b7254132"
+        },
+        {
+            "path": "mods/keebszs-battletowers.sculk.json",
+            "sha256": "e1d4e6c0c799c0f1287d4330f8b6fb993f51ce4c52cc98eef3ffaad5a2f2a3ef"
+        },
+        {
+            "path": "mods/phantasm.sculk.json",
+            "sha256": "fa6bcebfc641b8cd1c719d874b5cd15d6e56b526fac345e36757d0ce7d4b55e4"
+        },
+        {
+            "path": "mods/sons-of-sins.sculk.json",
+            "sha256": "4bb065b2f7276eed13ccebdb927fe972533014674074c8a3c811d10a1a2ba7b1"
+        },
+        {
+            "path": "mods/placebo.sculk.json",
+            "sha256": "e856ff9bab5f3ef5e7ad5d42c9dbcad35d66b404b63b1679fd389acf1be8bfdc"
+        },
+        {
+            "path": "mods/xnet.sculk.json",
+            "sha256": "74041d8a06603284d809f8252ad86ceb4ab0aa5dd5666538b65ef6b5c5c45480"
+        },
+        {
+            "path": "mods/the-graveyard-forge.sculk.json",
+            "sha256": "8072f716b3e322f312da5a999b3b3ab1d2d0ea346b1b994c9a698ea649338f4e"
+        },
+        {
+            "path": "mods/extractinator.sculk.json",
+            "sha256": "4ff803bfc7fcfd38e9efff6637f30540d78149c1dfbe473a6ea9d382d65ab32c"
+        },
+        {
+            "path": "mods/spark.sculk.json",
+            "sha256": "7cd103e031c71090547fee8d767764c1b234021cb212b54dda07f6265fb5529e"
+        },
+        {
+            "path": "mods/villages-and-pillages.sculk.json",
+            "sha256": "0ee1ff0e322aa25fdbded30dd2a09046f323cbe1e97f292c162a9f32ba56acf0"
+        },
+        {
+            "path": "mods/ftb-teams-forge.sculk.json",
+            "sha256": "e1727ba688e9ac50d773dce456e4b91afa0bdf75605522c7dd025597f8f5b5ff"
+        },
+        {
+            "path": "mods/thermal-expansion.sculk.json",
+            "sha256": "52a79284263a8da212627c1863afb4aac27d5971b4d283483816d90c61fe5a91"
+        },
+        {
+            "path": "mods/masiks-puzzle-dungeon.sculk.json",
+            "sha256": "639974c8b097d8a48e886430349859547e04147d35b501cd61da77e55bec2762"
+        },
+        {
+            "path": "mods/balm.sculk.json",
+            "sha256": "0caae0b45dc0582762d6800e4922900f038fd47176f3a219a458959ecf3cabe6"
+        },
+        {
+            "path": "mods/friends-and-foes-forge.sculk.json",
+            "sha256": "d6df5f12e16328bdcc05061f7d568f5405567f5ecfa9502a8f3ecfcf87cf5e07"
+        },
+        {
+            "path": "mods/structory.sculk.json",
+            "sha256": "be612e3d95f4cbd3ffa14adcd2b44131fe6177962711895b0c83eda5a9976c66"
+        },
+        {
+            "path": "mods/bocchium.sculk.json",
+            "sha256": "ec40e6a5cd1c9f164c58cdd44ed79c53a99663edccb315893a0f9b4142293375"
+        },
+        {
+            "path": "mods/fast-async-world-save-forge-fabric.sculk.json",
+            "sha256": "4063812c8fe673bfea58274c0e5398b8e2453ebf1e5b803182b51f5a1361b945"
+        },
+        {
+            "path": "mods/trash-cans.sculk.json",
+            "sha256": "b562985b346933ea867a4bdfe8642d7531500c43c410d4cbdaacfd5577d79090"
+        },
+        {
+            "path": "mods/staaaaaaaaaaaack.sculk.json",
+            "sha256": "de913690f2513362ad4e13eb9085e2b38f85a5d8133373a7047c6f5aa62d967e"
+        },
+        {
+            "path": "mods/polylib.sculk.json",
+            "sha256": "e39df5ab2aae13b20fb95ead609f325562dc37e04649744bab791e0e3abf3048"
+        },
+        {
+            "path": "mods/guard-villagers.sculk.json",
+            "sha256": "4c996fb2e0eee2cb5e433da17a5b60ead1c542dee0345277c5a4d4b7141cc31d"
+        },
+        {
+            "path": "mods/ponder.sculk.json",
+            "sha256": "636595da938a659ca4cd4b1d3540f7f8ac5583b8554c0ba810ecd7a2992f04f3"
+        },
+        {
+            "path": "mods/rings-of-ascension.sculk.json",
+            "sha256": "16cd680c9caead15b6381923aaaf59c4f9f19e41b1be66bcfb4ef5d3f7f0f898"
+        },
+        {
+            "path": "mods/towns-and-towers.sculk.json",
+            "sha256": "4b8b1a18b8de58caa7a436e17277a211e466af3c5ad453e1269fba9016575957"
+        },
+        {
+            "path": "mods/fungal-infection-spore.sculk.json",
+            "sha256": "9dc75e40aa5574aeca9125c55e763eb1d29270f216193df1739ea3ce89df092c"
+        },
+        {
+            "path": "mods/emi-trades-villager-trading-emi-plugin.sculk.json",
+            "sha256": "8f55d60383c6daa94dc824b0260dda42178b6c511643e3b80b31f90333114637"
+        },
+        {
+            "path": "mods/let-me-despawn.sculk.json",
+            "sha256": "12a11ab4f3e6fdfd63d43b74931f2ab88ffbb61209cc5d8ec9c4286ca16c8f0c"
+        },
+        {
+            "path": "mods/upgraded-ender-chests.sculk.json",
+            "sha256": "e8c7bf0d4e92ac0730fd422e62681d849662b1fd6df100168af5136219d397cb"
+        },
+        {
+            "path": "mods/kubejs-powah.sculk.json",
+            "sha256": "fad5eb796d2fa0990529b738e7d8741033a13cb44a8abc0422dc3ad3d6ed9106"
+        },
+        {
+            "path": "mods/pneumaticcraft-repressurized.sculk.json",
+            "sha256": "1a4ba0e931d409998aba03510bc7a4df127793a427b78d373c1ed1a1aa3745d2"
+        },
+        {
+            "path": "mods/selene.sculk.json",
+            "sha256": "05fde39c6b951146fb20ccee9302a2ddde075cc4d84a8df7362b241ff2cd525e"
+        },
+        {
+            "path": "mods/ultimine-addition.sculk.json",
+            "sha256": "21ed5fddc5ed45527ad0f92abfeade13a70017b76308e30d8f7a5cb2d0d5cca0"
+        },
+        {
+            "path": "mods/recipe-essentials-forge-fabric.sculk.json",
+            "sha256": "6e3d0448b6648a1ff9ff581a73323a53e418513838d100d57b99e656a00f8b96"
+        },
+        {
+            "path": "mods/almost-unified.sculk.json",
+            "sha256": "91d2dbad76a631fae897217dd838b5401d7c3cf91bd31cc3e60994f6ea19a7ae"
+        },
+        {
+            "path": "mods/explorations.sculk.json",
+            "sha256": "7fbc82dcff5febbf28e3b45ddab2d141e4ccf4b69b282442660d55f9ea08fa4b"
+        },
+        {
+            "path": "mods/enemy-expansion.sculk.json",
+            "sha256": "5c3852207d8a8bf2831241e2dc209c10298b0c40501dbbeff9e5b02876407cdd"
+        },
+        {
+            "path": "mods/mmmmmmmmmmmm.sculk.json",
+            "sha256": "665df28cddeda114eb26fbcb5cdb120c4d06d0bf9214673a9c484e7c0ca7def2"
+        },
+        {
+            "path": "mods/mystical-oak-tree.sculk.json",
+            "sha256": "4b7a9ab84e0de316d98fbfa346bb9d716b49a703f0295bdd1646ef95a7313cda"
+        },
+        {
+            "path": "mods/ob-aquamirae.sculk.json",
+            "sha256": "35dc8031eba63244f604a6f447d2f08015a94e16b81c7d3a5d0341fdeb2006f5"
+        },
+        {
+            "path": "mods/client-crafting.sculk.json",
+            "sha256": "22517f83d388321caea2283b1909010b671e0b59f0152a44bd5a38da8bc5dc54"
+        },
+        {
+            "path": "mods/ancient-aether.sculk.json",
+            "sha256": "2c20c3e238afbe026aa5669ab22de8ac2dbe55c2f84d2313cbbdedaf40737ff5"
+        },
+        {
+            "path": "mods/create-low-heated.sculk.json",
+            "sha256": "7317f17ec1c21a9bba985e5cfa24c66cd57b104a2f493be41c7967af588622d5"
+        },
+        {
+            "path": "mods/apothic-attributes.sculk.json",
+            "sha256": "d52bced9f1528cb6bf66413eab61521fda90a91cd3da735159313ebf0d5e7144"
+        },
+        {
+            "path": "mods/create-new-age.sculk.json",
+            "sha256": "406944389417678f4a80ebba6fc2fa34fbd2d12e382300c7f67e591ff54428e0"
+        },
+        {
+            "path": "mods/dnt-ancient-city-overhaul.sculk.json",
+            "sha256": "21aa979703c75adc74b8fa6e1e5f244d7694bba121e43a1748e126fd9c5b6b36"
+        },
+        {
+            "path": "mods/royal-variations.sculk.json",
+            "sha256": "f64ba031c2514c71c99c2f96ef02f18b6f489e8a91ab3127766ab15638ac6e3c"
+        },
+        {
+            "path": "mods/integrated-api.sculk.json",
+            "sha256": "028cde3fdd4cc129a4ec1552154b74f3379743bedada5cef789f7f1f658f5a57"
+        },
+        {
+            "path": "mods/redirector.sculk.json",
+            "sha256": "db10a3ca26fa186beba22803ba1a1c469b33eb667afd5fd2b78334a064b6aec3"
+        },
+        {
+            "path": "mods/resourceful-config.sculk.json",
+            "sha256": "dacc56fe450ba5b11b290eb527d733f31495860154af099b66d567f7376edcc9"
+        },
+        {
+            "path": "mods/embeddium.sculk.json",
+            "sha256": "79fcce57a1f6f790d49674c8ea1af083745bf99f6d52a266f5036065a82c20d8"
+        },
+        {
+            "path": "mods/emi-loot.sculk.json",
+            "sha256": "e46ea060bda008ebe231b3e07be7094225ab2c9b785654cd9eb6829652ae45de"
+        },
+        {
+            "path": "mods/gottschcore.sculk.json",
+            "sha256": "13a6e42c57d63468eb34139e6e87779c76aaa418269fba64f1662a65778f8061"
+        },
+        {
+            "path": "mods/spawn-mod.sculk.json",
+            "sha256": "278e63cc828aeadb4a2f77281ad3d462029a57c0a90d398bc08b88135f0ccc68"
+        },
+        {
+            "path": "mods/just-orcs.sculk.json",
+            "sha256": "a02f7a497f247280879fc54568fc6ff8c68be86ed7c4849171e7b214bd2960d8"
+        },
+        {
+            "path": "mods/more-sniffer-flowers.sculk.json",
+            "sha256": "5f53a5967d4818940acf56ec60c3c7052eac7bc561964e09e53a277b07055f4c"
+        },
+        {
+            "path": "mods/sophisticated-backpacks.sculk.json",
+            "sha256": "1085a5ab896b09f3524695007abfd4fd43c636cc055ce70ca04e082180938752"
+        },
+        {
+            "path": "mods/kubejs-botania.sculk.json",
+            "sha256": "1195cc75723796e6d56a6aa8d8cef002cb7b86e6f9490669312cc64e99d785b6"
+        },
+        {
+            "path": "mods/sawmill.sculk.json",
+            "sha256": "c8ae1fe84cd2c16814970d94fd4915491a2200deda3452d4d5bc5059eebaaaf5"
+        },
+        {
+            "path": "mods/mcjtylib.sculk.json",
+            "sha256": "d594784cfabe025a9e11fa46fce65eefcfeee466dbc5d2d1024fe48424b22289"
+        },
+        {
+            "path": "mods/mob-captains.sculk.json",
+            "sha256": "da6e3d286d26c69e9f61b239b133b2f2633d642071a57431b65597298c7b7c4e"
+        },
+        {
+            "path": "mods/coroutil.sculk.json",
+            "sha256": "8167b261c8b34e5b9840a8672c43e40a6be82c4ece284227a44a0c306d2c1f63"
+        },
+        {
+            "path": "mods/fastsuite.sculk.json",
+            "sha256": "3774bc8d5ca9d5f117006bfdcde2ff886f33aeda9d1f09a203289f5bb14ea8e0"
+        },
+        {
+            "path": "mods/loot-integrations.sculk.json",
+            "sha256": "d8458db3977c91ad043d71ef3606b70f04ad9316d866adc999359878aa4f5e29"
+        },
+        {
+            "path": "mods/powah-rearchitected.sculk.json",
+            "sha256": "b793216754a1eda05176479942bb9dcee335435822526ef8455fb6f6c3062232"
+        },
+        {
+            "path": "mods/create-diesel-generators.sculk.json",
+            "sha256": "49182d26d9ff74f772a8cc7483915879c5b18383204f365e7d62ce8068ca3f21"
+        },
+        {
+            "path": "mods/better-village-forge.sculk.json",
+            "sha256": "cfae68951351224a230a8db228cc20a22961c205ff11a20e03f5da7cd19cc4de"
+        },
+        {
+            "path": "mods/supermartijn642s-core-lib.sculk.json",
+            "sha256": "d4787cde7057497c08af5ae13fe56ba1d8e39e23ac34ebb1226c4b27faefd9b2"
+        },
+        {
+            "path": "mods/occultism.sculk.json",
+            "sha256": "00a0611165047973c0f3296b812a193ba09dc7acacc79312e483ef3d8bb28d42"
+        },
+        {
+            "path": "mods/nocubes-better-grindstone.sculk.json",
+            "sha256": "943e92707ae8b9fe07228c946f32a123597d4854419ed495f9a8d64073aaf7cf"
+        },
+        {
+            "path": "mods/zombies-reworked-forge.sculk.json",
+            "sha256": "67b3eeb0f0a7697593cd51bd173d0afc36ee603c85417f2edc99bb0bc9c312d7"
+        },
+        {
+            "path": "mods/ftb-xmod-compat.sculk.json",
+            "sha256": "a2dd1d848e443b5aacbc50a3b3311c31a65ca0cdefa9cee6eebd74ec938c32b2"
+        },
+        {
+            "path": "mods/treasure2-twilight-forest-loot-pack.sculk.json",
+            "sha256": "7573cc3dfd347ed0ae547a3cd7d494d73edb743db6fc1d8f54939cbb5e598f5e"
+        },
+        {
+            "path": "mods/create-let-the-adventure-begin.sculk.json",
+            "sha256": "24266211d25aa90cc46d1dd78988667312c3169282967cad97594ed0919a177f"
+        },
+        {
+            "path": "mods/gnumus-settlement.sculk.json",
+            "sha256": "f2b17036a29e3d6d6837acec38094a8b7351931a7307fe81448c991c7a1f10e2"
+        },
+        {
+            "path": "mods/terrablender.sculk.json",
+            "sha256": "b1ccdd1a13da6e1aea669486c6f65a305cc30b16e35ef02584aa04964d59b3ee"
+        },
+        {
+            "path": "mods/medieval-buildings-end-edition.sculk.json",
+            "sha256": "50a2bf242f785daebfa14d271e7efc304a02951c28d297c10cfc4e190b77dff8"
+        },
+        {
+            "path": "mods/common-capabilities.sculk.json",
+            "sha256": "85d8448602d965262a177f2247f76a353afbca4e4f38d7c9a549d58c85c74070"
+        },
+        {
+            "path": "mods/caelus.sculk.json",
+            "sha256": "d0c3f8b22b52de4a35f3ff5c2e774aac28c3764dc1f5b596617df751b5dbaabd"
+        },
+        {
+            "path": "mods/ad-astra.sculk.json",
+            "sha256": "60db67588013068bac0b91aef4d986d76586bdbeb5c138ee12db7efb940886ac"
+        },
+        {
+            "path": "mods/simply-houses.sculk.json",
+            "sha256": "9501b88d0803447199c87d0e1ea829b0e9a76ce0484e8048f05d6c350586433c"
+        },
+        {
+            "path": "mods/dense-mekanism.sculk.json",
+            "sha256": "e0ddde0b33575eef520216328d1c1a781ffc81694077a985d84a58acf59f755b"
+        },
+        {
+            "path": "mods/botarium.sculk.json",
+            "sha256": "1bc0d6101da0aa75ab9e41c6152a836592d57422f93fc0dd3bf4bdc8fdbe93d1"
+        },
+        {
+            "path": "mods/detected-setblock-be-gone.sculk.json",
+            "sha256": "dc49979af92146d80021e464296fcede4500825d535d38914bdbb4e78f8f6a73"
+        },
+        {
+            "path": "mods/yungs-api.sculk.json",
+            "sha256": "65d1c59dfea33f19845356b73d13f8f0b9d1e4684a6e3c75715b89cd1d0296db"
+        },
+        {
+            "path": "mods/gateways-to-eternity.sculk.json",
+            "sha256": "de85230f9efcdcaf3dc12abb8fb86254ac6f0af40431eb98ad32937fd10bcad9"
+        },
+        {
+            "path": "mods/yungs-better-ocean-monuments.sculk.json",
+            "sha256": "40170227d5c5c919552e9a67f1eb59a52ae742a4885840456fc2504dec319226"
+        },
+        {
+            "path": "mods/ars-nouveau.sculk.json",
+            "sha256": "06afc8fce1efd04407aefc34c95d629086765adfad7707f47e0f0a1e702e4044"
+        },
+        {
+            "path": "mods/bookshelf.sculk.json",
+            "sha256": "6dc23d076736c782e37eb4a915d8fe46d484a54a86097971a4ccde732097f1a6"
+        },
+        {
+            "path": "mods/mns-moogs-nether-structures.sculk.json",
+            "sha256": "406db68cd1f6f9d0ff1cd5b6e8153ba21ba4410a64796a91803404db0862069f"
+        },
+        {
+            "path": "mods/wabi-sabi-structures-forge.sculk.json",
+            "sha256": "feebfdf7ecc690f85c9be9985349fa1b2892460230e18eeeb099b79329414a0d"
+        },
+        {
+            "path": "mods/ftb-library-forge.sculk.json",
+            "sha256": "f7bd43050a7cc1f96af16bdaa2640c15d45359644312332cb718bc5beb7d13f5"
+        },
+        {
+            "path": "mods/citadel.sculk.json",
+            "sha256": "d5b000227d7713db4fead9f4adb7b1bbe8550fbd0514d9fb6eec385e311b91bc"
+        },
+        {
+            "path": "mods/fastfurnace.sculk.json",
+            "sha256": "025c0a81f95faef7af3f91fa63193cbc9313087c30d18289e8d19c364f0fe7f8"
+        },
+        {
+            "path": "mods/mcdar.sculk.json",
+            "sha256": "5fb547ff1dc968da5b07f6affbf7d4ad33efc6bff20c1f9c4fca2beb80150e6b"
+        },
+        {
+            "path": "mods/double-doors.sculk.json",
+            "sha256": "14407350766aecbf28801ab0cf818d77e01d902983d1e562e91b4525e831a757"
+        },
+        {
+            "path": "mods/alexs-mobs.sculk.json",
+            "sha256": "73e1754cee0a285ab6f8328b81d29f93131c30e1ebcac1120cb75518c6d8492d"
+        },
+        {
+            "path": "mods/rhino.sculk.json",
+            "sha256": "dbe0cb57b32ba994bb559136de93a3a9257d611c7936dae2b44ad32bd7500508"
+        },
+        {
+            "path": "mods/kubejs-addon-blood-magic.sculk.json",
+            "sha256": "6667866936617855d28cfe470382bce20f7921cd325075f45134c95253142ce2"
+        },
+        {
+            "path": "mods/ensorcellation.sculk.json",
+            "sha256": "438ee533e1e0712697e1cdffe5da11a500296413a80b326069b535f71f231fbb"
+        },
+        {
+            "path": "mods/create-destroy.sculk.json",
+            "sha256": "b70959e4267b4645344d62635641fa1c0e3e89e2cdfe6b42743685fd3a4c6a5e"
+        },
+        {
+            "path": "mods/yungs-better-end-island.sculk.json",
+            "sha256": "fb7fb8660942421c8918350e45c219762032feac76241138ba724f1aa7f42406"
+        },
+        {
+            "path": "mods/create-misc-and-things.sculk.json",
+            "sha256": "79ea7e5c95d744a207c237777bb09099206217ff5e6eaf4a509a52a0a07887e5"
+        },
+        {
+            "path": "mods/origins-forge.sculk.json",
+            "sha256": "9278420a119328a9a27eb98bbe503965473a6c55b3fc3062e16201b71301c803"
+        },
+        {
+            "path": "mods/fix-gpu-memory-leak.sculk.json",
+            "sha256": "4939c50ae774726607c821dba85f4171369f38a2e6523fdea3e19f5f940f7268"
+        },
+        {
+            "path": "mods/wandering-bags.sculk.json",
+            "sha256": "725df4f6f750657d82d9bf508afee81a2627922a0fe49cd7fa2d8fe2745a3876"
+        },
+        {
+            "path": "mods/modernfix.sculk.json",
+            "sha256": "0c7fa1b7f460e4df0e2a66e0ba97defa3f1bd09b740b796d6f5f5a06521f12eb"
+        },
+        {
+            "path": "mods/create-power-loader.sculk.json",
+            "sha256": "73db8c1ec893440d54c1de46de57292e7868f632a884b829e3ee9e1408a7df88"
+        },
+        {
+            "path": "mods/ati-structures.sculk.json",
+            "sha256": "8685259b95886c08aef17cb26314f58fa67e38ba3912543b692ae84ec6e5448b"
+        },
+        {
+            "path": "mods/functional-storage.sculk.json",
+            "sha256": "34a660bf5387cfc3030074459f6d694670012ce9c87f50a61c029913e4c7e1d7"
+        },
+        {
+            "path": "mods/mopeds.sculk.json",
+            "sha256": "709be15fa4697151ddfcc150822a8370443bfa9cf7b6dd48139fcf8bb0d7db8c"
+        },
+        {
+            "path": "mods/dungeon-and-taverns.sculk.json",
+            "sha256": "3bbe6d876f4db7296ba2d9bf71851e5731ad7f33059f42efcee3cb02a8333ccf"
+        },
+        {
+            "path": "mods/castle-in-the-sky-the-fairytale-of-laputa.sculk.json",
+            "sha256": "89adc3a8a9d788f7b03701f0addfc72c67beaccb18fc275d5d7711f9d6c39105"
+        },
+        {
+            "path": "mods/library-ferret-forge.sculk.json",
+            "sha256": "f140e94ba4d8dc121028d2b812410fac38a863a9bf592fe13757d9f3d08975c6"
+        },
+        {
+            "path": "mods/cristel-lib.sculk.json",
+            "sha256": "074be6199cdb0ed3402f5d249f7abfeda834f303a1a348bd15d31f07ed5a8e1b"
+        },
+        {
+            "path": "mods/darkmobs.sculk.json",
+            "sha256": "6914b4f525a861016d70d406db1025a77159af9d531f22c5f0774f65e726515f"
+        },
+        {
+            "path": "mods/medieval-buildings.sculk.json",
+            "sha256": "dbd73172aa85137cdc61939b2113b3ae5539d385461d8d6d432f705489466c46"
+        },
+        {
+            "path": "mods/forgotten-pots-forge.sculk.json",
+            "sha256": "f1ea56e9ff38a4a631d4f6686a9554891e087df1825da89caecf84fccc3f4da9"
+        },
+        {
+            "path": "mods/artifacts.sculk.json",
+            "sha256": "1d009aad457f01617aa4848d936b7728c564873943b15b38669b033603b172f0"
+        },
+        {
+            "path": "mods/themillmanlib.sculk.json",
+            "sha256": "b531c062af706b7fd20544e2bca2ad36a76d83aac9d9e151483716e0c3da6cca"
+        },
+        {
+            "path": "mods/ftb-essentials-forge.sculk.json",
+            "sha256": "e510a727d3280c9f60e7119b65386ca3a52780d32c0afb453ab0c66f3e8579b8"
+        },
+        {
+            "path": "mods/create-ad-astra-compatibility.sculk.json",
+            "sha256": "f3462bd35b72037a19bb508069ed1cdb2167d09b3b12de30fd3f81479bf81e6d"
+        },
+        {
+            "path": "mods/obscure-api.sculk.json",
+            "sha256": "e4a774864d698476764a125b73fe7e27c196c495f8d73c6b1c51828517c8ddf6"
+        },
+        {
+            "path": "mods/seeds.sculk.json",
+            "sha256": "51b248d8f02987adb05ff433d4549a81aaf13c53ebc187440ce3de742fd4d924"
+        },
+        {
+            "path": "mods/observable.sculk.json",
+            "sha256": "7a4166013e5b8ffc87271d3a8c7907ec2ac1cc34fabe592534f82d53bc5ffff5"
+        },
+        {
+            "path": "mods/kubejs-create.sculk.json",
+            "sha256": "25d79be24dc8ff295d12647b417ab89dcf814b818bbd3e049ff1edc3eef1e925"
+        },
+        {
+            "path": "mods/difficult-spawners.sculk.json",
+            "sha256": "a31b3ee009f64fdc369e2659dbe1b5324abcd1a83de288111724107912878e43"
+        },
+        {
+            "path": "mods/configjs.sculk.json",
+            "sha256": "6cddd1f7f89105e3ab48392bd3f0c340f8e03d912e4d18cdc831b7b55889705c"
+        },
+        {
+            "path": "mods/structure-essentials-forge-fabric.sculk.json",
+            "sha256": "94a9a4d11f9d2264089276b0e5f831b27fae9424d8c645ea987bfc9d90461e0c"
+        },
+        {
+            "path": "mods/chunky-pregenerator-forge.sculk.json",
+            "sha256": "cca168e9643031227978816c1b830dc8e902f630b3db14ab933c1a6a988aec3f"
+        },
+        {
+            "path": "mods/moogs-end-structures.sculk.json",
+            "sha256": "4359c3b2a8d68ca21772f05fedbea9c222163d312bc74bc0b8ed392db56a3cef"
+        },
+        {
+            "path": "mods/occult-creations.sculk.json",
+            "sha256": "608fdda318d59e153549600fe7989e9e147cc7dfa3fba4c769608519d88662e0"
+        },
+        {
+            "path": "mods/searchables.sculk.json",
+            "sha256": "aaf7d5bf30e22192b4053e3cd25a47c0e4dfa18be66fc54df611625bba2ce983"
+        },
+        {
+            "path": "mods/canary.sculk.json",
+            "sha256": "622935fefffc9c43344c679cf6aa1366aaa9805b47811d3f461f73a885e11b7a"
+        },
+        {
+            "path": "mods/packet-fixer.sculk.json",
+            "sha256": "648c7587213ecdba6cf204c92947c323cb222b43a322249c25457176dc053d1a"
+        },
+        {
+            "path": "mods/collective.sculk.json",
+            "sha256": "769914b85bf9fa917813af4f273e2a4fce27108df3ca3c085e7eb7b7ac7d56e3"
+        },
+        {
+            "path": "mods/servercore.sculk.json",
+            "sha256": "2cd2a25311f8b6a7cbea58a0bea016692d79cc6a02c5d794ab2eb55b8b5d728c"
+        },
+        {
+            "path": "mods/treasure2.sculk.json",
+            "sha256": "a8e958d93fdcbdd817de151254e6ec2901257dd1d6e928094969545e9719b893"
+        },
+        {
+            "path": "mods/item-filters.sculk.json",
+            "sha256": "52bdffcc75cc5c706aeab2b34399f845c461bfcdef408d1be88754ebcee2f05f"
+        },
+        {
+            "path": "mods/nyfs-spiders.sculk.json",
+            "sha256": "2bb3a85f61ab2eb57915e7c5b0342dfeaeda1c85b5a9628ee210972240b4e72f"
+        },
+        {
+            "path": "mods/mob-grinding-utils.sculk.json",
+            "sha256": "eebee2308f652ddfe27189cba0cf60eaa00e2693f56b7515d5ebf3bcbbb9d4fd"
+        },
+        {
+            "path": "mods/titanium.sculk.json",
+            "sha256": "974713cf70d937c07d7327ae23a8f3baf92464674dd6f69e97a9b63b3aae2c86"
+        },
+        {
+            "path": "mods/industrial-foregoing.sculk.json",
+            "sha256": "63be9ac6242a069eb77c01284616efb360e0c069f97f041a038170e8e41d80f6"
+        },
+        {
+            "path": "mods/raided.sculk.json",
+            "sha256": "796fe764217ccaa41931b5c8ca968968d846ad8e9a67c45968d503c794940db8"
+        },
+        {
+            "path": "mods/occultism-kubejs.sculk.json",
+            "sha256": "b65829688d1211108591386ac7e4d51d7456888c5ee5f0d983d424cd7d45257e"
+        },
+        {
+            "path": "mods/goblin-traders.sculk.json",
+            "sha256": "8fa22b54c9b61a700b1845173afd5742e3ab5f82196e700fb88202e18034c11a"
+        },
+        {
+            "path": "mods/supermartijn642s-config-lib.sculk.json",
+            "sha256": "65e231207b70017bfedfd563a349d04ba6d55ebf895b70417514e984e65cafbe"
+        },
+        {
+            "path": "mods/biomancy.sculk.json",
+            "sha256": "4eca38eb4f787781825983128a14d59bfd129f0330ca666ea2ccee92447996ca"
+        },
+        {
+            "path": "mods/fusion-connected-textures.sculk.json",
+            "sha256": "093cacb6ae6b79d59413742c0cb95de22f13a151fcb51f1224541d0ec32e7d38"
+        },
+        {
+            "path": "mods/atomicstrykers-infernal-mobs.sculk.json",
+            "sha256": "fbb79e849a3ad7a4e7aea570a6634c5dc52d2025bec202acf2cb71dde20221c4"
+        },
+        {
+            "path": "mods/clumps.sculk.json",
+            "sha256": "ca0d7ff70abb84e7a47b1108dd17647d8960ae857d5655faff08d29a75917929"
+        },
+        {
+            "path": "mods/architectury-api.sculk.json",
+            "sha256": "20db912813300606f4a963a628477fa0f9b6a28daf673be14f1f1c25b4a554ef"
+        },
+        {
+            "path": "mods/enlightend.sculk.json",
+            "sha256": "a87f5701cfb51175eaa2a21b0c4a4b22c6d06cc6ece1e67eb5767fa7467255dc"
+        },
+        {
+            "path": "mods/create-mechanical-spawner.sculk.json",
+            "sha256": "5c1dcf070aaff838f055de67113c6b7811153ebf40feff4533f04b48e3c3dab0"
+        },
+        {
+            "path": "mods/cyclops-core.sculk.json",
+            "sha256": "e108fb035e773f6b35218853deba9d1c7a813c277ab38ff5d1b3438e6fc02a81"
+        },
+        {
+            "path": "mods/brutal-bosses-dungeon.sculk.json",
+            "sha256": "3cbf5219e3cd3ba9a755411eb26ea7487de375d8adaab289a0186585e64ed7b9"
+        },
+        {
+            "path": "mods/apotheosis.sculk.json",
+            "sha256": "36d19f7935d9bb8bfe0f02aa82bdf17a24afe7326486dbd542ccd8c843fd15bb"
+        },
+        {
+            "path": "mods/smartbrainlib.sculk.json",
+            "sha256": "5e878d558671eadf821c096a0fb39c29b2378b9f7998110d9eb287072491e1b4"
+        },
+        {
+            "path": "mods/create-dreams-desires.sculk.json",
+            "sha256": "9b70a5610aab0694b90353067f39e040f598a8f49937f80f568bbf5f1960f2fe"
+        },
+        {
+            "path": "mods/valhelsia-core.sculk.json",
+            "sha256": "7236d271a23f36405b10d3c2a53827ec276ad1e40be883d0527cdf5aec7cc100"
+        },
+        {
+            "path": "mods/crafting-automat.sculk.json",
+            "sha256": "0020fcb2e6aa6d5b24d1d457ab93676a7d692a43d1a0b0d0b96707eb5976c96c"
+        },
+        {
+            "path": "mods/when-dungeons-arise.sculk.json",
+            "sha256": "66381bf47490086d0d37b56d8a07bf1a6e37b21430b267383897d0b64046937d"
+        },
+        {
+            "path": "mods/ftb-pack-companion.sculk.json",
+            "sha256": "b71773fd52a32359e7b9a93f74520ba1f9c36e86d69c47603226d1b2a08b0d52"
+        },
+        {
+            "path": "mods/fastworkbench.sculk.json",
+            "sha256": "fede15676cc2b5c945fc17d8912496cb1c25badbea016f79728684f822f7b679"
+        },
+        {
+            "path": "mods/kotlin-for-forge.sculk.json",
+            "sha256": "43335a9b899d9b64d65defd4cfeeadcaafdf6c760014dc287667a239f5f6ba49"
+        },
+        {
+            "path": "mods/dense-ores-abundant.sculk.json",
+            "sha256": "2c640749eb3d5555491c1998be7859fa965b78918ae1a9fdc6b5b885c31fbee6"
+        },
+        {
+            "path": "mods/sculk-transporting.sculk.json",
+            "sha256": "042aebc5b2a61b969a84f52f797b03c162b376008f62f2c1886a8a9e2cd2cae2"
+        },
+        {
+            "path": "mods/wild-west.sculk.json",
+            "sha256": "10c269fb564973db302aa723f89fa5ce8641382e4f9649c6ced99b1fbe986687"
+        },
+        {
+            "path": "mods/create-mechanical-extruder.sculk.json",
+            "sha256": "e426744ec1c93814be2a233725ad2c73e475525c967ac5e469dbffcf3bf63025"
+        },
+        {
+            "path": "mods/yungs-better-mineshafts-forge.sculk.json",
+            "sha256": "285abe3ee350330dc36ffa33a80bc01becad3748acf2c23ce3616071c58858d6"
+        },
+        {
+            "path": "mods/create-structures.sculk.json",
+            "sha256": "a946c118d3e2ab5dc15f7ab9bcb6f198ad0118c83182e5ec29fb826bb3c04521"
+        },
+        {
+            "path": "mods/the-undergarden.sculk.json",
+            "sha256": "27d7bc20b1066fe82abbef9f08a761795b902696a74b6d9ef52df7e6780ce8df"
+        },
+        {
+            "path": "mods/crackers-wither-storm-mod.sculk.json",
+            "sha256": "a40ff99d338f6d9276a4257e1666b2af17933a85f41df237ee802e9ebcf74ac1"
+        },
+        {
+            "path": "mods/alexs-caves.sculk.json",
+            "sha256": "a56fdb5d985009d8add5833e4f875a9219fdd94e2eff2e2ad396596b958aa586"
+        }
+    ],
+    "files": [
+        {
+            "path": "configureddefaults/README.md",
+            "side": "both",
+            "sha256": "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+        },
+        {
+            "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+            "side": "both",
+            "sha256": "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+        },
+        {
+            "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+            "side": "both",
+            "sha256": "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+        },
+        {
+            "path": "kubejs/assets/ponderjs_generated/lang/en_us.json",
+            "side": "both",
+            "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+            "path": "kubejs/client_scripts/example.js",
+            "side": "both",
+            "sha256": "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+        },
+        {
+            "path": "kubejs/config/client.properties",
+            "side": "both",
+            "sha256": "a2c7d5aa327f43ce0a4a63df16b5f1520db8c10341a21a23f041d0b31490c0b5"
+        },
+        {
+            "path": "kubejs/config/common.properties",
+            "side": "both",
+            "sha256": "30639aa14a2f17ef1d529e2c4616b88a263cc1ebe39886b5c6a899b19b19a93f"
+        },
+        {
+            "path": "kubejs/server_scripts/example.js",
+            "side": "both",
+            "sha256": "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+        },
+        {
+            "path": "kubejs/startup_scripts/example.js",
+            "side": "both",
+            "sha256": "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+        },
+        {
+            "path": "kubejs/README.txt",
+            "side": "both",
+            "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+        },
+        {
+            "path": "mods/.connector/mcdar-4.0.3_mapped_srg_1.20.1.jar",
+            "side": "both",
+            "sha256": "0c0dc28cb089ddf6e59cec0380975f207af82f1c6becf567877a1f78e2eba26a"
+        },
+        {
+            "path": "mods/.connector/mcdar-4.0.3_mapped_srg_1.20.1.jar.input",
+            "side": "both",
+            "sha256": "d25bc77bf7abb21382f894baf49a9ae09ed2d44a9192e38ba46ae9ba528d2599"
+        },
+        {
+            "path": "mods/molten_vents_custom_blocks.json",
+            "side": "both",
+            "sha256": "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
+        }
+    ]
+}

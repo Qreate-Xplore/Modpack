@@ -1,0 +1,17 @@
+{
+    "filename": "obscure_api-15.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "30e37354519b4ca06bc617ccb2698cc696fdae9b",
+        "sha512": "6946c2f32e09c186b3391e87af82cbb518c506201563818876388e22865449bb3ba54d48c5742b6ae3355102ad2ba7d36ad83b5370f03282d9cec879e56227ea",
+        "murmur2": 2706278083
+    },
+    "fileSize": 497136,
+    "sources": {
+        "curseforge": {
+            "projectId": 638417,
+            "fileUrl": "https://edge.forgecdn.net/files/4616/364/obscure_api-15.jar",
+            "fileId": 4616364
+        }
+    }
+}

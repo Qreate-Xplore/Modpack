@@ -1,0 +1,21 @@
+{
+    "filename": "enlightend-5.0.14-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cad5b5b7b569ab55059aba71adadbb5aefc6c77f",
+        "sha512": "0e3f9454a5e099d4b119a77049a92e06bfe044f8e0427003f102f970efd11e135c1e10b8b2e9c450eb2d06cc31b4aaa786e14e4c2804312ad3b5c1991ec3f96e",
+        "murmur2": 238982184
+    },
+    "fileSize": 21506560,
+    "sources": {
+        "curseforge": {
+            "projectId": 502786,
+            "fileUrl": "https://edge.forgecdn.net/files/4880/586/enlightend-5.0.14-1.20.1.jar",
+            "fileId": 4880586
+        },
+        "modrinth": {
+            "projectId": "SwolYSb8",
+            "fileUrl": "https://cdn.modrinth.com/data/SwolYSb8/versions/Y3tfisi2/enlightend-5.0.14-1.20.1.jar"
+        }
+    }
+}

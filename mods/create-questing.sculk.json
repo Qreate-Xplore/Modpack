@@ -1,0 +1,21 @@
+{
+    "filename": "Create_Questing-FORGE-1.20.1-1.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5c7fae895d8de470b709c2332b4f82be3d712607",
+        "sha512": "dcc482ade30c3f322f94dcc73fa9d32ee9282da8b68c46f1af9eb01f82cc29df8f71d96455b3962295c3713157891edd43563378f5f1a6ef7bf076985c5ad067",
+        "murmur2": 3319112796
+    },
+    "fileSize": 581970,
+    "sources": {
+        "curseforge": {
+            "projectId": 591861,
+            "fileUrl": "https://edge.forgecdn.net/files/5036/920/Create_Questing-FORGE-1.20.1-1.0.0.jar",
+            "fileId": 5036920
+        },
+        "modrinth": {
+            "projectId": "jUlR3XZM",
+            "fileUrl": "https://cdn.modrinth.com/data/jUlR3XZM/versions/djVCzXFV/Create_Questing-FORGE-1.20.1-1.0.0.jar"
+        }
+    }
+}

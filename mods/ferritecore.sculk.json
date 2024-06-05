@@ -1,0 +1,21 @@
+{
+    "filename": "ferritecore-6.0.1-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+        "murmur2": 2683111440
+    },
+    "fileSize": 123034,
+    "sources": {
+        "curseforge": {
+            "projectId": 429235,
+            "fileUrl": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+            "fileId": 4810975
+        },
+        "modrinth": {
+            "projectId": "uXXizFIs",
+            "fileUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+        }
+    }
+}

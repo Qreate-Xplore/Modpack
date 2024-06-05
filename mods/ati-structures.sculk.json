@@ -1,0 +1,21 @@
+{
+    "filename": "ati_structures1.0.0-1.20+ Forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d1b91427223f46b6253bcaeeea4f38e443dada00",
+        "sha512": "cdde04744f663c59625755e5a7a054a046e296095a0945ab4a05c20f55ca778025cef04e673c4a3f0ea5b56506b194ad0e08c4657efbdc9834bb40176b8ed57d",
+        "murmur2": 3517802637
+    },
+    "fileSize": 1241353,
+    "sources": {
+        "curseforge": {
+            "projectId": 964608,
+            "fileUrl": "https://edge.forgecdn.net/files/5169/839/ati_structures1.0.0-1.20%2b%20Forge.jar",
+            "fileId": 5169839
+        },
+        "modrinth": {
+            "projectId": "bii8qPSt",
+            "fileUrl": "https://cdn.modrinth.com/data/bii8qPSt/versions/W7iK4uMx/ati_structures1.0.0%2B1.20%2B%20Forge.jar"
+        }
+    }
+}

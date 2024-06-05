@@ -1,0 +1,21 @@
+{
+    "filename": "Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3d1d458f93545d342415ba417d36a2262973d10e",
+        "sha512": "ddf9af432357cccb377ac4bba28d500153c3ed63d1236ade50af9592d6e8f4554b51b2eae0103ada97f54f1a888b5f055c59e5203cdc693b659e449b08391d37",
+        "murmur2": 3317080058
+    },
+    "fileSize": 1442805,
+    "sources": {
+        "curseforge": {
+            "projectId": 263420,
+            "fileUrl": "https://edge.forgecdn.net/files/5262/365/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+            "fileId": 5262365
+        },
+        "modrinth": {
+            "projectId": "1bokaNcj",
+            "fileUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/dxsBIRkW/Xaeros_Minimap_24.1.1_Forge_1.20.jar"
+        }
+    }
+}

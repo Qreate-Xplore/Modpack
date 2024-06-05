@@ -1,0 +1,21 @@
+{
+    "filename": "ConnectorExtras-1.10.1+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9eb8b41e676d95e6d36d7fca4b9647bd4ac5d92a",
+        "sha512": "f5db5a183e15b80382af408772d21113206c9bb88306ab4832f71fcf6e6c77fdb397dd0f107a064b7c14d6f5655fe9456c10b8d24238903748f7f9afedd87979",
+        "murmur2": 3911039429
+    },
+    "fileSize": 188255,
+    "sources": {
+        "curseforge": {
+            "projectId": 913445,
+            "fileUrl": "https://edge.forgecdn.net/files/5287/497/ConnectorExtras-1.10.1%2b1.20.1.jar",
+            "fileId": 5287497
+        },
+        "modrinth": {
+            "projectId": "FYpiwiBR",
+            "fileUrl": "https://cdn.modrinth.com/data/FYpiwiBR/versions/7d8ZiTAO/ConnectorExtras-1.10.1%2B1.20.1.jar"
+        }
+    }
+}

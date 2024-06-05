@@ -1,0 +1,21 @@
+{
+    "filename": "YSNS-Forge-MC1.20-1.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4e990e6a65f4655e2a6b02789ca5eb3b8c4e9ee0",
+        "sha512": "cb74a4361983d25d16917c4aed29ec76084e0968f328bd9d82a69f533872f20e45a36d621d49db15ccc46b5885df68996b89a5975f79ff56d349bfc97cdd88e1",
+        "murmur2": 1039447920
+    },
+    "fileSize": 6551,
+    "sources": {
+        "curseforge": {
+            "projectId": 628744,
+            "fileUrl": "https://edge.forgecdn.net/files/4584/92/YSNS-Forge-MC1.20-1.0.4.jar",
+            "fileId": 4584092
+        },
+        "modrinth": {
+            "projectId": "EjXcpmEA",
+            "fileUrl": "https://cdn.modrinth.com/data/EjXcpmEA/versions/zchsw4Z8/YSNS-Forge-MC1.20-1.0.4.jar"
+        }
+    }
+}

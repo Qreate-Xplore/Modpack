@@ -1,0 +1,21 @@
+{
+    "filename": "observable-4.4.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "bd44f1fd4eab0e58fd5e05a2e2b23071f132edd0",
+        "sha512": "dbe22ce27eac91179b6e314cb497da402e27438e2d8e831ddc37a9b289623145248fc153bf1c4cf36710fef7351cf20fbd0d76fc38396697f0da39c5983e1fba",
+        "murmur2": 3936662034
+    },
+    "fileSize": 473368,
+    "sources": {
+        "curseforge": {
+            "projectId": 509575,
+            "fileUrl": "https://edge.forgecdn.net/files/5080/64/observable-4.4.1.jar",
+            "fileId": 5080064
+        },
+        "modrinth": {
+            "projectId": "VYRu7qmG",
+            "fileUrl": "https://cdn.modrinth.com/data/VYRu7qmG/versions/66z4rv38/observable-4.4.1.jar"
+        }
+    }
+}

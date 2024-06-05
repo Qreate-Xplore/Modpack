@@ -1,0 +1,21 @@
+{
+    "filename": "ImmediatelyFast-Forge-1.2.15+1.20.4.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "5b27cb9a287de35ea62f8d2ca3c41692a49c943b",
+        "sha512": "50c434a53b8855cbe58889040a95cb6e68f3ee788479d99aa584870f3ca3e927c3554272304fd5e76a32cefbd5b02b5c61791a105b95d5ca119d40163a77bb0f",
+        "murmur2": 2100310632
+    },
+    "fileSize": 430749,
+    "sources": {
+        "curseforge": {
+            "projectId": 686911,
+            "fileUrl": "https://edge.forgecdn.net/files/5356/31/ImmediatelyFast-Forge-1.2.15%2b1.20.4.jar",
+            "fileId": 5356031
+        },
+        "modrinth": {
+            "projectId": "5ZwdcRci",
+            "fileUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/lTRPaThw/ImmediatelyFast-Forge-1.2.15%2B1.20.4.jar"
+        }
+    }
+}

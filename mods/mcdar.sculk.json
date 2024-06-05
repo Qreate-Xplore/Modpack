@@ -1,0 +1,21 @@
+{
+    "filename": "mcdar-4.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9921a91c6c6a334aac5bb6e7c32961ff61beeec0",
+        "sha512": "4e4b3ef4ff6d1dab2eb1e0624c3690e6f1407adfbf47fc21e7a58ef2bd44a35ec4b90682dfd450c24122a4910112376935af962577bb2465dbdafa3cf8d9f739",
+        "murmur2": 1611062226
+    },
+    "fileSize": 673805,
+    "sources": {
+        "curseforge": {
+            "projectId": 476788,
+            "fileUrl": "https://edge.forgecdn.net/files/5278/209/mcdar-4.0.3.jar",
+            "fileId": 5278209
+        },
+        "modrinth": {
+            "projectId": "xweQBqAC",
+            "fileUrl": "https://cdn.modrinth.com/data/xweQBqAC/versions/YoeA8HCc/mcdar-4.0.3.jar"
+        }
+    }
+}

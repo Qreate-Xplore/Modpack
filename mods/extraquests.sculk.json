@@ -1,0 +1,21 @@
+{
+    "filename": "ExtraQuests-Forge-1.1.1-1.20.1(1).jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "46c25439c1f9651e69374359f6cdfde96da03db1",
+        "sha512": "ac2417697b774e1be07dd8966fd02d5b7f5d0eb73a2cef3fe2bde174ac28b5b8d815e5611912a7766c8302405e91b678c4a2a20ce5326436c843eb3714fc5de6",
+        "murmur2": 2828007405
+    },
+    "fileSize": 75509,
+    "sources": {
+        "curseforge": {
+            "projectId": 964194,
+            "fileUrl": "https://edge.forgecdn.net/files/5275/412/ExtraQuests-Forge-1.1.1-1.20.1(1).jar",
+            "fileId": 5275412
+        },
+        "modrinth": {
+            "projectId": "rMvP0ujv",
+            "fileUrl": "https://cdn.modrinth.com/data/rMvP0ujv/versions/95zXfGgj/ExtraQuests-Forge-1.1.1-1.20.1.jar"
+        }
+    }
+}

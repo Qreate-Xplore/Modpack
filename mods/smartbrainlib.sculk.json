@@ -1,0 +1,17 @@
+{
+    "filename": "SmartBrainLib-forge-1.20.1-1.14.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e127fc767b2727bd5cbf317cd50bf07800b93a3d",
+        "sha512": "65a367327d0c50e06cc72bc5fb438fb76f37d32169e57cc677ee2a2de8734be77ddcff3b4545a03a6c18ec5a86ecd5a677e459b73c4bd1fa90e3d82080ad08e0",
+        "murmur2": 563720246
+    },
+    "fileSize": 358588,
+    "sources": {
+        "curseforge": {
+            "projectId": 661293,
+            "fileUrl": "https://edge.forgecdn.net/files/5272/975/SmartBrainLib-forge-1.20.1-1.14.jar",
+            "fileId": 5272975
+        }
+    }
+}

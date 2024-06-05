@@ -1,0 +1,21 @@
+{
+    "filename": "cristellib-1.1.5-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8a43951083ea9096a91f81757004465f4afc7cab",
+        "sha512": "3c5217f3871a97e136b61b63cf3369a00e46f82717197e744be427019455ac8cff373037731a0515427716ee7174a4888399dca7f27f0b9cd7654764b0a6a94b",
+        "murmur2": 785667465
+    },
+    "fileSize": 431448,
+    "sources": {
+        "curseforge": {
+            "projectId": 856996,
+            "fileUrl": "https://edge.forgecdn.net/files/4861/833/cristellib-1.1.5-forge.jar",
+            "fileId": 4861833
+        },
+        "modrinth": {
+            "projectId": "cl223EMc",
+            "fileUrl": "https://cdn.modrinth.com/data/cl223EMc/versions/amI1oyGG/cristellib-1.1.5-forge.jar"
+        }
+    }
+}

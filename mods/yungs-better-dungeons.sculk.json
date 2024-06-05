@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+        "sha512": "56bd11a7aca3bacb908381a668af8f5b574c5557c21370ace783d637c949802187110a4f5dc26afae4d9af74cdf64cee81d59fac3513a9bec3f921193fc938b8",
+        "murmur2": 1320004755
+    },
+    "fileSize": 792381,
+    "sources": {
+        "curseforge": {
+            "projectId": 510089,
+            "fileUrl": "https://edge.forgecdn.net/files/5271/360/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "fileId": 5271360
+        },
+        "modrinth": {
+            "projectId": "o1C1Dkj5",
+            "fileUrl": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+        }
+    }
+}

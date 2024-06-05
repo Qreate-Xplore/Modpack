@@ -1,0 +1,17 @@
+{
+    "filename": "bobberdetector-0.1.9-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "a03e047ea2b74641064de2c020d9894fdb5b01a7",
+        "sha512": "120297a758c97b075a26ec16aeb7183798fd291c34691a4f5894467f8939651ac1a19007a86e96e0729d313ea17046d90c783078a5f82a07d619b4001867a50e",
+        "murmur2": 3796583654
+    },
+    "fileSize": 43202,
+    "sources": {
+        "curseforge": {
+            "projectId": 897858,
+            "fileUrl": "https://edge.forgecdn.net/files/4882/228/bobberdetector-0.1.9-1.20.1.jar",
+            "fileId": 4882228
+        }
+    }
+}

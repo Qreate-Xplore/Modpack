@@ -1,0 +1,21 @@
+{
+    "filename": "Pehkui-3.8.0+1.20.1-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "03dab7571370975a0bfe9a7177243c84999e09c9",
+        "sha512": "3467ca1cbf3a8840b94e595d6296b9f2e2fe721cb4cd8dc2b744e5cd65ba174bb3c7bb925272e13145f7a713dddd13c8adf26cf15ffcffd1fae4a0c6587bc633",
+        "murmur2": 1504359949
+    },
+    "fileSize": 633030,
+    "sources": {
+        "curseforge": {
+            "projectId": 319596,
+            "fileUrl": "https://edge.forgecdn.net/files/5208/247/Pehkui-3.8.0%2b1.20.1-forge.jar",
+            "fileId": 5208247
+        },
+        "modrinth": {
+            "projectId": "t5W7Jfwy",
+            "fileUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/vtnrxIhq/Pehkui-3.8.0%2B1.20.1-forge.jar"
+        }
+    }
+}

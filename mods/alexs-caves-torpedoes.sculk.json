@@ -1,0 +1,17 @@
+{
+    "filename": "alexscaves_torpedoes-1.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f7c7b5ef2954fd5f7a8f3875a1883bc8c8f02c75",
+        "sha512": "e128e6e0a92b26fd496834705e649c53d5dde22924620978caa2cafad45c6ed0f6ea50a16d395a01b8e39ec2af53165226f158989155245123cc07fc69a869a0",
+        "murmur2": 2685195617
+    },
+    "fileSize": 1173231,
+    "sources": {
+        "curseforge": {
+            "projectId": 990013,
+            "fileUrl": "https://edge.forgecdn.net/files/5223/196/alexscaves_torpedoes-1.0.2.jar",
+            "fileId": 5223196
+        }
+    }
+}

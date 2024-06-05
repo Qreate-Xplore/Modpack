@@ -1,0 +1,21 @@
+{
+    "filename": "moresnifferflowers-1.4.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0a1f8b586ebd3149eab4cddca0cb945ea8e938ee",
+        "sha512": "c394e53442cedef8c3a32e17fc80409b0d619759a4c1a5f1bce207fa0fd9143a1532bd05e52ce0d47d7a7d36b9ad25f0393bd263196749f8c224d138d7e39363",
+        "murmur2": 3982594034
+    },
+    "fileSize": 1092752,
+    "sources": {
+        "curseforge": {
+            "projectId": 884119,
+            "fileUrl": "https://edge.forgecdn.net/files/5339/306/moresnifferflowers-1.4.3.jar",
+            "fileId": 5339306
+        },
+        "modrinth": {
+            "projectId": "DbriYWc8",
+            "fileUrl": "https://cdn.modrinth.com/data/DbriYWc8/versions/tZpNKdpy/moresnifferflowers-1.4.3.jar"
+        }
+    }
+}

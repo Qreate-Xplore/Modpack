@@ -1,0 +1,21 @@
+{
+    "filename": "spore_1.20.1_2.0.6b.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c50b40d290f13779c1babc11bdd49d1c9be367a2",
+        "sha512": "d7d24b85f3a9f64320b2e1b0e121ae3a4c7bdffa9c3566dac7aa954305eaaf5fc4ec39bda82c0857594fd5ec5b6c5b82ee5adfefbd4d4d88c3c0b42647bcef78",
+        "murmur2": 3206892546
+    },
+    "fileSize": 8100320,
+    "sources": {
+        "curseforge": {
+            "projectId": 678295,
+            "fileUrl": "https://edge.forgecdn.net/files/5373/527/spore_1.20.1_2.0.6b.jar",
+            "fileId": 5373527
+        },
+        "modrinth": {
+            "projectId": "X661i40C",
+            "fileUrl": "https://cdn.modrinth.com/data/X661i40C/versions/zhshxmKA/spore_1.20.1_2.0.6b.jar"
+        }
+    }
+}

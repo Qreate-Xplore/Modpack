@@ -1,0 +1,17 @@
+{
+    "filename": "bettervillage-forge-1.20.1-3.2.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cc8cd793f9173812980580d8ba8f7e0046e2883c",
+        "sha512": "d590d901c6066560900e5b9df42f00d7be52fb305276d64113bd0395d0edd4fa9ae67383b108f6b93bd2410add93aa263cea9887c2a8cf5621ec9e8bbe3c6849",
+        "murmur2": 3153141533
+    },
+    "fileSize": 2019497,
+    "sources": {
+        "curseforge": {
+            "projectId": 615352,
+            "fileUrl": "https://edge.forgecdn.net/files/4703/624/bettervillage-forge-1.20.1-3.2.0.jar",
+            "fileId": 4703624
+        }
+    }
+}

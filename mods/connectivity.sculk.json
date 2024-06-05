@@ -1,0 +1,17 @@
+{
+    "filename": "connectivity-1.20.1-5.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "16ef782df574b993f7096bbf9f19dd350f784879",
+        "sha512": "9d4f4bb06e867372f749bb96148e6914b522b6763b9b33efb44bf94e5d5ff29e11c2e8d95905eb17c4468c6f1621caf870383cc3ad258d92087c0ade837a0c02",
+        "murmur2": 1172610952
+    },
+    "fileSize": 84061,
+    "sources": {
+        "curseforge": {
+            "projectId": 470193,
+            "fileUrl": "https://edge.forgecdn.net/files/5181/534/connectivity-1.20.1-5.5.jar",
+            "fileId": 5181534
+        }
+    }
+}

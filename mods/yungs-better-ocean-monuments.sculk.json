@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+        "sha512": "2c67db8caf355f2e3b4a6f2b99c64abfa3b084163b38e18aba7f8ad0fb297fab3bfa7a61cd6bff5391fdaad185ed8233f22080a2cd35f1428d2d04dbfdf10a1d",
+        "murmur2": 1334321869
+    },
+    "fileSize": 1033262,
+    "sources": {
+        "curseforge": {
+            "projectId": 689238,
+            "fileUrl": "https://edge.forgecdn.net/files/4883/3/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+            "fileId": 4883003
+        },
+        "modrinth": {
+            "projectId": "3dT9sgt4",
+            "fileUrl": "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+        }
+    }
+}

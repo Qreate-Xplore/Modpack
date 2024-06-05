@@ -1,0 +1,21 @@
+{
+    "filename": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c",
+        "sha512": "b8be6ed0bef707c7c34d84049eb68313a5c787f6e9c9a88fb94daed6bccfedc6c181a1fca431f53b6e8ac03c7baf7653414b5a5792cab6b500c6d66502489431",
+        "murmur2": 1563375780
+    },
+    "fileSize": 66989,
+    "sources": {
+        "curseforge": {
+            "projectId": 630620,
+            "fileUrl": "https://edge.forgecdn.net/files/4706/149/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "fileId": 4706149
+        },
+        "modrinth": {
+            "projectId": "kCpssoSb",
+            "fileUrl": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+        }
+    }
+}

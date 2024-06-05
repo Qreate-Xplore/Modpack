@@ -1,0 +1,17 @@
+{
+    "filename": "MobsOfSins-v0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0754185ff945a217b395d5288c43c32be6fd8806",
+        "sha512": "7f2f3ff17e211a86d8d2a6ede57ba96ef0d9c639590c3b810ae6c88eceb4c993cd494f6c6eec3786bf290e980e0b4d86f965abe12a78f01b3a9f5493e14080c4",
+        "murmur2": 4220390490
+    },
+    "fileSize": 369143,
+    "sources": {
+        "curseforge": {
+            "projectId": 930470,
+            "fileUrl": "https://edge.forgecdn.net/files/4863/123/MobsOfSins-v0.2.jar",
+            "fileId": 4863123
+        }
+    }
+}

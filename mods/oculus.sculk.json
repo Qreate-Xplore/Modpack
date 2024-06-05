@@ -1,0 +1,21 @@
+{
+    "filename": "oculus-mc1.20.1-1.7.0.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "27410903d3af950378776106b76503cfebe7ea3a",
+        "sha512": "8f7e56e65a12c7cfa4719c69e1de552dc8651ab202ff9bf78ff180c4bf81a82f3e569641046b1915b6f9e60f54451ae4b8b0d9a688a0c966473b91de9cefb923",
+        "murmur2": 3367645112
+    },
+    "fileSize": 2831148,
+    "sources": {
+        "curseforge": {
+            "projectId": 581495,
+            "fileUrl": "https://edge.forgecdn.net/files/5299/671/oculus-mc1.20.1-1.7.0.jar",
+            "fileId": 5299671
+        },
+        "modrinth": {
+            "projectId": "GchcoXML",
+            "fileUrl": "https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Wild-West-1.1.0-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d052d3ca5da1bb84884dc8d266e2cd796611ce3c",
+        "sha512": "a3e123502ed52388d2523d730052aa62d849d9b43714e3db6c28648c63839158c009314247c65bc2c8a1d5d2a9c8981cea223fd042382646f6ad045b1113e7a8",
+        "murmur2": 3749696243
+    },
+    "fileSize": 7203395,
+    "sources": {
+        "curseforge": {
+            "projectId": 911571,
+            "fileUrl": "https://edge.forgecdn.net/files/4758/87/Wild-West-1.1.0-1.20.1.jar",
+            "fileId": 4758087
+        },
+        "modrinth": {
+            "projectId": "mMIwijmS",
+            "fileUrl": "https://cdn.modrinth.com/data/mMIwijmS/versions/IXCLqo06/Wild-West-1.1.0-1.20.1.jar"
+        }
+    }
+}

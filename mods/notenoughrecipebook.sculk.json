@@ -1,0 +1,21 @@
+{
+    "filename": "nerb-1.20.1-0.3-FORGE.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "eff45ae52235847c7fd2e65c381cdfc866d1da41",
+        "sha512": "be46225ec0a8636799605b1369c60bd6f150c428982d3b7f0d0b2ca114aa7f1a77658c6763f1d678d184d02213c6cb617c20607b8f445e47c4d947838db89d9c",
+        "murmur2": 2543296658
+    },
+    "fileSize": 10437,
+    "sources": {
+        "curseforge": {
+            "projectId": 738663,
+            "fileUrl": "https://edge.forgecdn.net/files/4742/680/nerb-1.20.1-0.3-FORGE.jar",
+            "fileId": 4742680
+        },
+        "modrinth": {
+            "projectId": "bQh7xzFq",
+            "fileUrl": "https://cdn.modrinth.com/data/bQh7xzFq/versions/hRhjlsGv/nerb-1.20.1-0.3-FORGE.jar"
+        }
+    }
+}

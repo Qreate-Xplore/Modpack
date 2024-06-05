@@ -1,0 +1,17 @@
+{
+    "filename": "ApothicAttributes-1.20.1-1.3.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3bf55cc9499629c6e5df9acc99c63876cc3fe772",
+        "sha512": "1d0891c6b0597faccb0bc1122032936200ab34ed43bb2d339c2efd28945135afdf63b0b8ddffc87d8064b58a1fd97e1858793956062e474213fe583ce8f61554",
+        "murmur2": 4265475872
+    },
+    "fileSize": 232129,
+    "sources": {
+        "curseforge": {
+            "projectId": 898963,
+            "fileUrl": "https://edge.forgecdn.net/files/5340/12/ApothicAttributes-1.20.1-1.3.5.jar",
+            "fileId": 5340012
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "letmedespawn-forge-1.20.x-1.2.0.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "5168aca016a9384a889f74f4b0082cd8b0f50abb",
+        "sha512": "4fa74a0b0d75eb34bdbc9ab511099db9d081ed2d992ac4c33db17a5f39761586f1880b30b0c6c78600c4c762634ca77b443460f3aee594580ed441671b0d436f",
+        "murmur2": 2193460838
+    },
+    "fileSize": 77875,
+    "sources": {
+        "curseforge": {
+            "projectId": 663477,
+            "fileUrl": "https://edge.forgecdn.net/files/4826/822/letmedespawn-forge-1.20.x-1.2.0.jar",
+            "fileId": 4826822
+        },
+        "modrinth": {
+            "projectId": "vE2FN5qn",
+            "fileUrl": "https://cdn.modrinth.com/data/vE2FN5qn/versions/a1JZWhla/letmedespawn-forge-1.20.x-1.2.0.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "kubejs-create-forge-2001.2.5-build.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b5548110822245de13c7adf1d10e00ecab9cd633",
+        "sha512": "629756b7d6504fe4d989ce60a5ca785ab2ad17dc018d4766a437d7b2b384db9c5930c257c484874168c8f832f4503d174e13513dce16c4b983e0e141f1b95250",
+        "murmur2": 1727836468
+    },
+    "fileSize": 31216,
+    "sources": {
+        "curseforge": {
+            "projectId": 429371,
+            "fileUrl": "https://edge.forgecdn.net/files/4884/96/kubejs-create-forge-2001.2.5-build.2.jar",
+            "fileId": 4884096
+        },
+        "modrinth": {
+            "projectId": "T38eAZQC",
+            "fileUrl": "https://cdn.modrinth.com/data/T38eAZQC/versions/hei9cDRa/kubejs-create-forge-2001.2.5-build.2.jar"
+        }
+    }
+}

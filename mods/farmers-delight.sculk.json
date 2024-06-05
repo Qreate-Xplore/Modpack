@@ -1,0 +1,21 @@
+{
+    "filename": "FarmersDelight-1.20.1-1.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "71daa55fd88b6f181c51ec6892600415df591f64",
+        "sha512": "bd025d539511beddd6826896604d2aae17b035fd7ae03c4ae659be3df802f4190b91f935b32a07a69842ad98f79bfbdcc3ef6d0e1e540b35989a806c655b4168",
+        "murmur2": 3051762991
+    },
+    "fileSize": 2915349,
+    "sources": {
+        "curseforge": {
+            "projectId": 398521,
+            "fileUrl": "https://edge.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar",
+            "fileId": 5051242
+        },
+        "modrinth": {
+            "projectId": "R2OftAxM",
+            "fileUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/AxgOboGq/FarmersDelight-1.20.1-1.2.4.jar"
+        }
+    }
+}

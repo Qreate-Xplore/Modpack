@@ -1,0 +1,21 @@
+{
+    "filename": "collective-1.20.1-7.61.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2318f1f3cc1a1a3df9966f657e3fd8edc2b3a33f",
+        "sha512": "c0a5821f5cfd9b5ce69cddd008d95a51bb9f50ea9b8583d8d0da4af43e3aa49b44cf589f235a15124eae9ea237bea173fbfbcc09cf010b9680b98c6929587003",
+        "murmur2": 851386981
+    },
+    "fileSize": 609061,
+    "sources": {
+        "curseforge": {
+            "projectId": 342584,
+            "fileUrl": "https://edge.forgecdn.net/files/5378/112/collective-1.20.1-7.61.jar",
+            "fileId": 5378112
+        },
+        "modrinth": {
+            "projectId": "e0M1UDsY",
+            "fileUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/bB57FIWR/collective-1.20.1-7.61.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "densemekanism-1.20.1-1.1.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "178adb42600bd94be344473661510e5d4c4eb5b6",
+        "sha512": "76f4a1a883e50100a0457894d0f94ae1eab4180210cc8dc5bd0bebee55ea709c4c4db8e2320e2de87556e7696722ea6361fcfd463fe4db914cb62ba94c5d1874",
+        "murmur2": 2094470777
+    },
+    "fileSize": 103254,
+    "sources": {
+        "curseforge": {
+            "projectId": 870688,
+            "fileUrl": "https://edge.forgecdn.net/files/4993/75/densemekanism-1.20.1-1.1.0.jar",
+            "fileId": 4993075
+        }
+    }
+}

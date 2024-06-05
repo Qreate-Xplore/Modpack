@@ -1,0 +1,17 @@
+{
+    "filename": "SimplyHouses-1.1.4-1.20.1-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c3fb8b6593599045a2528d92c1c8b79db0fb7c94",
+        "sha512": "2a0beb2d750323ba5e4cf03cd9b1a8b11a22fcb5899e194057dca19446702377f2074b7ec40ec1a63a6fc769a9d01ac7b06d2acfeee64a3f0f8d048ee4d20fef",
+        "murmur2": 152268997
+    },
+    "fileSize": 460391,
+    "sources": {
+        "curseforge": {
+            "projectId": 630834,
+            "fileUrl": "https://edge.forgecdn.net/files/4607/831/SimplyHouses-1.1.4-1.20.1-forge.jar",
+            "fileId": 4607831
+        }
+    }
+}

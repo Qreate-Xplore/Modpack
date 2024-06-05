@@ -1,0 +1,21 @@
+{
+    "filename": "almostunified-forge-1.20.1-0.9.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e03d5bcc2f8de175d8a790464c2e4e337677463c",
+        "sha512": "21dd24a30cdfd896ff0932348390c0fb14fdfa7ffd7e26b3b3da6eee9f494fb4ac46371ddc4c907d198d87fa523eb6cdfb0ed21324c18237cec7772c2a94f0ef",
+        "murmur2": 3828770303
+    },
+    "fileSize": 212292,
+    "sources": {
+        "curseforge": {
+            "projectId": 633823,
+            "fileUrl": "https://edge.forgecdn.net/files/5273/70/almostunified-forge-1.20.1-0.9.3.jar",
+            "fileId": 5273070
+        },
+        "modrinth": {
+            "projectId": "sdaSaQEz",
+            "fileUrl": "https://cdn.modrinth.com/data/sdaSaQEz/versions/fscv1Pjy/almostunified-forge-1.20.1-0.9.3.jar"
+        }
+    }
+}

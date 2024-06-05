@@ -1,0 +1,21 @@
+{
+    "filename": "sculktransporting-1.20.1-1.1.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f1298d5618b419d330908d4a3fe4f4317c8bb81e",
+        "sha512": "c989aa2f5d81238336bdbca50754a353b0aa77392cf00d5067bf9ea13660a2b411d128472a7248aa8d2c4e2b0515cd9f74170fa867c5e7c681ca1852411c50f1",
+        "murmur2": 967409900
+    },
+    "fileSize": 290412,
+    "sources": {
+        "curseforge": {
+            "projectId": 653704,
+            "fileUrl": "https://edge.forgecdn.net/files/4766/342/sculktransporting-1.20.1-1.1.3.jar",
+            "fileId": 4766342
+        },
+        "modrinth": {
+            "projectId": "G2cuXzjx",
+            "fileUrl": "https://cdn.modrinth.com/data/G2cuXzjx/versions/kksQuIy9/sculktransporting-1.20.1-1.1.3.jar"
+        }
+    }
+}

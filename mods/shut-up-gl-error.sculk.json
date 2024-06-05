@@ -1,0 +1,21 @@
+{
+    "filename": "Shut Up GL Error-forge-1.20.1-1.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "99a47ef4dcb152f276a69e2e2c16e6bae9f10155",
+        "sha512": "7f48b19254154ae475d85aafa242b69e9fc173d697b5cbc189201a784875a4422c45381a74399451a525191c31a069b048c6ee7ed176c737e899df7ecc50487b",
+        "murmur2": 831432782
+    },
+    "fileSize": 119569,
+    "sources": {
+        "curseforge": {
+            "projectId": 900855,
+            "fileUrl": "https://edge.forgecdn.net/files/4691/165/Shut Up GL Error-forge-1.20.1-1.0.0.jar",
+            "fileId": 4691165
+        },
+        "modrinth": {
+            "projectId": "houIxdGF",
+            "fileUrl": "https://cdn.modrinth.com/data/houIxdGF/versions/Gso8AhoY/Shut%20Up%20GL%20Error-forge-1.20.1-1.0.0.jar"
+        }
+    }
+}

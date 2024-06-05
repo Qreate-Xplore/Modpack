@@ -1,0 +1,17 @@
+{
+    "filename": "enemyexpansion-2.3.1-forge-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f21c0b158990b480fcebf6c6cc91434e02fb8a1c",
+        "sha512": "3cd9028c32e2d67937ba3ec125e615d34022b8ec88c97fa23242a632d177c3c515bbd0c489840245f782175adcd976421197057d8fba438a846e084ef3ab6ac3",
+        "murmur2": 4271391952
+    },
+    "fileSize": 1006273,
+    "sources": {
+        "curseforge": {
+            "projectId": 690139,
+            "fileUrl": "https://edge.forgecdn.net/files/5286/459/enemyexpansion-2.3.1-forge-1.20.1.jar",
+            "fileId": 5286459
+        }
+    }
+}

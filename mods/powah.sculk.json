@@ -1,0 +1,21 @@
+{
+    "filename": "Powah-5.0.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c81a6a5d902978e6ba014adf371dcc4777fddbfd",
+        "sha512": "8c4d9d14eeb57c2dc889510d3e9894cb9452587f29f1c74c277749920df755b1bcefd2f9998c720b6fc5b42e467eb19db0135f03580cb7ca50c1177005c5ffe5",
+        "murmur2": 828030301
+    },
+    "fileSize": 1895592,
+    "sources": {
+        "curseforge": {
+            "projectId": 633483,
+            "fileUrl": "https://edge.forgecdn.net/files/5103/98/Powah-5.0.5.jar",
+            "fileId": 5103098
+        },
+        "modrinth": {
+            "projectId": "KZO4S4DO",
+            "fileUrl": "https://cdn.modrinth.com/data/KZO4S4DO/versions/LRcOcX8Y/Powah-5.0.5.jar"
+        }
+    }
+}

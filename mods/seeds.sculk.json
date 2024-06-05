@@ -1,0 +1,17 @@
+{
+    "filename": "seeds-1.20.1-1.1.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7832e0ab0b02d78a2a2301177bea0773b079f328",
+        "sha512": "eb69128bab50209fd803de71269b71c6a9f51d9830913a88cf3d86f4647aeabe087c2bc587a1fc684752dbcba45df9356a7c7ab76e52cc75789ae05c95a7e173",
+        "murmur2": 1461772238
+    },
+    "fileSize": 1572893,
+    "sources": {
+        "curseforge": {
+            "projectId": 601515,
+            "fileUrl": "https://edge.forgecdn.net/files/4835/809/seeds-1.20.1-1.1.5.jar",
+            "fileId": 4835809
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+        "sha512": "ed734046c356bb996b628c2e0c47e64ba598c87016591fd77533069de68f27b8bfdcd2173d7d3db97f1981ebb806133c3d1751c330d539ade3d6c37ed2d5598f",
+        "murmur2": 3793510333
+    },
+    "fileSize": 2864275,
+    "sources": {
+        "curseforge": {
+            "projectId": 626761,
+            "fileUrl": "https://edge.forgecdn.net/files/4923/828/Towns-and-Towers-1.12-Fabric%2bForge.jar",
+            "fileId": 4923828
+        },
+        "modrinth": {
+            "projectId": "DjLobEOy",
+            "fileUrl": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "refinedstorageaddons-0.10.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "829c7270a3fad543e441a18b5b9f27fd30824086",
+        "sha512": "c915add6f24d0cf7b6bae6deaaaea4a247052cf92743f520e706dc133d44feded85100bab6b8cac0c35a67ed77d119b8c5668d901ad5df84bce658b20221595c",
+        "murmur2": 2072148048
+    },
+    "fileSize": 33771,
+    "sources": {
+        "curseforge": {
+            "projectId": 272302,
+            "fileUrl": "https://edge.forgecdn.net/files/4626/171/refinedstorageaddons-0.10.0.jar",
+            "fileId": 4626171
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "twilightforest-1.20.1-4.3.2145-universal.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f4bfc12ce16472e9c7f975a57bb9885eed223a87",
+        "sha512": "9c4a4d2cf8a786aa49175e0f42ea0366362f141e6b8e7c4aac531c1b1c5c2fce5e2c9fac022de795f1d36d3d55b2042ef9d85e69d810fc68dd469c0c6c64465e",
+        "murmur2": 3686850018
+    },
+    "fileSize": 23332086,
+    "sources": {
+        "curseforge": {
+            "projectId": 227639,
+            "fileUrl": "https://edge.forgecdn.net/files/5071/19/twilightforest-1.20.1-4.3.2145-universal.jar",
+            "fileId": 5071019
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "Placebo-1.20.1-8.6.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "df3170bd94639d6cd49eded3a4faacac953aeaf8",
+        "sha512": "0d0dfbf1c442bdd8068b0f2ab629ee6837d4128cf0ba3c1edf3303eda59e564646a64b2b29979af1734849c7f44b2c050f718afe752a00554b370e55010ae938",
+        "murmur2": 2707642561
+    },
+    "fileSize": 285463,
+    "sources": {
+        "curseforge": {
+            "projectId": 283644,
+            "fileUrl": "https://edge.forgecdn.net/files/5098/182/Placebo-1.20.1-8.6.1.jar",
+            "fileId": 5098182
+        }
+    }
+}

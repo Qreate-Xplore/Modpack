@@ -1,0 +1,17 @@
+{
+    "filename": "gpumemleakfix-1.20.1-1.8.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
+        "sha512": "6e513fa050f21d7f43f1c8a698d3702e08836ef1dfcdc5fdd20ad9dc51f25d3934b11149095240899adb88eec2602cb858ce23dc32f770b118e9438fd68561cb",
+        "murmur2": 686879422
+    },
+    "fileSize": 7997,
+    "sources": {
+        "curseforge": {
+            "projectId": 882495,
+            "fileUrl": "https://edge.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
+            "fileId": 4884976
+        }
+    }
+}

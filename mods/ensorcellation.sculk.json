@@ -1,0 +1,21 @@
+{
+    "filename": "ensorcellation-1.20.1-5.0.1.23.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5e63889bf0cfbd691034352cbe4247ee2602e0ce",
+        "sha512": "46a11053cb644edd97dbb1ac8b85b81be2fae104bfebf61593db8963bb4c5f2a7013e2ad3edf9ad33574ff1c40f0b849ed2250118ce22499e3950ee34e883836",
+        "murmur2": 268825507
+    },
+    "fileSize": 113172,
+    "sources": {
+        "curseforge": {
+            "projectId": 349447,
+            "fileUrl": "https://edge.forgecdn.net/files/5372/744/ensorcellation-1.20.1-5.0.1.23.jar",
+            "fileId": 5372744
+        },
+        "modrinth": {
+            "projectId": "ImlP9deQ",
+            "fileUrl": "https://cdn.modrinth.com/data/ImlP9deQ/versions/Z0UYcq3S/ensorcellation-1.20.1-5.0.1.23.jar"
+        }
+    }
+}

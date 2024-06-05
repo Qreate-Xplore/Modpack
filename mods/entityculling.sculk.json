@@ -1,0 +1,21 @@
+{
+    "filename": "entityculling-forge-1.6.5-mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "efe9677fe7ed1b4ed7690f772c003cb2893bf05d",
+        "sha512": "02e102bd43ede046e88662e057a609756e23af7b2a9ea13ac8079587b6427114b31bbdb141c0d63ddace85d07e8eaa3832f0c21b56897d0660501734af0f79b6",
+        "murmur2": 960431893
+    },
+    "fileSize": 69491,
+    "sources": {
+        "curseforge": {
+            "projectId": 448233,
+            "fileUrl": "https://edge.forgecdn.net/files/5371/852/entityculling-forge-1.6.5-mc1.20.1.jar",
+            "fileId": 5371852
+        },
+        "modrinth": {
+            "projectId": "NNAgCjsB",
+            "fileUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/bketoxVs/entityculling-forge-1.6.5-mc1.20.1.jar"
+        }
+    }
+}

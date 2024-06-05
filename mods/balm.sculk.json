@@ -1,0 +1,17 @@
+{
+    "filename": "balm-forge-1.20.1-7.2.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "637e8a504b6c577b90325778823240ec5dbcc0fe",
+        "sha512": "61ad1c16cd4678dfd1d9d0dba8049b3bf7ca6303e828462ee9654ce50dd15b154c7a39654dda062a37209c2cfd51768a7d1437b5502b506189927b63e36d7b7d",
+        "murmur2": 409801722
+    },
+    "fileSize": 343714,
+    "sources": {
+        "curseforge": {
+            "projectId": 531761,
+            "fileUrl": "https://edge.forgecdn.net/files/5140/912/balm-forge-1.20.1-7.2.2.jar",
+            "fileId": 5140912
+        }
+    }
+}

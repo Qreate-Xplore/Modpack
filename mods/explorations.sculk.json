@@ -1,0 +1,21 @@
+{
+    "filename": "explorations-forge-1.20.1-1.5.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cd1d742577c2143bc6c30c57800b0f80d4887980",
+        "sha512": "6d79dbc2592c75d2138cd9c1062be54f1de0a1dfe214acaf04b9837ef4fed332779ce20f1d3631c68ef7d83336efe81460cb7cf00384464eaa643dd0e835987c",
+        "murmur2": 3131095085
+    },
+    "fileSize": 181870,
+    "sources": {
+        "curseforge": {
+            "projectId": 550247,
+            "fileUrl": "https://edge.forgecdn.net/files/4649/651/explorations-forge-1.20.1-1.5.2.jar",
+            "fileId": 4649651
+        },
+        "modrinth": {
+            "projectId": "pcGnjJ39",
+            "fileUrl": "https://cdn.modrinth.com/data/pcGnjJ39/versions/p6rfGUTW/explorations-forge-1.20.1-1.5.2.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "Difficult Spawners 1.1.0 - 1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f40c4a39f3639aa0f5b644d497b690ca7914999c",
+        "sha512": "a2f30875a6d6f7aaa63d444ab29dfad24f6fb2659d82aa6260693c6475462919495e92aebfddbf03168af1b37676f4bc5648de211e0865d35699389d4c796552",
+        "murmur2": 242516713
+    },
+    "fileSize": 38675,
+    "sources": {
+        "curseforge": {
+            "projectId": 810915,
+            "fileUrl": "https://edge.forgecdn.net/files/5160/726/Difficult%20Spawners%201.1.0%20-%201.20.1.jar",
+            "fileId": 5160726
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "xnet-1.20-6.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fd6e52f35413bc8b90e3e2fbec7e12623675f2ee",
+        "sha512": "bca48c3109c05197f47636f376ed5da6b32b27da68c500b37ebab4a0c18225bed0034d431c9052b50206d90c5db6bb11957c7c6b07829a85bd21d8ed280e6b87",
+        "murmur2": 1434469218
+    },
+    "fileSize": 559520,
+    "sources": {
+        "curseforge": {
+            "projectId": 260912,
+            "fileUrl": "https://edge.forgecdn.net/files/5367/41/xnet-1.20-6.1.2.jar",
+            "fileId": 5367041
+        }
+    }
+}

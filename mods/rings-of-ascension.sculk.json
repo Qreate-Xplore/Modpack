@@ -1,0 +1,17 @@
+{
+    "filename": "RingsOfAscension-1.20.1-2.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d9e70093d6ac1b70823c48bf2742a9313c8a2989",
+        "sha512": "afe4f6aba24fbea5d96cdf61c45ce7d58c5252dc9882ea8581cb4865f7055668130154f465c09e6fdd5426ac6f8305828e6637ffb2923b572ad97133abd55ab1",
+        "murmur2": 63148815
+    },
+    "fileSize": 381787,
+    "sources": {
+        "curseforge": {
+            "projectId": 379208,
+            "fileUrl": "https://edge.forgecdn.net/files/5166/182/RingsOfAscension-1.20.1-2.0.2.jar",
+            "fileId": 5166182
+        }
+    }
+}

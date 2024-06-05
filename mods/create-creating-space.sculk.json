@@ -1,0 +1,17 @@
+{
+    "filename": "creatingspace-1.20.1-1.7.0b-hf.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "089bb323b78ca9b682326e13636ef70aec26f3b0",
+        "sha512": "d7751aa1109d0fe1256006c17da108e2bafe63df4f136c7df82f0dbfe62b4e20fa40273f387c95c4fd071b6817a016deb2619d72924e0465298c982e8f061a4a",
+        "murmur2": 1739886137
+    },
+    "fileSize": 1522699,
+    "sources": {
+        "curseforge": {
+            "projectId": 858897,
+            "fileUrl": "https://edge.forgecdn.net/files/5172/427/creatingspace-1.20.1-1.7.0b-hf.jar",
+            "fileId": 5172427
+        }
+    }
+}

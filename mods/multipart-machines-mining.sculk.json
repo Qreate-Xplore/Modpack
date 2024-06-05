@@ -1,0 +1,17 @@
+{
+    "filename": "MMMining-1.20.1-1.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "55c7254cb90c37815c402fd2a2c7a374c437281d",
+        "sha512": "1fbd711e240f1c7256826bae284215641ed73d876c7542c3d85c5c27cb5c857c3649654df766bb81d08f7b2a853ac4373a0b8154bb0898386cc55cefc321a4d4",
+        "murmur2": 554158679
+    },
+    "fileSize": 2582152,
+    "sources": {
+        "curseforge": {
+            "projectId": 962841,
+            "fileUrl": "https://edge.forgecdn.net/files/5274/50/MMMining-1.20.1-1.3.jar",
+            "fileId": 5274050
+        }
+    }
+}

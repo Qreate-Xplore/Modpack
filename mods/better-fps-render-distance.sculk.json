@@ -1,0 +1,17 @@
+{
+    "filename": "betterfpsdist-1.20.1-4.4.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "7e06fc293f9f4202c6d25782ae6345d0f133eb56",
+        "sha512": "f4ef936da20ff64ced769d6a3b304e7e7c1b8d4ba5f3e7f4393daaa5d6aa5c254b2fd4a49da05d6511330a665d7c0743ab1adde573d04bb5bbdb507cd3d043a5",
+        "murmur2": 3630780746
+    },
+    "fileSize": 17090,
+    "sources": {
+        "curseforge": {
+            "projectId": 551520,
+            "fileUrl": "https://edge.forgecdn.net/files/5333/766/betterfpsdist-1.20.1-4.4.jar",
+            "fileId": 5333766
+        }
+    }
+}

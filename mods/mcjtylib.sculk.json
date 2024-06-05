@@ -1,0 +1,17 @@
+{
+    "filename": "mcjtylib-1.20-8.0.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8a2d5d39125976fdc7e73cf4a2e5856a3c3d9b13",
+        "sha512": "a494fe1f4fc9733c15ec28fe188272c3802a9f228fc5a0d3d92e8a2c26f8d0c458b3671063de232f3bf5205092e828b2760de97fd469ccf8979161537780a5e0",
+        "murmur2": 2612993772
+    },
+    "fileSize": 675100,
+    "sources": {
+        "curseforge": {
+            "projectId": 233105,
+            "fileUrl": "https://edge.forgecdn.net/files/5352/586/mcjtylib-1.20-8.0.5.jar",
+            "fileId": 5352586
+        }
+    }
+}

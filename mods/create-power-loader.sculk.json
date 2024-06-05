@@ -1,0 +1,21 @@
+{
+    "filename": "create_power_loader-1.5.0-mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "15c83719f60df6108780ea7106436c639a4b9247",
+        "sha512": "c22b806fca4fb8339cfd070a788cbe5b4fabe789531bef9fe1034c9ba00b8980cac1d9eddd26b5192ddb77fc9f39d70e6e61fc1117b7303545b6dd2f1969170b",
+        "murmur2": 977064639
+    },
+    "fileSize": 223428,
+    "sources": {
+        "curseforge": {
+            "projectId": 936020,
+            "fileUrl": "https://edge.forgecdn.net/files/5360/743/create_power_loader-1.5.0-mc1.20.1.jar",
+            "fileId": 5360743
+        },
+        "modrinth": {
+            "projectId": "wPQ6GgFE",
+            "fileUrl": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar"
+        }
+    }
+}

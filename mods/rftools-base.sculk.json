@@ -1,0 +1,17 @@
+{
+    "filename": "rftoolsbase-1.20-5.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5322c53a0d0287aebfe58e029b02da3561b4cbf8",
+        "sha512": "10873fc2c427c8d6657376bb703633b82db2765ee5d0d79bb7abf04002713596c180a7c4a7c4fc2e54a49a9bfff542ddeed82fa1150ae34cd35bf2c6d85efd2e",
+        "murmur2": 3731147963
+    },
+    "fileSize": 418276,
+    "sources": {
+        "curseforge": {
+            "projectId": 326041,
+            "fileUrl": "https://edge.forgecdn.net/files/5283/894/rftoolsbase-1.20-5.0.3.jar",
+            "fileId": 5283894
+        }
+    }
+}

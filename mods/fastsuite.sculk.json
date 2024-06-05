@@ -1,0 +1,17 @@
+{
+    "filename": "FastSuite-1.20.1-5.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c418caa1eea74e9f05b4a20862ebc665019250c8",
+        "sha512": "2e891b6c995f1de55db358de8d3e013c976d62b2ad5d94c731e837a1efbd464d8f0a9d9085fff8430009ad39b6d6ea325ade6af6320f575952dfdaf69c83b39d",
+        "murmur2": 73298421
+    },
+    "fileSize": 20315,
+    "sources": {
+        "curseforge": {
+            "projectId": 475117,
+            "fileUrl": "https://edge.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
+            "fileId": 4711435
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Runelic-Forge-1.20.1-18.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3b8cc4657cf9f0e321834b1726e358b58a1ea3c4",
+        "sha512": "9e4498ab04bbd5feda0a3318f880d3972d9c19034828b3888508b4f42a687adc694ab9ed620581051d963b1705460e7152d6996756dfbdc41b4211447d208a6f",
+        "murmur2": 1038175349
+    },
+    "fileSize": 63314,
+    "sources": {
+        "curseforge": {
+            "projectId": 393149,
+            "fileUrl": "https://edge.forgecdn.net/files/4714/779/Runelic-Forge-1.20.1-18.0.2.jar",
+            "fileId": 4714779
+        },
+        "modrinth": {
+            "projectId": "P4Xi5huA",
+            "fileUrl": "https://cdn.modrinth.com/data/P4Xi5huA/versions/eIrXt8Bi/Runelic-Forge-1.20.1-18.0.2.jar"
+        }
+    }
+}

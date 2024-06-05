@@ -1,0 +1,21 @@
+{
+    "filename": "embersrekindled-1.20.1-1.2.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "1b0c9e9551cb900a4de96870700ec052ac0e7c47",
+        "sha512": "f10c03f0d82f346732a9f56e32c150d0cc596976af6d014d8e2eb5dd26a4929982fee516569e2642ea20140586ae91e8d6672b7ac0c5f91bfe50d7ae505d9e7d",
+        "murmur2": 22817531
+    },
+    "fileSize": 15004433,
+    "sources": {
+        "curseforge": {
+            "projectId": 300777,
+            "fileUrl": "https://edge.forgecdn.net/files/5315/565/embersrekindled-1.20.1-1.2.3.jar",
+            "fileId": 5315565
+        },
+        "modrinth": {
+            "projectId": "eMWmEr1R",
+            "fileUrl": "https://cdn.modrinth.com/data/eMWmEr1R/versions/EyPsS7hp/embersrekindled-1.20.1-1.2.3.jar"
+        }
+    }
+}

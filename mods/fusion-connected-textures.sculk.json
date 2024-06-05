@@ -1,0 +1,21 @@
+{
+    "filename": "fusion-1.1.1-forge-mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d45b7aa1be6d65a6c8c1d0b8fb7da07f1ea56c2f",
+        "sha512": "14709f3ed537dc4dcf377cc0404f54e421f1dfc7d0159169d7acac3acb42b160180d9e51d33e6582a9a591e46bcfaf564c910c39ce5bf9e5b998a9d67df70f88",
+        "murmur2": 1690158707
+    },
+    "fileSize": 221813,
+    "sources": {
+        "curseforge": {
+            "projectId": 854949,
+            "fileUrl": "https://edge.forgecdn.net/files/5129/294/fusion-1.1.1-forge-mc1.20.1.jar",
+            "fileId": 5129294
+        },
+        "modrinth": {
+            "projectId": "p19vrgc2",
+            "fileUrl": "https://cdn.modrinth.com/data/p19vrgc2/versions/oA5jxU4i/fusion-1.1.1-forge-mc1.20.1.jar"
+        }
+    }
+}

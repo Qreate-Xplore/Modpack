@@ -1,0 +1,21 @@
+{
+    "filename": "lootjs-forge-1.20.1-2.11.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "723364d1394f92179ee28b91d66419d94588b7bf",
+        "sha512": "0cc94a5817968e54013a79755c598660d49a9ce546b693be326e75c158f0e34623723579e7b68cca6c6c1447567d5b49b9d169a92b7a51b6a43c2b93992b2bbc",
+        "murmur2": 1733950468
+    },
+    "fileSize": 241843,
+    "sources": {
+        "curseforge": {
+            "projectId": 570630,
+            "fileUrl": "https://edge.forgecdn.net/files/5096/206/lootjs-forge-1.20.1-2.11.0.jar",
+            "fileId": 5096206
+        },
+        "modrinth": {
+            "projectId": "fJFETWDN",
+            "fileUrl": "https://cdn.modrinth.com/data/fJFETWDN/versions/gFOZANKr/lootjs-forge-1.20.1-2.11.0.jar"
+        }
+    }
+}

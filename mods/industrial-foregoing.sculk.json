@@ -1,0 +1,21 @@
+{
+    "filename": "industrial-foregoing-1.20.1-3.5.17.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "81b629e8227227c7558068971b53730cbafc4ecc",
+        "sha512": "7426d311c2f280fd2d85c8854ab88aafc5ddbf87f6ecd08c3ef0b5e69382d1e700c85dc8f4673e155d267ccb57a7aeec56fc8b4b1d835a41a249ec9e264ff19b",
+        "murmur2": 2536222222
+    },
+    "fileSize": 4512775,
+    "sources": {
+        "curseforge": {
+            "projectId": 266515,
+            "fileUrl": "https://edge.forgecdn.net/files/5355/551/industrial-foregoing-1.20.1-3.5.17.jar",
+            "fileId": 5355551
+        },
+        "modrinth": {
+            "projectId": "lWxpUd04",
+            "fileUrl": "https://cdn.modrinth.com/data/lWxpUd04/versions/dmSYlUqv/industrial-foregoing-1.20.1-3.5.17.jar"
+        }
+    }
+}

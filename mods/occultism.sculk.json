@@ -1,0 +1,21 @@
+{
+    "filename": "occultism-1.20.1-1.126.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c9b425c674c16c2af5a5ba5b970dfec8adb9cbf9",
+        "sha512": "a4ddd871531d64bbc1def58f0164a8852c044cdc160eb66b416d03ae0f4415bce6e463cc841c73296efc8b470265fcd1afdd559b3a0f11ddd3cf22a17ed8a0b2",
+        "murmur2": 4258088314
+    },
+    "fileSize": 3796536,
+    "sources": {
+        "curseforge": {
+            "projectId": 361026,
+            "fileUrl": "https://edge.forgecdn.net/files/5340/332/occultism-1.20.1-1.126.0.jar",
+            "fileId": 5340332
+        },
+        "modrinth": {
+            "projectId": "sbJh4AZw",
+            "fileUrl": "https://cdn.modrinth.com/data/sbJh4AZw/versions/bnBNL9JV/occultism-1.20.1-1.126.0.jar"
+        }
+    }
+}

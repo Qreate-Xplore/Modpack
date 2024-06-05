@@ -1,0 +1,21 @@
+{
+    "filename": "formationsoverworld-1.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fd108573b9718bcfc8422570fe9b9e1fb32baffd",
+        "sha512": "47e25d084c23b76c7a3590a655f17ea8830e18770b1c6569faa07be63a51516440365ffba333a11f8c001bde36b3a4c31a0d19dcc83ea3838943d4f8b9cbf54a",
+        "murmur2": 3436328695
+    },
+    "fileSize": 834347,
+    "sources": {
+        "curseforge": {
+            "projectId": 915324,
+            "fileUrl": "https://edge.forgecdn.net/files/5296/564/formationsoverworld-1.0.3.jar",
+            "fileId": 5296564
+        },
+        "modrinth": {
+            "projectId": "KX1XC0Oo",
+            "fileUrl": "https://cdn.modrinth.com/data/KX1XC0Oo/versions/ZijxAoSG/formationsoverworld-1.0.3.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "uniquedungeons-0.70.2-47.2.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c15dbcb3cd2bf3ff23d9889479ad2cb135d2855f",
+        "sha512": "b419e9e290a16accbd7f8cdbe0e4e8d5cd88887dfe92ebb8d090c27d220da71f12785326c227fb1b865869401be3b46a3966b45adda3e24953a51a9553727d45",
+        "murmur2": 180054393
+    },
+    "fileSize": 1371654,
+    "sources": {
+        "curseforge": {
+            "projectId": 835792,
+            "fileUrl": "https://edge.forgecdn.net/files/5274/286/uniquedungeons-0.70.2-47.2.0.jar",
+            "fileId": 5274286
+        }
+    }
+}

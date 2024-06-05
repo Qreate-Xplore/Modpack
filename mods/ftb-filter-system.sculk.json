@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-filter-system-forge-1.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d45c6bc341e50ba1b133c378de8938a3d349f4f3",
+        "sha512": "fc4e8146bd4223bb63488db388c0a061d0472e03b61578990ebc83b7ef30deb5e21ce47960b6ae79093d324aaa417869a1749010ce0cd39e41dad6e10e13aabb",
+        "murmur2": 412256847
+    },
+    "fileSize": 196440,
+    "sources": {
+        "curseforge": {
+            "projectId": 943925,
+            "fileUrl": "https://edge.forgecdn.net/files/4926/70/ftb-filter-system-forge-1.0.2.jar",
+            "fileId": 4926070
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "CodeChickenLib-1.20.1-4.4.0.509-universal.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fd0e83c4ce9aa1065f87f57770c4364d0c7c5d67",
+        "sha512": "06526ddfbf56da60c4f66e34256045dc19f7c39467956d1cd53fcb27c71c2e3db60f00743b10f4e8c6cb94ac7eee85930b71b04a5e72f390fd309ee26286400b",
+        "murmur2": 2823020239
+    },
+    "fileSize": 1460752,
+    "sources": {
+        "curseforge": {
+            "projectId": 242818,
+            "fileUrl": "https://edge.forgecdn.net/files/5292/543/CodeChickenLib-1.20.1-4.4.0.509-universal.jar",
+            "fileId": 5292543
+        },
+        "modrinth": {
+            "projectId": "2gq0ALnz",
+            "fileUrl": "https://cdn.modrinth.com/data/2gq0ALnz/versions/en274HWr/CodeChickenLib-1.20.1-4.4.0.509-universal.jar"
+        }
+    }
+}

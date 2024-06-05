@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-pack-companion-20.1.1+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4b9dad314075ef422cbefc9e023dcba1e8c4842e",
+        "sha512": "cb9462bd440aafb569804f372247199a1a357ca128558990974b4e2a5661212c87cbe46299a4fffe0ad7367c84c3dc4d5b79b819efc19eceda57891fe0cd5c16",
+        "murmur2": 260162470
+    },
+    "fileSize": 109815,
+    "sources": {
+        "curseforge": {
+            "projectId": 693963,
+            "fileUrl": "https://edge.forgecdn.net/files/5249/547/ftb-pack-companion-20.1.1%2bmc1.20.1.jar",
+            "fileId": 5249547
+        }
+    }
+}

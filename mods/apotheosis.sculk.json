@@ -1,0 +1,17 @@
+{
+    "filename": "Apotheosis-1.20.1-7.3.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e1983e1502adc01066933c3b456df4fb323c96ad",
+        "sha512": "f95d8544f4fb639977c95cfb1c807ca5db949a9960aed32df3b502e4f06aa8be3031145ca687bc32524515ed0d1f70ea6b8888dc9d94ba9d55bb889925e01516",
+        "murmur2": 3065769174
+    },
+    "fileSize": 2220081,
+    "sources": {
+        "curseforge": {
+            "projectId": 313970,
+            "fileUrl": "https://edge.forgecdn.net/files/5317/303/Apotheosis-1.20.1-7.3.5.jar",
+            "fileId": 5317303
+        }
+    }
+}

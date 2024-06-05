@@ -1,0 +1,17 @@
+{
+    "filename": "balancedflight-1.20.1_v2.2.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "937ec99379232fd63e172056a02f8bb6d76cf829",
+        "sha512": "f5f886709ff979da2a4b96ca9e4b7b2832e3b810d35498c8b946af4de1e795d762c47af1d3457d8f5b686f165f5a55f903fc222441b469a34b6ff89cb302495e",
+        "murmur2": 1445904036
+    },
+    "fileSize": 114292,
+    "sources": {
+        "curseforge": {
+            "projectId": 538560,
+            "fileUrl": "https://edge.forgecdn.net/files/5008/965/balancedflight-1.20.1_v2.2.0.jar",
+            "fileId": 5008965
+        }
+    }
+}

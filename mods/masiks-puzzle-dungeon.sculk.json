@@ -1,0 +1,17 @@
+{
+    "filename": "puzzledungeon-forge-1.20.1-1.2.0.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "374ec2764a0ccaaad6f2175497a3c03ead9c5875",
+        "sha512": "a36a742fea9e91de249ace4435c6a691a412c16c24bcf654e292813530891bf9e11f7f395f15c15999f08c9f5254ba2fd80507437de75d9aa995d0f5b04fa3f0",
+        "murmur2": 3756889417
+    },
+    "fileSize": 731529,
+    "sources": {
+        "curseforge": {
+            "projectId": 846659,
+            "fileUrl": "https://edge.forgecdn.net/files/5079/759/puzzledungeon-forge-1.20.1-1.2.0.jar",
+            "fileId": 5079759
+        }
+    }
+}

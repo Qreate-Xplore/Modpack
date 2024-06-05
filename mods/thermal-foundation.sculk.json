@@ -1,0 +1,21 @@
+{
+    "filename": "thermal_foundation-1.20.1-11.0.4.68.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6970f0dc8e223c82650a1c8108f99b5fc4cb6581",
+        "sha512": "b0ec35471b7e33ece17dabac22f8a451d3ca3d6ee0c4478e60e99f14400c3e40a8c5e069f9a3eb852deed93c135bbefaba5c7308ab9b4410b37b846bc4ed71e1",
+        "murmur2": 1910450880
+    },
+    "fileSize": 4552609,
+    "sources": {
+        "curseforge": {
+            "projectId": 222880,
+            "fileUrl": "https://edge.forgecdn.net/files/5374/123/thermal_foundation-1.20.1-11.0.4.68.jar",
+            "fileId": 5374123
+        },
+        "modrinth": {
+            "projectId": "Xvg6q5Wp",
+            "fileUrl": "https://cdn.modrinth.com/data/Xvg6q5Wp/versions/uWULB2tU/thermal_foundation-1.20.1-11.0.4.68.jar"
+        }
+    }
+}

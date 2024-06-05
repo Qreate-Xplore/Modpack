@@ -1,0 +1,21 @@
+{
+    "filename": "DarkUtilities-Forge-1.20.1-17.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8588799f5a9449f4da289aa6534d68133a68b50d",
+        "sha512": "9380df6c4432225a54c6cbaac91b4cb0079fb06af54387940d16ecfdd736e8b4fdcc99fb853be635943c14b07763bfd9c15149f02de00c46ae068d30dd9782c5",
+        "murmur2": 2293708095
+    },
+    "fileSize": 172579,
+    "sources": {
+        "curseforge": {
+            "projectId": 242195,
+            "fileUrl": "https://edge.forgecdn.net/files/4834/332/DarkUtilities-Forge-1.20.1-17.0.3.jar",
+            "fileId": 4834332
+        },
+        "modrinth": {
+            "projectId": "CkqTAIaP",
+            "fileUrl": "https://cdn.modrinth.com/data/CkqTAIaP/versions/82toaoSD/DarkUtilities-Forge-1.20.1-17.0.3.jar"
+        }
+    }
+}

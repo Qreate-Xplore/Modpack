@@ -1,0 +1,21 @@
+{
+    "filename": "modelfix-1.15.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
+        "sha512": "b46d6b507b12c63a6fa96ca0571c1b94fc6525e48fdfdbcaa018aa3c4a4801da5c4bb80a173f7cca04b1591854147260163716e25041363b8640f20ff1c736d4",
+        "murmur2": 3993116548
+    },
+    "fileSize": 45246,
+    "sources": {
+        "curseforge": {
+            "projectId": 676136,
+            "fileUrl": "https://edge.forgecdn.net/files/5200/949/modelfix-1.15.jar",
+            "fileId": 5200949
+        },
+        "modrinth": {
+            "projectId": "QdG47OkI",
+            "fileUrl": "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar"
+        }
+    }
+}

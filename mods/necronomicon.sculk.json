@@ -1,0 +1,21 @@
+{
+    "filename": "Necronomicon-Forge-1.4.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8d518d4e32054c86783f26ce024c774ef8fa1861",
+        "sha512": "76188df1b9be4d4d5f2bafc240d7bafdf13536c883e3d7cfc7abf69e2f6d934297e06a5c18d58ca18d839775f1707e3fab8568247919192fd3a6f68da4044b1d",
+        "murmur2": 3381199689
+    },
+    "fileSize": 45990,
+    "sources": {
+        "curseforge": {
+            "projectId": 586157,
+            "fileUrl": "https://edge.forgecdn.net/files/5091/310/Necronomicon-Forge-1.4.2.jar",
+            "fileId": 5091310
+        },
+        "modrinth": {
+            "projectId": "P1Kv5EAO",
+            "fileUrl": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/txeRRjSH/Necronomicon-Forge-1.4.2.jar"
+        }
+    }
+}

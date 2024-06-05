@@ -1,0 +1,17 @@
+{
+    "filename": "dimthread-1.20.1-v1.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "282c3cf851b29e262e2ae62d64d2b98636aedc5a",
+        "sha512": "0deceb2fde4a8f8f488ac80fc6990280dc2aff6ff36081dab435bb339129e7fbde6b21d739c179ebfa0b45578ea1295db5952915f1ef6bb15cd650037cc9eda9",
+        "murmur2": 355773049
+    },
+    "fileSize": 436042,
+    "sources": {
+        "curseforge": {
+            "projectId": 955545,
+            "fileUrl": "https://edge.forgecdn.net/files/5145/251/dimthread-1.20.1-v1.0.4.jar",
+            "fileId": 5145251
+        }
+    }
+}

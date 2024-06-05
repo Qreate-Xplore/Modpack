@@ -1,0 +1,21 @@
+{
+    "filename": "PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5eee6d7090a0f6112961073ea881d4c6e30f15f1",
+        "sha512": "ef0284faa01d8f1867b9b92b207d85994e3813fdf5888da33c771622c099370a5c3ee6371c3f57948c18408416cbb4fb3029afcb44b7eac94c5871943bb652ef",
+        "murmur2": 2808213676
+    },
+    "fileSize": 1001058,
+    "sources": {
+        "curseforge": {
+            "projectId": 495476,
+            "fileUrl": "https://edge.forgecdn.net/files/5373/244/PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
+            "fileId": 5373244
+        },
+        "modrinth": {
+            "projectId": "QAGBst4M",
+            "fileUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/FWuIR2cX/PuzzlesLib-v8.1.20-1.20.1-Forge.jar"
+        }
+    }
+}

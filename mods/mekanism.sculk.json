@@ -1,0 +1,21 @@
+{
+    "filename": "Mekanism-1.20.1-10.4.6.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "728c25f3c3638f9336f15503f94d1073a48ddc42",
+        "sha512": "ed119508dafbe47bb44082990ae2756dd884a871d4bf161b2bf462fa2d3675e62db969692b1fcf554d697816a836f2aa367a02ecdc8f9882829aa00dd70d9f52",
+        "murmur2": 2546401796
+    },
+    "fileSize": 12550196,
+    "sources": {
+        "curseforge": {
+            "projectId": 268560,
+            "fileUrl": "https://edge.forgecdn.net/files/5125/665/Mekanism-1.20.1-10.4.6.20.jar",
+            "fileId": 5125665
+        },
+        "modrinth": {
+            "projectId": "Ce6I4WUE",
+            "fileUrl": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/gNIc57RO/Mekanism-1.20.1-10.4.6.20.jar"
+        }
+    }
+}

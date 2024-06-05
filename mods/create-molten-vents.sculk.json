@@ -1,0 +1,21 @@
+{
+    "filename": "molten_vents-1.20.1-2.0.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5fafed33869aff61ec5ad8fd2a35f23fe10ab9a1",
+        "sha512": "eaf60e4195d2b84985a9b0f693d1b12dac4f3ebac418d20f6210caa42b1fd39317a6db51de08b5bda0f9b1ad583997136f2a1372a7a32be749f53ab027bc041b",
+        "murmur2": 2986221950
+    },
+    "fileSize": 95627,
+    "sources": {
+        "curseforge": {
+            "projectId": 824654,
+            "fileUrl": "https://edge.forgecdn.net/files/4967/54/molten_vents-1.20.1-2.0.6.jar",
+            "fileId": 4967054
+        },
+        "modrinth": {
+            "projectId": "uuVy6k1s",
+            "fileUrl": "https://cdn.modrinth.com/data/uuVy6k1s/versions/2HJ2GTWD/molten_vents-1.20.1-2.0.6.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Remastered Structure 1.20.1-0.4 forge.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "f1f35db7f38ec176704fd2c2e3a4ef82fee65e07",
+        "sha512": "626b03589adafba3c8e05ce1c484025ff891d4dba3639b84167458333c7039ca12d7c9564925d93cc5db69183afaeb1561d6bc8f247e18280798dd9f3578b143",
+        "murmur2": 3621199400
+    },
+    "fileSize": 4883199,
+    "sources": {
+        "curseforge": {
+            "projectId": 972044,
+            "fileUrl": "https://edge.forgecdn.net/files/5374/974/Remastered%20Structure%201.20.1-0.4%20forge.jar",
+            "fileId": 5374974
+        },
+        "modrinth": {
+            "projectId": "AsPMQQYb",
+            "fileUrl": "https://cdn.modrinth.com/data/AsPMQQYb/versions/EVTLzYd9/Remastered%20Structure%201.20.1-0.4%20forge.jar"
+        }
+    }
+}

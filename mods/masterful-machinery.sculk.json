@@ -1,0 +1,21 @@
+{
+    "filename": "MasterfulMachinery-3-1.20.1-0.1.9.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7a09c6031d960228e35adb23d8fec31365048228",
+        "sha512": "83440f916424fd1228c339bf468124a972d0dce7e886bd4718b52dc1cebd7a0e6c9a4c285e840a9b6a90bde87ea384e0eac02610ab277f598ca27420f21b5630",
+        "murmur2": 3056001787
+    },
+    "fileSize": 727856,
+    "sources": {
+        "curseforge": {
+            "projectId": 423476,
+            "fileUrl": "https://edge.forgecdn.net/files/5374/408/MasterfulMachinery-3-1.20.1-0.1.9.jar",
+            "fileId": 5374408
+        },
+        "modrinth": {
+            "projectId": "CIQfBdpM",
+            "fileUrl": "https://cdn.modrinth.com/data/CIQfBdpM/versions/13WBdWM6/MasterfulMachinery-3-1.20.1-0.1.9.jar"
+        }
+    }
+}

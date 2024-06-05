@@ -1,0 +1,21 @@
+{
+    "filename": "integrated_stronghold-1.1.1+1.20.1-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "bfc95490873ae0563c9df4613f7ad70f3b17b402",
+        "sha512": "abef8c1451c416b7f2ea9dd8b37927c78dc8750f3cbfcd798914edc680e986d23fb4c347c598b3f3bff583f3ce6f42090c33cd1b848fc613907c133c82ff11b4",
+        "murmur2": 3164345861
+    },
+    "fileSize": 5254608,
+    "sources": {
+        "curseforge": {
+            "projectId": 815548,
+            "fileUrl": "https://edge.forgecdn.net/files/5178/479/integrated_stronghold-1.1.1%2b1.20.1-forge.jar",
+            "fileId": 5178479
+        },
+        "modrinth": {
+            "projectId": "KUJdfPQz",
+            "fileUrl": "https://cdn.modrinth.com/data/KUJdfPQz/versions/HX8UIG5u/integrated_stronghold-1.1.1%2B1.20.1-forge.jar"
+        }
+    }
+}

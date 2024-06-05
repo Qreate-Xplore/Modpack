@@ -1,0 +1,21 @@
+{
+    "filename": "BadOptimizations-2.1.1.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "6c42358ecd765bd9372d3e69a1363ca4eeeb55a3",
+        "sha512": "a1750f969f9b7385c330f5662ef1ae6bab364f443d07d6fd4a527ebcc903fe4290593b18e16c8f112eb54d76cf74c26237ace811280a67aef3b41b198c7d8db9",
+        "murmur2": 2702498385
+    },
+    "fileSize": 426768,
+    "sources": {
+        "curseforge": {
+            "projectId": 949555,
+            "fileUrl": "https://edge.forgecdn.net/files/5289/466/BadOptimizations-2.1.1.jar",
+            "fileId": 5289466
+        },
+        "modrinth": {
+            "projectId": "g96Z4WVZ",
+            "fileUrl": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/eT6Jsaq5/BadOptimizations-2.1.1.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+        "sha512": "30ce20533c9a2cc11608120dd7d5fb0f9b48e11873eb1a653d2d88022d351f2c25b316b63df0dbc693de598e0f1c768a36865e0759dbab23e2f2e36a3918470a",
+        "murmur2": 3061133685
+    },
+    "fileSize": 918012,
+    "sources": {
+        "curseforge": {
+            "projectId": 631016,
+            "fileUrl": "https://edge.forgecdn.net/files/4769/439/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "fileId": 4769439
+        },
+        "modrinth": {
+            "projectId": "XNlO7sBv",
+            "fileUrl": "https://cdn.modrinth.com/data/XNlO7sBv/versions/lRK2ZA9U/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+        }
+    }
+}

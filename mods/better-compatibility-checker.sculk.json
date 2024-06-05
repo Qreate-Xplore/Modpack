@@ -1,0 +1,21 @@
+{
+    "filename": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+        "sha512": "9bc033b764d50bf9563a11ebe3cceee6d071bd68b96715ddef23419103d09d1380276975e1e1ea981418bee281af89fadb250ec09a270ffa1c41c1788ce0028a",
+        "murmur2": 2251038378
+    },
+    "fileSize": 26540,
+    "sources": {
+        "curseforge": {
+            "projectId": 551894,
+            "fileUrl": "https://edge.forgecdn.net/files/4688/940/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+            "fileId": 4688940
+        },
+        "modrinth": {
+            "projectId": "KJhXPbHQ",
+            "fileUrl": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
+        }
+    }
+}

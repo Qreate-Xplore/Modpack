@@ -1,0 +1,21 @@
+{
+    "filename": "createsifter-1.20.1-1.8.1.e-22.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6355c9b3fbfa667d0498be9b425f8ed13d800a48",
+        "sha512": "cdb51666dcfa836457dfb95d8ecac842b629554702b529bbcaa226a81e17de9b3aca89ab0e49cd26d51ebfc91d326dca191cb7b8bfa7175cf82971492cab8d3a",
+        "murmur2": 4021326235
+    },
+    "fileSize": 281281,
+    "sources": {
+        "curseforge": {
+            "projectId": 661938,
+            "fileUrl": "https://edge.forgecdn.net/files/4767/603/createsifter-1.20.1-1.8.1.e-22.jar",
+            "fileId": 4767603
+        },
+        "modrinth": {
+            "projectId": "r018adCw",
+            "fileUrl": "https://cdn.modrinth.com/data/r018adCw/versions/mzpzbAnR/createsifter-1.20.1-1.8.1.e-22.jar"
+        }
+    }
+}

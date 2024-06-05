@@ -1,0 +1,17 @@
+{
+    "filename": "Raided-1.20.1-0.1.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e8c493ec6b9e16a72cedac76ca0c42f7ff90e977",
+        "sha512": "ac93963933b633911902469af96f67baa6d36e8e5276e808fc0081c6d9b5ff1e3939d6d208e2ed9189e16a18a751dd7711e40ca08b254d3eb96068fc9930388b",
+        "murmur2": 3898886289
+    },
+    "fileSize": 131608,
+    "sources": {
+        "curseforge": {
+            "projectId": 580942,
+            "fileUrl": "https://edge.forgecdn.net/files/5128/249/Raided-1.20.1-0.1.4.jar",
+            "fileId": 5128249
+        }
+    }
+}

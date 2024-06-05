@@ -1,0 +1,21 @@
+{
+    "filename": "ancient_aether-0.9.7.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dcb4f251ac1dd92ceee6fd802f01af31807fcd21",
+        "sha512": "68aac2d5305180adbb948f45a0ccbe3280927671e9078d3823615c8b9119e019fd8d15163781e1bfbd0cd67dd712ea913cf0b19e838cd697986f719de2066e8e",
+        "murmur2": 549598430
+    },
+    "fileSize": 10625755,
+    "sources": {
+        "curseforge": {
+            "projectId": 886751,
+            "fileUrl": "https://edge.forgecdn.net/files/5364/191/ancient_aether-0.9.7.jar",
+            "fileId": 5364191
+        },
+        "modrinth": {
+            "projectId": "6mVXdiOT",
+            "fileUrl": "https://cdn.modrinth.com/data/6mVXdiOT/versions/wSvrXImw/ancient_aether-0.9.7.jar"
+        }
+    }
+}

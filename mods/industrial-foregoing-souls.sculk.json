@@ -1,0 +1,21 @@
+{
+    "filename": "industrial-foregoing-souls-1.20.1-1.0.7.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dc88933c3c3ed8c6f519dde1ff7ff855f0d1332a",
+        "sha512": "29acdf567429b3aa4af19fe4f31547d31cef8b84592e60ecfe658130037e6f7a4e7134a6be227a9a759e25393a655994b71011a13336f3132140ab64d31a746f",
+        "murmur2": 3007534599
+    },
+    "fileSize": 129510,
+    "sources": {
+        "curseforge": {
+            "projectId": 904394,
+            "fileUrl": "https://edge.forgecdn.net/files/5240/383/industrial-foregoing-souls-1.20.1-1.0.7.jar",
+            "fileId": 5240383
+        },
+        "modrinth": {
+            "projectId": "R6YQjhwo",
+            "fileUrl": "https://cdn.modrinth.com/data/R6YQjhwo/versions/v4IRW6ZO/industrial-foregoing-souls-1.20.1-1.0.7.jar"
+        }
+    }
+}

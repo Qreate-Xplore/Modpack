@@ -1,0 +1,21 @@
+{
+    "filename": "upgradedechests-forge-1.0.3-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e62ef97ac9e5e60ed24d719313ee13c0f0113e0c",
+        "sha512": "3a7ed03d31cd558f976c2fd98fc25903c071299dd752edd9362d3c089d54e3191a72f4b9b2d5ab9dfaeef28ebf24562c6280fa271891b86d048e0b4b13fc08cc",
+        "murmur2": 3722737441
+    },
+    "fileSize": 57953,
+    "sources": {
+        "curseforge": {
+            "projectId": 457082,
+            "fileUrl": "https://edge.forgecdn.net/files/4721/166/upgradedechests-forge-1.0.3-1.20.1.jar",
+            "fileId": 4721166
+        },
+        "modrinth": {
+            "projectId": "KmhsAdOt",
+            "fileUrl": "https://cdn.modrinth.com/data/KmhsAdOt/versions/KHVoZLTY/upgradedechests-forge-1.0.3-1.20.1.jar"
+        }
+    }
+}

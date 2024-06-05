@@ -1,0 +1,21 @@
+{
+    "filename": "functionalstorage-1.20.1-1.2.11.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "15a75d38e61202a4ede0c6ddca62653d3d99548c",
+        "sha512": "5b55ae7df51edc79eeb930c6a3160540f3c542fee2454ff97ee571cdc9b26ebc868631b754227fa2ffd725112d9d4634fca6a633a5800bf359a385eae3542428",
+        "murmur2": 2784625364
+    },
+    "fileSize": 676304,
+    "sources": {
+        "curseforge": {
+            "projectId": 556861,
+            "fileUrl": "https://edge.forgecdn.net/files/5373/105/functionalstorage-1.20.1-1.2.11.jar",
+            "fileId": 5373105
+        },
+        "modrinth": {
+            "projectId": "cO40ZIg3",
+            "fileUrl": "https://cdn.modrinth.com/data/cO40ZIg3/versions/QSr6Be0a/functionalstorage-1.20.1-1.2.11.jar"
+        }
+    }
+}

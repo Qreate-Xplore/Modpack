@@ -1,0 +1,21 @@
+{
+    "filename": "Quark-4.0-450.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ace9981140208a22ad92fc3715e9340f0f961f3b",
+        "sha512": "c63f7562242a864f68fb7f52bd5aee0c588f484fe4a49417f4ba3a060011c4cdeaaa326301b02a1bf7f206c118eebf941e35342161e7508b762e0f0c5154b320",
+        "murmur2": 1548355656
+    },
+    "fileSize": 14796756,
+    "sources": {
+        "curseforge": {
+            "projectId": 243121,
+            "fileUrl": "https://edge.forgecdn.net/files/5378/961/Quark-4.0-450.jar",
+            "fileId": 5378961
+        },
+        "modrinth": {
+            "projectId": "qnQsVE2z",
+            "fileUrl": "https://cdn.modrinth.com/data/qnQsVE2z/versions/iRvSixz9/Quark-4.0-450.jar"
+        }
+    }
+}

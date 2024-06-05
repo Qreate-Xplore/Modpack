@@ -1,0 +1,21 @@
+{
+    "filename": "witherstormmod-1.20.1-4.1-all.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d3f3fbbf70c7360f07341a7dafc0649b04c8563b",
+        "sha512": "efb1501677900e4aa246da9489c4e5085478da36122b15a657d21870589e0cbde68c6c869548aacab102ab1a6f208e5c6f0d85d058019aa99affa5f4ab92984e",
+        "murmur2": 1876122934
+    },
+    "fileSize": 45896967,
+    "sources": {
+        "curseforge": {
+            "projectId": 621405,
+            "fileUrl": "https://edge.forgecdn.net/files/5331/898/witherstormmod-1.20.1-4.1-all.jar",
+            "fileId": 5331898
+        },
+        "modrinth": {
+            "projectId": "kWjNGDUH",
+            "fileUrl": "https://cdn.modrinth.com/data/kWjNGDUH/versions/xAmOQHml/witherstormmod-1.20.1-4.1-all.jar"
+        }
+    }
+}

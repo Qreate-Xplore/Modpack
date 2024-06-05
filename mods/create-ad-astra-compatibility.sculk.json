@@ -1,0 +1,17 @@
+{
+    "filename": "create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "348f8477b3af519b250e65efbaec8a743c6b89d2",
+        "sha512": "c3e3faa630691418bb15d99d8c5fcbf7df5eb205c27940cef4f637c3011ca4c4a00549e3ca30797da7fd315107e61948c7c8ab9a06374253f288d6f0a7ef9d34",
+        "murmur2": 227502426
+    },
+    "fileSize": 23401,
+    "sources": {
+        "curseforge": {
+            "projectId": 1001456,
+            "fileUrl": "https://edge.forgecdn.net/files/5252/441/create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+            "fileId": 5252441
+        }
+    }
+}

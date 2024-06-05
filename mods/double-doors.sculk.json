@@ -1,0 +1,21 @@
+{
+    "filename": "doubledoors-1.20.1-5.7.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "55f40cd02a532da700170ff026045f84e1e977bd",
+        "sha512": "9158a24c0176baab13b84a6cadd9de5dc2bb72e65379c086ccc91652575e03bc83d36c4fd67b5d37e4a5bea6f6f8940acb8f7a2b17819d827ae1d54ffaf16955",
+        "murmur2": 2646868950
+    },
+    "fileSize": 49078,
+    "sources": {
+        "curseforge": {
+            "projectId": 348831,
+            "fileUrl": "https://edge.forgecdn.net/files/5334/522/doubledoors-1.20.1-5.7.jar",
+            "fileId": 5334522
+        },
+        "modrinth": {
+            "projectId": "JrvR9OHr",
+            "fileUrl": "https://cdn.modrinth.com/data/JrvR9OHr/versions/noOLikKt/doubledoors-1.20.1-5.7.jar"
+        }
+    }
+}

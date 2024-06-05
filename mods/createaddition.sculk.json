@@ -1,0 +1,17 @@
+{
+    "filename": "createaddition-1.20.1-1.2.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef",
+        "sha512": "5c05e82fe9ce5525de037c8071fdf34aa6abf3f0e8f0d3e2def30d43913f6e0ced62099c7377080069c1d2b05de1e70dae20a28cb581baa59805885a32030017",
+        "murmur2": 2878710976
+    },
+    "fileSize": 1511325,
+    "sources": {
+        "curseforge": {
+            "projectId": 439890,
+            "fileUrl": "https://edge.forgecdn.net/files/5099/752/createaddition-1.20.1-1.2.3.jar",
+            "fileId": 5099752
+        }
+    }
+}

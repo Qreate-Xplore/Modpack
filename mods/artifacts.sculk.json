@@ -1,0 +1,21 @@
+{
+    "filename": "artifacts-forge-9.5.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9243c35a7d730e8b91b0df1326ec6e332997c708",
+        "sha512": "ac35450883c4e6f82d8a0af23d002fbf8aaa658cb043c4d3c61aa317debdb3b2f75f500a37d8921df5d3d1fcd957d4b0eab8c5809cc12d043ae352b9ef855ee8",
+        "murmur2": 2621669923
+    },
+    "fileSize": 841415,
+    "sources": {
+        "curseforge": {
+            "projectId": 312353,
+            "fileUrl": "https://edge.forgecdn.net/files/5312/458/artifacts-forge-9.5.4.jar",
+            "fileId": 5312458
+        },
+        "modrinth": {
+            "projectId": "P0Mu4wcQ",
+            "fileUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Ajy5hbi6/artifacts-forge-9.5.4.jar"
+        }
+    }
+}

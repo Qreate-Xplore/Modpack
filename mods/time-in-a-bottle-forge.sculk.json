@@ -1,0 +1,17 @@
+{
+    "filename": "time-in-a-bottle-4.0.4-mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "25a1aef5ed1984104835bcfb5d03027d32ce856b",
+        "sha512": "345132ede32bcf4878601da640b44dcca54160c9538fd9468f2c97e248ab47e0d35a572f5ceecfb6d55fcc9b7e63f0e4e4eacc63636bf535e68b92f6ea8d430d",
+        "murmur2": 1703249646
+    },
+    "fileSize": 56125,
+    "sources": {
+        "curseforge": {
+            "projectId": 895919,
+            "fileUrl": "https://edge.forgecdn.net/files/4744/787/time-in-a-bottle-4.0.4-mc1.20.1.jar",
+            "fileId": 4744787
+        }
+    }
+}

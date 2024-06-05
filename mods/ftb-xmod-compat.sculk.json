@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-xmod-compat-forge-2.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "55897695a22247ebe781499558a87b779175082a",
+        "sha512": "dea4671232960177c837bddef3884cac1a1cd99949cea6c415dc6ac5f2eba7aee950537209b190dce8cd8932433fded86930e50a4247fc1aecf07d076b76239e",
+        "murmur2": 440755110
+    },
+    "fileSize": 129541,
+    "sources": {
+        "curseforge": {
+            "projectId": 889915,
+            "fileUrl": "https://edge.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar",
+            "fileId": 5257897
+        }
+    }
+}

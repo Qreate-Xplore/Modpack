@@ -1,0 +1,21 @@
+{
+    "filename": "Zombies_Reworked_1.20.1_1.0.4.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "60a3037bd81a66f8d9e21e9f161df36b31988204",
+        "sha512": "29b7ceb2436630cd0e01c52fded57bb4186ae5918c65c1ae3bbc58ce46e5ef3a526dc9ff97cc53f2d71104914d56a18a0abaf4ae2d8c2a756862297203b94c30",
+        "murmur2": 4171534343
+    },
+    "fileSize": 81381,
+    "sources": {
+        "curseforge": {
+            "projectId": 944522,
+            "fileUrl": "https://edge.forgecdn.net/files/5004/213/Zombies_Reworked_1.20.1_1.0.4.jar",
+            "fileId": 5004213
+        },
+        "modrinth": {
+            "projectId": "S8mNuFSM",
+            "fileUrl": "https://cdn.modrinth.com/data/S8mNuFSM/versions/EbyQNepB/Zombies_Reworked_1.20.1_1.0.4.jar"
+        }
+    }
+}

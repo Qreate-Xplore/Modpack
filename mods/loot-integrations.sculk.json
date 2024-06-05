@@ -1,0 +1,17 @@
+{
+    "filename": "lootintegrations-1.20.1-3.7.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "c7ac66a7acadf8a12015944ae697b322ddab8828",
+        "sha512": "464c006e0893d5e2caa4b8c937c27420452cfa1c178f5f0d283cfc78a38d869b28c5faf50e5b2a4c202066583bbf37c0a2031525329e63c575f5ba94c05c1178",
+        "murmur2": 672083015
+    },
+    "fileSize": 25016,
+    "sources": {
+        "curseforge": {
+            "projectId": 580689,
+            "fileUrl": "https://edge.forgecdn.net/files/5349/559/lootintegrations-1.20.1-3.7.jar",
+            "fileId": 5349559
+        }
+    }
+}

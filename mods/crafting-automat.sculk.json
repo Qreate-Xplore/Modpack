@@ -1,0 +1,17 @@
+{
+    "filename": "CraftingAutomat-MC1.20.1-1.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dc0cd516cde8b51d9e417be67dd9e556ceee08c2",
+        "sha512": "2eed05923291d858ec9fa2cac88a5d07ce69d901ae2ff4194714708c41e9e3fc242509b428b16e1b525a296226fd1ea2c4cbf4e2721e7e0ebfb1efa5705da898",
+        "murmur2": 2551587561
+    },
+    "fileSize": 88222,
+    "sources": {
+        "curseforge": {
+            "projectId": 293856,
+            "fileUrl": "https://edge.forgecdn.net/files/4673/529/CraftingAutomat-MC1.20.1-1.2.4.jar",
+            "fileId": 4673529
+        }
+    }
+}

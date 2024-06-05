@@ -1,0 +1,21 @@
+{
+    "filename": "medieval_buildings-forge-1.0.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9b48797a39318a98b7d19c44e553a65f9eb196c6",
+        "sha512": "682f4a3caa70ad0576ec8de533ae6439e641a9f0359d3fe23e2317da3b87bd018a132ca08733f64727968902f1c6ecaf48fb17800df9e06220e753cd4eb6d01d",
+        "murmur2": 1238726381
+    },
+    "fileSize": 124291,
+    "sources": {
+        "curseforge": {
+            "projectId": 924590,
+            "fileUrl": "https://edge.forgecdn.net/files/4804/743/medieval_buildings-forge-1.0.2.jar",
+            "fileId": 4804743
+        },
+        "modrinth": {
+            "projectId": "sc9lpPiU",
+            "fileUrl": "https://cdn.modrinth.com/data/sc9lpPiU/versions/1Hf0UcLB/medieval_buildings-forge-1.0.2%281%29.jar"
+        }
+    }
+}

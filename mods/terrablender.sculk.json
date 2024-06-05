@@ -1,0 +1,17 @@
+{
+    "filename": "TerraBlender-forge-1.20.1-3.0.1.7.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "afbb7536bdd5e723688c1eaa38df398fe15d0b18",
+        "sha512": "1603c7aeb53ba990d0c836a28adb48e9d27e90bfc88f3456e7a62ee737165e631508ed82fd12bedb38dad2c6cb900e8591bff90699c794b79337a33e42fc3288",
+        "murmur2": 3829335308
+    },
+    "fileSize": 107534,
+    "sources": {
+        "curseforge": {
+            "projectId": 563928,
+            "fileUrl": "https://edge.forgecdn.net/files/5378/180/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "fileId": 5378180
+        }
+    }
+}

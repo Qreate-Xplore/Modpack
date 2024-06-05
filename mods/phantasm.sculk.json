@@ -1,0 +1,21 @@
+{
+    "filename": "phantasm-forge-0.2.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "fce241bc3dc940517891170fc97528d468cb6adc",
+        "sha512": "7c688eaec13aa4db92a8b193317c5ee21d6adb1daf88bbf59f2db954422b44e89e57a85bee6972a27b91c930f1db905fdaa70f87a277cc55e129e1690817db76",
+        "murmur2": 2714244129
+    },
+    "fileSize": 538679,
+    "sources": {
+        "curseforge": {
+            "projectId": 565254,
+            "fileUrl": "https://edge.forgecdn.net/files/5301/54/phantasm-forge-0.2.jar",
+            "fileId": 5301054
+        },
+        "modrinth": {
+            "projectId": "JGfljjtd",
+            "fileUrl": "https://cdn.modrinth.com/data/JGfljjtd/versions/Sp9entGs/phantasm-forge-0.2.jar"
+        }
+    }
+}

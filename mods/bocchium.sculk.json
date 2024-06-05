@@ -1,0 +1,17 @@
+{
+    "filename": "bocchium-1.20.1-0.0.3.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "4c74bafb892028c3ec006bd694836e42695b77a0",
+        "sha512": "2c3c3e66b6703f49d7b878966dc1523618c7bf31e10ac30ae18caea12b094256085d4b8867bd147893b2aa4be18c49aaad0b82da2341f54a1f74a0ac14a4da9b",
+        "murmur2": 1516610249
+    },
+    "fileSize": 10201,
+    "sources": {
+        "curseforge": {
+            "projectId": 905450,
+            "fileUrl": "https://edge.forgecdn.net/files/5086/758/bocchium-1.20.1-0.0.3.jar",
+            "fileId": 5086758
+        }
+    }
+}

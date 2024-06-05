@@ -1,0 +1,17 @@
+{
+    "filename": "GatewaysToEternity-1.20.1-4.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cf5eab04326d49037d0399a4b92da1719c9a2492",
+        "sha512": "a9d1ba1693972a92060ba26b26c5d24871effa234d51a48196dbeab81da2903981d883b52a8951d91fa36dc7ba0fb21d0a45bbc8be9ef7a3da377f37a0a15d1a",
+        "murmur2": 3262184260
+    },
+    "fileSize": 630482,
+    "sources": {
+        "curseforge": {
+            "projectId": 417802,
+            "fileUrl": "https://edge.forgecdn.net/files/5188/310/GatewaysToEternity-1.20.1-4.2.4.jar",
+            "fileId": 5188310
+        }
+    }
+}

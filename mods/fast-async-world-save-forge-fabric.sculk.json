@@ -1,0 +1,17 @@
+{
+    "filename": "fastasyncworldsave-1.20.1-2.0.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "3731eac6308d6fdb2dcdf0acf26446c0e5128790",
+        "sha512": "dca75dfc3c697438f25d1c1c30d535ee3540e61bac645522d161a5fc1adb12d4e586ce18ca657e8c7819c8bb7466db21586b218bd4bbad9931d4651d97b147a1",
+        "murmur2": 2226119396
+    },
+    "fileSize": 10992,
+    "sources": {
+        "curseforge": {
+            "projectId": 951499,
+            "fileUrl": "https://edge.forgecdn.net/files/5218/101/fastasyncworldsave-1.20.1-2.0.jar",
+            "fileId": 5218101
+        }
+    }
+}

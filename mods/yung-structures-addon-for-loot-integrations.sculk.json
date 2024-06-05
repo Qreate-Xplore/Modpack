@@ -1,0 +1,17 @@
+{
+    "filename": "lootintegrationaddonyung-1.18-1.20.1-1.1.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "c55c76dc28fe951ca961ce50889b4f20d94519cf",
+        "sha512": "662f4c2c5df5a3fdc89da3895cc54bcfeced198d140ff61e0341541457df2f9b87dd66df1d80a41b626353290b833d3b49bd07e45824a3ec2d15efb0b59965ae",
+        "murmur2": 2363534073
+    },
+    "fileSize": 5433,
+    "sources": {
+        "curseforge": {
+            "projectId": 1012211,
+            "fileUrl": "https://edge.forgecdn.net/files/5309/771/lootintegrationaddonyung-1.18-1.20.1-1.1.jar",
+            "fileId": 5309771
+        }
+    }
+}

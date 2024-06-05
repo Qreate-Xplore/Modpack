@@ -1,0 +1,21 @@
+{
+    "filename": "Wabi-Sabi-Structures-2.0.0-1.20-Forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c66e3ba74bfea5bc221a30dad0a4b4216e0ca2a6",
+        "sha512": "2ec1f9042d8ded24341dda34025c45880ecb2b175d28e8a95706780009c2930b63f9ac87c539260189865f8bd01f1697cb65634027b385166b47a283787bfd29",
+        "murmur2": 4038167096
+    },
+    "fileSize": 1334033,
+    "sources": {
+        "curseforge": {
+            "projectId": 686097,
+            "fileUrl": "https://edge.forgecdn.net/files/4688/299/Wabi-Sabi-Structures-2.0.0-1.20-Forge.jar",
+            "fileId": 4688299
+        },
+        "modrinth": {
+            "projectId": "Vr3O6THr",
+            "fileUrl": "https://cdn.modrinth.com/data/Vr3O6THr/versions/QaxpEa5y/Wabi-Sabi-Structures-2.0.0-1.20-Forge.jar"
+        }
+    }
+}

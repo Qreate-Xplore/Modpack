@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-quests-forge-2001.4.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "02fae1c93177451e70c87136417e132120241bc2",
+        "sha512": "1a5afdb1bdbeb48e35023a5e143f12ea7583908e2cf2940abbec02f1c83d6c617e0d2b940fc214009229092718246134514be7fe16d1b64b8eca5fe8677a6931",
+        "murmur2": 1907376790
+    },
+    "fileSize": 1180480,
+    "sources": {
+        "curseforge": {
+            "projectId": 289412,
+            "fileUrl": "https://edge.forgecdn.net/files/5378/300/ftb-quests-forge-2001.4.5.jar",
+            "fileId": 5378300
+        }
+    }
+}

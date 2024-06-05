@@ -1,0 +1,17 @@
+{
+    "filename": "clientcrafting-1.20.1-1.8.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "2cd821e69e88d3eda2c144b268c25b361ded3d9a",
+        "sha512": "c5a7aa5a0848df1e6b4b340dbbac7a692a18e2fd72824f8db20a3fafa908c64dc1db7f44dd3d1f314afb07a7f51c27132de33fc88f8684cd37a1d4684066e572",
+        "murmur2": 3348388076
+    },
+    "fileSize": 7089,
+    "sources": {
+        "curseforge": {
+            "projectId": 888790,
+            "fileUrl": "https://edge.forgecdn.net/files/5097/9/clientcrafting-1.20.1-1.8.jar",
+            "fileId": 5097009
+        }
+    }
+}

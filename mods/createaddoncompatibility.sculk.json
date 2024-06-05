@@ -1,0 +1,21 @@
+{
+    "filename": "createaddoncompatibility-v0.1.2b-1.20.1-(neo)forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2117e78eec57bac265be47f6e509ad8c2636eb0b",
+        "sha512": "d94e091aad097c942824e22bcf12e6361efe5e8deaacd089e5c8a648b337f530cf48d299f34c5e1727b408ee6409553fa2cc3ecc5ebb1f642f7ee106235929c9",
+        "murmur2": 2651631399
+    },
+    "fileSize": 58171,
+    "sources": {
+        "curseforge": {
+            "projectId": 1000148,
+            "fileUrl": "https://edge.forgecdn.net/files/5307/623/createaddoncompatibility-v0.1.2b-1.20.1-(neo)forge.jar",
+            "fileId": 5307623
+        },
+        "modrinth": {
+            "projectId": "QgrK9rtJ",
+            "fileUrl": "https://cdn.modrinth.com/data/QgrK9rtJ/versions/DgcHYnsg/createaddoncompatibility-v0.1.2b-1.20.1-%28neo%29forge.jar"
+        }
+    }
+}

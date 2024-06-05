@@ -1,0 +1,21 @@
+{
+    "filename": "GeckoJS-2001forge-1.5.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "35d62e318417e08285d9ee754251fd3657aec77d",
+        "sha512": "77b208daacea5ae939310bdb88a6613f78697016f2263e158f024fe3ab5343b0d809146d017360ef67a404f29202bfaa5614ec7bdb1f0fd0330b7ac70e085004",
+        "murmur2": 10574140
+    },
+    "fileSize": 154037,
+    "sources": {
+        "curseforge": {
+            "projectId": 977922,
+            "fileUrl": "https://edge.forgecdn.net/files/5134/593/GeckoJS-2001forge-1.5.0.jar",
+            "fileId": 5134593
+        },
+        "modrinth": {
+            "projectId": "19lbaCaM",
+            "fileUrl": "https://cdn.modrinth.com/data/19lbaCaM/versions/xiAPrqOU/GeckoJS-2001forge-1.5.0.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "embeddiumplus-1.20.1-v1.2.12.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "d464336a0a490698dc7e455d936370fd7e731b66",
+        "sha512": "12066faaf94e6b82b2126c6bdae957f227bbd7bb3bacc07abeab76562fcc50f4e42616e7f4c18bea1620f17c109d211d951d78bef51e16d4f9266e71800b2e2e",
+        "murmur2": 2837099803
+    },
+    "fileSize": 895412,
+    "sources": {
+        "curseforge": {
+            "projectId": 931925,
+            "fileUrl": "https://edge.forgecdn.net/files/5342/269/embeddiumplus-1.20.1-v1.2.12.jar",
+            "fileId": 5342269
+        },
+        "modrinth": {
+            "projectId": "yD9qW65f",
+            "fileUrl": "https://cdn.modrinth.com/data/yD9qW65f/versions/NvLxgTXE/embeddiumplus-1.20.1-v1.2.12.jar"
+        }
+    }
+}

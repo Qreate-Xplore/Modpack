@@ -1,0 +1,21 @@
+{
+    "filename": "kotlinforforge-4.10.0-all.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5981310618ebe818177bb2a703f8a7fb01bc8efc",
+        "sha512": "824031f8fa6908dbf1865b490277e6fed0c3348e7c91b5f26ffb875177bdd17e6ef8228372f1443efcff2cc526eddbedd19be37ff0705a8fbac276d5676b8aa5",
+        "murmur2": 1092565063
+    },
+    "fileSize": 7778600,
+    "sources": {
+        "curseforge": {
+            "projectId": 351264,
+            "fileUrl": "https://edge.forgecdn.net/files/4983/659/kotlinforforge-4.10.0-all.jar",
+            "fileId": 4983659
+        },
+        "modrinth": {
+            "projectId": "ordsPcFz",
+            "fileUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/9j6YaPp2/kotlinforforge-4.10.0-all.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "coolcat_lib-forge-1.20.1-v1.0.2-release.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "80a06fa4c85b6ef55d9345eee210b919d265605c",
+        "sha512": "1619ab341c09bcc0d91cdcb363a2b1baf648ad80b5656f5de156d35cc918803d42020616e6266832264607fdd8ccdb4fcbcac724579e93563f604063f557b462",
+        "murmur2": 887646194
+    },
+    "fileSize": 539287,
+    "sources": {
+        "curseforge": {
+            "projectId": 916525,
+            "fileUrl": "https://edge.forgecdn.net/files/4986/942/coolcat_lib-forge-1.20.1-v1.0.2-release.jar",
+            "fileId": 4986942
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "aether-1.20.1-1.4.2-neoforge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fcb40860037d5070975c6d2cdb1a56ae26c16b14",
+        "sha512": "b0443b979b284ef52f3b48e8e4dbde1dee265151a3a21832ea8a58ef75bf48ec19b041169c3de428cb2975d8a1fc057188d4aae9e3d96c4b65ed505da2fc9c4b",
+        "murmur2": 1077897595
+    },
+    "fileSize": 23454164,
+    "sources": {
+        "curseforge": {
+            "projectId": 255308,
+            "fileUrl": "https://edge.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar",
+            "fileId": 5302178
+        }
+    }
+}

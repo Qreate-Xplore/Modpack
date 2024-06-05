@@ -1,0 +1,21 @@
+{
+    "filename": "Jade-1.20.1-forge-11.9.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c393847a8a8fc5ed6f594a12618e68900abe447c",
+        "sha512": "bd0970566ad3771137edf631a8172dd3b0f1fd79a66d24890f0cc836d8746ff67181d280c3c08ceffd343b7cc7f36dfd6478bde92dfd2ee17c192ef15e990ce2",
+        "murmur2": 1976455827
+    },
+    "fileSize": 545779,
+    "sources": {
+        "curseforge": {
+            "projectId": 324717,
+            "fileUrl": "https://edge.forgecdn.net/files/5339/264/Jade-1.20.1-forge-11.9.2.jar",
+            "fileId": 5339264
+        },
+        "modrinth": {
+            "projectId": "nvQzSEkH",
+            "fileUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/X6kFPDSp/Jade-1.20.1-forge-11.9.2.jar"
+        }
+    }
+}

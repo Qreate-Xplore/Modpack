@@ -1,0 +1,21 @@
+{
+    "filename": "sons-of-sins-1.20.1-2.1.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "19da6eb105577e2b0e26a323bb98d681061a5db0",
+        "sha512": "1fc8e2c9f5b5fa6e1fe0b84612b28ec5410d981c6d2c4453adb7270ca6fbd938f978b6c26b4b1993e2c9f575b6e4ae620f2b33fa38e3c417c33de7cc38b6099f",
+        "murmur2": 625296136
+    },
+    "fileSize": 4358193,
+    "sources": {
+        "curseforge": {
+            "projectId": 538529,
+            "fileUrl": "https://edge.forgecdn.net/files/5157/962/sons-of-sins-1.20.1-2.1.6.jar",
+            "fileId": 5157962
+        },
+        "modrinth": {
+            "projectId": "l7YxzukZ",
+            "fileUrl": "https://cdn.modrinth.com/data/l7YxzukZ/versions/85MERhDl/sons-of-sins-1.20.1-2.1.6.jar"
+        }
+    }
+}

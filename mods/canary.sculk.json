@@ -1,0 +1,21 @@
+{
+    "filename": "canary-mc1.20.1-0.3.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "898abd9e337ef1c677ce93f5589497a09c7e9850",
+        "sha512": "38f0bec7967f9d354e46dacdbe7d284ef823270dc737a7388adde157c45a025e53d77e04a00a582900666b85402c461bee4b80345fc7f03edb5c2b96708442bd",
+        "murmur2": 178846246
+    },
+    "fileSize": 594191,
+    "sources": {
+        "curseforge": {
+            "projectId": 665658,
+            "fileUrl": "https://edge.forgecdn.net/files/5089/991/canary-mc1.20.1-0.3.3.jar",
+            "fileId": 5089991
+        },
+        "modrinth": {
+            "projectId": "qa2H4BS9",
+            "fileUrl": "https://cdn.modrinth.com/data/qa2H4BS9/versions/lauzXB0n/canary-mc1.20.1-0.3.3.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "nyfsspiders-forge-1.20.1-2.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "20783131cc63dec55036ffde84ed72c7e3c648c3",
+        "sha512": "37dad4c2fcd67a99300a90fe36b725d7276516411539824fde34766a331faa255e6ab2281264df437766a08a570e36fd11d5e2c904744a9aced3cd3ac36b9fc5",
+        "murmur2": 2396460799
+    },
+    "fileSize": 178046,
+    "sources": {
+        "curseforge": {
+            "projectId": 686058,
+            "fileUrl": "https://edge.forgecdn.net/files/4728/359/nyfsspiders-forge-1.20.1-2.1.1.jar",
+            "fileId": 4728359
+        },
+        "modrinth": {
+            "projectId": "dOGM7ccu",
+            "fileUrl": "https://cdn.modrinth.com/data/dOGM7ccu/versions/p98mV3Xm/nyfsspiders-forge-1.20.1-2.1.1.jar"
+        }
+    }
+}

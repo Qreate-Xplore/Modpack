@@ -1,0 +1,21 @@
+{
+    "filename": "XaerosWorldMap_1.38.4_Forge_1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2be80281c4e38be6af28022c0bf0f8a62254067f",
+        "sha512": "27e6b99f37d588d1c7927384fad3f67bc55e3150437c13f1029b760cf01e3cb646b1a6edae04edfa8037a30971fb627527b8bbc0c19dc21926865c036adac4f9",
+        "murmur2": 4016540286
+    },
+    "fileSize": 925318,
+    "sources": {
+        "curseforge": {
+            "projectId": 317780,
+            "fileUrl": "https://edge.forgecdn.net/files/5262/424/XaerosWorldMap_1.38.4_Forge_1.20.jar",
+            "fileId": 5262424
+        },
+        "modrinth": {
+            "projectId": "NcUtCpym",
+            "fileUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "cupboard-1.20.1-2.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9371c91104799702e31b482f6790a2e39c63505f",
+        "sha512": "5320410646cee2c568bf207ab4ddf11a9fb83c96c335cb6959d432ba0a9f5744894bcb30d4b55b2c81c8af87e878e54e85aad0b8cdb68365c23e9616160c5ff2",
+        "murmur2": 1774024268
+    },
+    "fileSize": 24736,
+    "sources": {
+        "curseforge": {
+            "projectId": 326652,
+            "fileUrl": "https://edge.forgecdn.net/files/5170/315/cupboard-1.20.1-2.6.jar",
+            "fileId": 5170315
+        }
+    }
+}

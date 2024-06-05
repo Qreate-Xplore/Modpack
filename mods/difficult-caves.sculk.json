@@ -1,0 +1,17 @@
+{
+    "filename": "Difficult Caves 1.0.0 - 1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "60d67053541a94cc4c51b236fb297d4856429b09",
+        "sha512": "2605641469ddc4b47c59a96b7cb903be5e5e7e958065df75a7c87535f32cebf990c42e05f73d09d8f5a46c8315676877f9df60fd5dd92af7ffb6dbdf8748f0a4",
+        "murmur2": 451841692
+    },
+    "fileSize": 9866,
+    "sources": {
+        "curseforge": {
+            "projectId": 822831,
+            "fileUrl": "https://edge.forgecdn.net/files/4706/474/Difficult Caves 1.0.0 - 1.20.1.jar",
+            "fileId": 4706474
+        }
+    }
+}

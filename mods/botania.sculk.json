@@ -1,0 +1,21 @@
+{
+    "filename": "Botania-1.20.1-444-FORGE.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "283aec350fc19bb83c9cc000fc4e0c96252d7e71",
+        "sha512": "1de40411b507cb9b188d6d1844e7d05cf0218b5d3a69964f99944c3ccb70394cf90a65db7cad1cab99ccbec3f1a698fe523f51da75b7982531adb4d60d76360e",
+        "murmur2": 4148141896
+    },
+    "fileSize": 12103559,
+    "sources": {
+        "curseforge": {
+            "projectId": 225643,
+            "fileUrl": "https://edge.forgecdn.net/files/5346/280/Botania-1.20.1-444-FORGE.jar",
+            "fileId": 5346280
+        },
+        "modrinth": {
+            "projectId": "pfjLUfGv",
+            "fileUrl": "https://cdn.modrinth.com/data/pfjLUfGv/versions/cUfbpz6u/Botania-1.20.1-444-FORGE.jar"
+        }
+    }
+}

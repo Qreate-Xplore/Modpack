@@ -1,0 +1,21 @@
+{
+    "filename": "vintageimprovements-1.20.1-0.1.4.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2c8e621510563021718a11a6fedc2835c6093b6d",
+        "sha512": "6a060f189529788ea5ee66d26f7c48dbf596315b07c1675ec9c40c3a97ed7ac047f39f6a148df6e578507394d5d602a51245369a52362140abfbd31125aceaad",
+        "murmur2": 4253084700
+    },
+    "fileSize": 1029222,
+    "sources": {
+        "curseforge": {
+            "projectId": 946579,
+            "fileUrl": "https://edge.forgecdn.net/files/5289/943/vintageimprovements-1.20.1-0.1.4.1.jar",
+            "fileId": 5289943
+        },
+        "modrinth": {
+            "projectId": "S27aYArf",
+            "fileUrl": "https://cdn.modrinth.com/data/S27aYArf/versions/HDt55fIe/vintageimprovements-1.20.1-0.1.4.1.jar"
+        }
+    }
+}

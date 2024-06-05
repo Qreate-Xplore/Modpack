@@ -1,0 +1,21 @@
+{
+    "filename": "create-new-age-forge-1.20.1-1.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
+        "sha512": "d6fac731e9356b52f1e0c43105a92cd41c8633367f8b525d0573a7610bca2de5497391bd8a9483efe46cb61152a6efd7f7adfc33cfd9b16655d70f8406a89694",
+        "murmur2": 2488645362
+    },
+    "fileSize": 663575,
+    "sources": {
+        "curseforge": {
+            "projectId": 905861,
+            "fileUrl": "https://edge.forgecdn.net/files/5080/957/create-new-age-forge-1.20.1-1.1.2.jar",
+            "fileId": 5080957
+        },
+        "modrinth": {
+            "projectId": "FTeXqI9v",
+            "fileUrl": "https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar"
+        }
+    }
+}

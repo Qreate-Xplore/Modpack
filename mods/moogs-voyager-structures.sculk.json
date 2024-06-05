@@ -1,0 +1,21 @@
+{
+    "filename": "mvs-4.1.2-1.20-forge.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "e9f86cac87da18465afc21f9750b36b2f8554665",
+        "sha512": "f1132c18db23118f9c90006393fbe1ac1a9c7d2f8aa8d6e0ad2e5c31801b0496e7d0a2c1f19ec30e3b6e47283c197908f6db3d4bcbb4f890540888cfd2af9180",
+        "murmur2": 2394666333
+    },
+    "fileSize": 1335547,
+    "sources": {
+        "curseforge": {
+            "projectId": 656977,
+            "fileUrl": "https://edge.forgecdn.net/files/5261/812/mvs-4.1.2-1.20-forge.jar",
+            "fileId": 5261812
+        },
+        "modrinth": {
+            "projectId": "OQAgZMH1",
+            "fileUrl": "https://cdn.modrinth.com/data/OQAgZMH1/versions/iYOyd0Bu/mvs-4.1.2-1.20-forge.jar"
+        }
+    }
+}

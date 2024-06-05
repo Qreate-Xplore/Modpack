@@ -1,0 +1,21 @@
+{
+    "filename": "NoSeeNoTick-2.0.0-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "39be3bb98c52c54b85de4f8a8ca74b6ad4486071",
+        "sha512": "7f4beea75daeea36d39c86f6f3907327a661bb9ee144e9143a8bcdab7d190920714ac76519e9531418267c936533a32b71116d7e1b972c4808495a47f4917f0f",
+        "murmur2": 4209529888
+    },
+    "fileSize": 154065,
+    "sources": {
+        "curseforge": {
+            "projectId": 833405,
+            "fileUrl": "https://edge.forgecdn.net/files/4596/138/NoSeeNoTick-2.0.0-1.20.1.jar",
+            "fileId": 4596138
+        },
+        "modrinth": {
+            "projectId": "G3Ib70DM",
+            "fileUrl": "https://cdn.modrinth.com/data/G3Ib70DM/versions/yjD66l2n/NoSeeNoTick-2.0.0-1.20.1.jar"
+        }
+    }
+}

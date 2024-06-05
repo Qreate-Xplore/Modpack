@@ -1,0 +1,21 @@
+{
+    "filename": "Philips-Ruins1.20.1-3.9.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e19c2017da6f7772725887f4864b947d3c033990",
+        "sha512": "03f04b2604eb621fd9ea3b14be416f306c761877a8dc4796e628523338cdc1c98e188f7c81c7fe64ad56f75e24de8215005a13106aca31a4fe81dcf9fda5c979",
+        "murmur2": 171589053
+    },
+    "fileSize": 1502034,
+    "sources": {
+        "curseforge": {
+            "projectId": 569737,
+            "fileUrl": "https://edge.forgecdn.net/files/5373/685/Philips-Ruins1.20.1-3.9.1.jar",
+            "fileId": 5373685
+        },
+        "modrinth": {
+            "projectId": "KdJhOYVV",
+            "fileUrl": "https://cdn.modrinth.com/data/KdJhOYVV/versions/FL8ahBzS/Philips-Ruins1.20.1-3.9.1.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "Dungeon Crawl-1.20.1-2.3.14.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2b7e25d1f3d10a22019ea7728921439f1692856b",
+        "sha512": "4adccd1b7d767a0522cc07d436ee31eb22f136528db6a0897c98d0b9a594f167b2c3beedaf975035ea5cdf4277eaef36e40152d2b370338af93b22dc2c5c763b",
+        "murmur2": 2005783101
+    },
+    "fileSize": 757481,
+    "sources": {
+        "curseforge": {
+            "projectId": 324973,
+            "fileUrl": "https://edge.forgecdn.net/files/4612/224/Dungeon%20Crawl-1.20.1-2.3.14.jar",
+            "fileId": 4612224
+        }
+    }
+}

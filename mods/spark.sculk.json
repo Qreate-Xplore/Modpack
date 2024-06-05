@@ -1,0 +1,21 @@
+{
+    "filename": "spark-1.10.53-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+        "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343",
+        "murmur2": 1515254383
+    },
+    "fileSize": 3114590,
+    "sources": {
+        "curseforge": {
+            "projectId": 361579,
+            "fileUrl": "https://edge.forgecdn.net/files/4738/952/spark-1.10.53-forge.jar",
+            "fileId": 4738952
+        },
+        "modrinth": {
+            "projectId": "l6YH9Als",
+            "fileUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar"
+        }
+    }
+}

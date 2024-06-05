@@ -1,0 +1,17 @@
+{
+    "filename": "born_in_chaos_[Forge]1.20.1_1.3.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2de8abf269f819361cb1ee8615cd57ad5d302c87",
+        "sha512": "c19725c55f057d67fd4ddc22c48b784fe74867869b33fd241258a996b9731dc1bdd00b5884404fa6b304341781bd410b0c169a655a3ddb39ee0eb6b2dadeb277",
+        "murmur2": 955612361
+    },
+    "fileSize": 11529399,
+    "sources": {
+        "curseforge": {
+            "projectId": 686437,
+            "fileUrl": "https://edge.forgecdn.net/files/5369/688/born_in_chaos_%5bForge%5d1.20.1_1.3.1.jar",
+            "fileId": 5369688
+        }
+    }
+}

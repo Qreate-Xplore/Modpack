@@ -1,0 +1,21 @@
+{
+    "filename": "friendsandfoes-forge-mc1.20.1-2.0.10.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7525c31e258152a9d7dd346c14882954950ae4b8",
+        "sha512": "9b23d1b687b17e08639ca49dcaae729813328bbbe7e0a541c076a70f541fc0f7f9b6d59451593a59f3c5ad66e73df16ca09907f6cb811458ed4232338c346276",
+        "murmur2": 3397559475
+    },
+    "fileSize": 3327091,
+    "sources": {
+        "curseforge": {
+            "projectId": 602059,
+            "fileUrl": "https://edge.forgecdn.net/files/5184/455/friendsandfoes-forge-mc1.20.1-2.0.10.jar",
+            "fileId": 5184455
+        },
+        "modrinth": {
+            "projectId": "BOCJKD49",
+            "fileUrl": "https://cdn.modrinth.com/data/BOCJKD49/versions/oLgs1mRb/friendsandfoes-forge-mc1.20.1-2.0.10.jar"
+        }
+    }
+}

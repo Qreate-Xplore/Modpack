@@ -1,0 +1,21 @@
+{
+    "filename": "rhino-forge-2001.2.2-build.18.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0a631b4e8235a777d08bd53d4f49dba388205cad",
+        "sha512": "1fd5f5667e0f078797112df7ae5f300d2fed2c992fdfd0818569e9286d9bdf6c311cf722cbef542a9ecd78577dde5f88e3cfaa48824d0d75bfede9fd4e1be18e",
+        "murmur2": 3409080531
+    },
+    "fileSize": 1782275,
+    "sources": {
+        "curseforge": {
+            "projectId": 416294,
+            "fileUrl": "https://edge.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar",
+            "fileId": 4944325
+        },
+        "modrinth": {
+            "projectId": "sk9knFPE",
+            "fileUrl": "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar"
+        }
+    }
+}

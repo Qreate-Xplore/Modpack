@@ -1,0 +1,21 @@
+{
+    "filename": "Nuclear_Science-1.20.1-0.6.0-2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "149185410c4ec5b074215b3b819ebe67c5c17289",
+        "sha512": "b2c57e17f47bff2e63f769e0a68f69876ca60ef3331b15e54fefc609e08b53f5b91a33d998e094f39e34f6fefb5888d3f660d2787b0783c87c70332398f509c4",
+        "murmur2": 3428138317
+    },
+    "fileSize": 3977561,
+    "sources": {
+        "curseforge": {
+            "projectId": 318646,
+            "fileUrl": "https://edge.forgecdn.net/files/5022/908/Nuclear_Science-1.20.1-0.6.0-2.jar",
+            "fileId": 5022908
+        },
+        "modrinth": {
+            "projectId": "aH4Sud5i",
+            "fileUrl": "https://cdn.modrinth.com/data/aH4Sud5i/versions/b0YNHv2u/Nuclear_Science-1.20.1-0.6.0-2.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "villagesandpillages-forge-mc1.20.1-1.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "aff9a0fcf3a809bad4ed9df9af61d94c911a1a08",
+        "sha512": "6e1bc4afe1dbcf8e57d40b2885674d77117ccdb0af0d0e041e2a3e0d32e6cc97ffb5aaf4f3296640bf3493ea6b2b6d0b16a99fa77ba02895ec49a47a72895b03",
+        "murmur2": 976258102
+    },
+    "fileSize": 244668,
+    "sources": {
+        "curseforge": {
+            "projectId": 915531,
+            "fileUrl": "https://edge.forgecdn.net/files/4767/491/villagesandpillages-forge-mc1.20.1-1.0.0.jar",
+            "fileId": 4767491
+        },
+        "modrinth": {
+            "projectId": "klXONLDA",
+            "fileUrl": "https://cdn.modrinth.com/data/klXONLDA/versions/JPXYNAvZ/villagesandpillages-forge-mc1.20.1-1.0.0.jar"
+        }
+    }
+}

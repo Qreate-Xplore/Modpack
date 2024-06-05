@@ -1,0 +1,17 @@
+{
+    "filename": "ars_nouveau-1.20.1-4.11.0-all.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7e9b766d6acc88dff194b8764d340de091544c80",
+        "sha512": "741cd7791d86747a77d9af1246783c54a08d594c17b4ac80558e22145a44ea4a37f6a4b8260b9d73962b2b9327bb037aedd8ca7fb6b4cfa6cac5cc7e9447a98d",
+        "murmur2": 1741412016
+    },
+    "fileSize": 12771859,
+    "sources": {
+        "curseforge": {
+            "projectId": 401955,
+            "fileUrl": "https://edge.forgecdn.net/files/5371/927/ars_nouveau-1.20.1-4.11.0-all.jar",
+            "fileId": 5371927
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "treasure2_twilight_forest_lp-1.20.1-3.6.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2e368454a3285e9ca1700df7ee1a3c9a2daa1881",
+        "sha512": "7a5a25df9e52e941fb152f8ff40f4f560e6f25ef51ffb28f595cff28e0a37850e3185d3ef72204cbd5a9d75e65a37c4f011acebac33d6a51999d1150abad6dd3",
+        "murmur2": 4270346022
+    },
+    "fileSize": 14822,
+    "sources": {
+        "curseforge": {
+            "projectId": 493871,
+            "fileUrl": "https://edge.forgecdn.net/files/5018/989/treasure2_twilight_forest_lp-1.20.1-3.6.2.jar",
+            "fileId": 5018989
+        }
+    }
+}

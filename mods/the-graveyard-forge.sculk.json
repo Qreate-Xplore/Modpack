@@ -1,0 +1,17 @@
+{
+    "filename": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "11ae4c94aa94b38b78cf9b901dad4612b679f8ac",
+        "sha512": "e5e56edae302cd5e0d8a7230ee64c760cd34ad190a5869e421380bdb0170ba3c2dd56e6b554077aa52259007cd4247ab6827abd5e67a1692569daf6bb87c53a1",
+        "murmur2": 617006471
+    },
+    "fileSize": 10298153,
+    "sources": {
+        "curseforge": {
+            "projectId": 531188,
+            "fileUrl": "https://edge.forgecdn.net/files/5114/579/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+            "fileId": 5114579
+        }
+    }
+}

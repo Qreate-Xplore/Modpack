@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-library-forge-2001.2.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3080e5c728575f26fe49c2ef5e1090eba2ab5734",
+        "sha512": "1e11b2c05b1d5cdd30367cee0f26a5bde730e3d754449406952e93386945f808a258496ee9b52b31ded6d08308ef33e5df9a7a4ba303ad7c8ef865e424738a9d",
+        "murmur2": 2963117108
+    },
+    "fileSize": 786402,
+    "sources": {
+        "curseforge": {
+            "projectId": 404465,
+            "fileUrl": "https://edge.forgecdn.net/files/5364/190/ftb-library-forge-2001.2.2.jar",
+            "fileId": 5364190
+        }
+    }
+}

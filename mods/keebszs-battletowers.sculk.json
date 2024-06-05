@@ -1,0 +1,21 @@
+{
+    "filename": "keebszs_battletowers_0.6.0-1.20.1BETA.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6ce8610429b107cbfc0d2e048a93507c7e8b8d62",
+        "sha512": "a5333bf21e6ae97673fc55c1cbee44cc017dfa9bde288e20b739906190cb27b4cc44a8bbff6a3cb57fc9dc9166843fcc55ffc059dfaf77279af3e5859de00f8d",
+        "murmur2": 917774942
+    },
+    "fileSize": 1699786,
+    "sources": {
+        "curseforge": {
+            "projectId": 655693,
+            "fileUrl": "https://edge.forgecdn.net/files/4784/932/keebszs_battletowers_0.6.0-1.20.1BETA.jar",
+            "fileId": 4784932
+        },
+        "modrinth": {
+            "projectId": "c2lpje52",
+            "fileUrl": "https://cdn.modrinth.com/data/c2lpje52/versions/bUeeKU1v/keebszs_battletowers_0.6.0-1.20.1BETA.jar"
+        }
+    }
+}

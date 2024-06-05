@@ -1,0 +1,21 @@
+{
+    "filename": "YungsApi-1.20-Forge-4.0.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c3a989fdf8429828bd784e35e83f89c0786b43de",
+        "sha512": "a8dbdf96cff9e69c64468fa1ad245655a3305495698e146e77cdbc2a821ab82f1bbf140dbcf672b58ed1e2628a121fde02343be0dfa42a2c23249545a1281c4c",
+        "murmur2": 296382396
+    },
+    "fileSize": 365910,
+    "sources": {
+        "curseforge": {
+            "projectId": 421850,
+            "fileUrl": "https://edge.forgecdn.net/files/5331/703/YungsApi-1.20-Forge-4.0.5.jar",
+            "fileId": 5331703
+        },
+        "modrinth": {
+            "projectId": "Ua7DFN59",
+            "fileUrl": "https://cdn.modrinth.com/data/Ua7DFN59/versions/aMs83SRk/YungsApi-1.20-Forge-4.0.5.jar"
+        }
+    }
+}

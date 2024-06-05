@@ -1,0 +1,21 @@
+{
+    "filename": "kubejsadditions-forge-4.3.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b3cf238bccfd4bfac930303d50f1a8bedd454063",
+        "sha512": "4439c77208f9817763e95200d4aff6b2c41ec671a08ef7adc8467cae4b957272e8b471845b0d6ec4648f791cf3f164d4d3f85da13de74fa83d4cfbd97cc21272",
+        "murmur2": 1640300410
+    },
+    "fileSize": 312870,
+    "sources": {
+        "curseforge": {
+            "projectId": 594387,
+            "fileUrl": "https://edge.forgecdn.net/files/5360/437/kubejsadditions-forge-4.3.0.jar",
+            "fileId": 5360437
+        },
+        "modrinth": {
+            "projectId": "BZemjxZb",
+            "fileUrl": "https://cdn.modrinth.com/data/BZemjxZb/versions/FqQD7IFz/kubejsadditions-forge-4.3.0.jar"
+        }
+    }
+}

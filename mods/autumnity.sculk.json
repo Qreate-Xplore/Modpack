@@ -1,0 +1,21 @@
+{
+    "filename": "autumnity-1.20.1-5.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b7dcdc74db6c25c5c6f1644304491a161f459a14",
+        "sha512": "b6f5855b1d8c4d72ddad701af229a7dc2b1d46b27db6c4e3a0b1eaccbc326a4f3eae56322f0cfa5f0e9501e394d530170c90f2a057265303d2d1d6d09465ae38",
+        "murmur2": 3500514475
+    },
+    "fileSize": 1219707,
+    "sources": {
+        "curseforge": {
+            "projectId": 365045,
+            "fileUrl": "https://edge.forgecdn.net/files/5292/346/autumnity-1.20.1-5.0.1.jar",
+            "fileId": 5292346
+        },
+        "modrinth": {
+            "projectId": "cRh6MJ6n",
+            "fileUrl": "https://cdn.modrinth.com/data/cRh6MJ6n/versions/dNSKgdoR/autumnity-1.20.1-5.0.1.jar"
+        }
+    }
+}

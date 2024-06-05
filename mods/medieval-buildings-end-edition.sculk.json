@@ -1,0 +1,21 @@
+{
+    "filename": "forge-medievalend-1.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299",
+        "sha512": "54a775af0b3b68b2d44227cddf06b062412e5bff6622507fd8cc600a234aca27afbfd17a5e5a94dee44a380a2f518a42cf67a850a27d2c09fddee940aa1b5b5e",
+        "murmur2": 2427537758
+    },
+    "fileSize": 169369,
+    "sources": {
+        "curseforge": {
+            "projectId": 976817,
+            "fileUrl": "https://edge.forgecdn.net/files/5270/720/forge-medievalend-1.0.1.jar",
+            "fileId": 5270720
+        },
+        "modrinth": {
+            "projectId": "bq6nqeOx",
+            "fileUrl": "https://cdn.modrinth.com/data/bq6nqeOx/versions/GtiP8x44/forge-medievalend-1.0.1.jar"
+        }
+    }
+}

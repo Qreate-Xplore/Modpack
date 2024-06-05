@@ -1,0 +1,21 @@
+{
+    "filename": "animal_feeding_trough-1.1.0+1.20.1-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "a7852e319008f0712934e065f185e7f1d7227d4c",
+        "sha512": "db70c257e3ed1dafe8e72d1fc98e60d47687cd64dc5fd6d41788c9b72341c5a466c376e5b55067027064db8414fe742ddecd3f85466fc0bf644f8c1f3991cb7d",
+        "murmur2": 4280748612
+    },
+    "fileSize": 230858,
+    "sources": {
+        "curseforge": {
+            "projectId": 445838,
+            "fileUrl": "https://edge.forgecdn.net/files/5305/54/animal_feeding_trough-1.1.0%2b1.20.1-forge.jar",
+            "fileId": 5305054
+        },
+        "modrinth": {
+            "projectId": "bRFWnJ87",
+            "fileUrl": "https://cdn.modrinth.com/data/bRFWnJ87/versions/xdtARhJP/animal_feeding_trough-1.1.0%2B1.20.1-forge.jar"
+        }
+    }
+}

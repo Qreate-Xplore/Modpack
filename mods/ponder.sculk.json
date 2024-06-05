@@ -1,0 +1,21 @@
+{
+    "filename": "ponderjs-1.20.1-1.3.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6f28d4c327d8f4e247944402d43600216ae276ca",
+        "sha512": "cbf46f45af12ea4544536de0b90855f7ebf7187bedf63091b843c85909efbeee915790a2975372fd7ce8b683e394e36859a5357ab133d39e32133a8c3266ea10",
+        "murmur2": 353154343
+    },
+    "fileSize": 66512,
+    "sources": {
+        "curseforge": {
+            "projectId": 622888,
+            "fileUrl": "https://edge.forgecdn.net/files/4997/534/ponderjs-1.20.1-1.3.1.jar",
+            "fileId": 4997534
+        },
+        "modrinth": {
+            "projectId": "5A34Stj8",
+            "fileUrl": "https://cdn.modrinth.com/data/5A34Stj8/versions/UAwhmZbI/ponderjs-1.20.1-1.3.1.jar"
+        }
+    }
+}

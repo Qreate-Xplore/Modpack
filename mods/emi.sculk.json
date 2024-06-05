@@ -1,0 +1,21 @@
+{
+    "filename": "emi-1.1.6+1.20.1+forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3241252653bab30468bac7c1402edd8fd807fa83",
+        "sha512": "4973c49ef2db905b8793a9983f49bea8924b3b83bd242f58ba3f75a6b7bbb7149cad2ab4cb6264373b31a7022d5d806ec3170506ad3a098c307ea855b46db562",
+        "murmur2": 4222719030
+    },
+    "fileSize": 976147,
+    "sources": {
+        "curseforge": {
+            "projectId": 580555,
+            "fileUrl": "https://edge.forgecdn.net/files/5311/316/emi-1.1.6%2b1.20.1%2bforge.jar",
+            "fileId": 5311316
+        },
+        "modrinth": {
+            "projectId": "fRiHVvU7",
+            "fileUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5b1435Qy/emi-1.1.6%2B1.20.1%2Bforge.jar"
+        }
+    }
+}

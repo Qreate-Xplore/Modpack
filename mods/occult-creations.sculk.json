@@ -1,0 +1,17 @@
+{
+    "filename": "occultcreate-1.20.1-1.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "27659a3f58a53c0d4e6d41d07e488deb7b5b7596",
+        "sha512": "9d24676458606337851bb2004c62947aa686190f788c0f3f04e5897d4b92e1553b3b8124e456e33bc916770bcbd66b4a5ffee998570430dec2ac7aa7b4f51931",
+        "murmur2": 4930006
+    },
+    "fileSize": 14518,
+    "sources": {
+        "curseforge": {
+            "projectId": 982483,
+            "fileUrl": "https://edge.forgecdn.net/files/5159/639/occultcreate-1.20.1-1.0.1.jar",
+            "fileId": 5159639
+        }
+    }
+}

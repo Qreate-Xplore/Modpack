@@ -1,0 +1,21 @@
+{
+    "filename": "createdieselgenerators-1.20.1-1.2h.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "738be989fe1818065ad0bbe5515b54690b0ee442",
+        "sha512": "97dd837453eac6c97338aa59ac0c8d0b3f45b3f3c55791b2e8db5f2bc04aa5d6e755c3cd45244015d29ec4af20a35adb9a4a08fd66dfad1d56a073a83e9c7330",
+        "murmur2": 1925320412
+    },
+    "fileSize": 1943183,
+    "sources": {
+        "curseforge": {
+            "projectId": 869316,
+            "fileUrl": "https://edge.forgecdn.net/files/5089/753/createdieselgenerators-1.20.1-1.2h.jar",
+            "fileId": 5089753
+        },
+        "modrinth": {
+            "projectId": "ZM3tt6p1",
+            "fileUrl": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/TkW9mOTh/createdieselgenerators-1.20.1-1.2h.jar"
+        }
+    }
+}

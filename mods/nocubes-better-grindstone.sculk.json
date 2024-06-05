@@ -1,0 +1,17 @@
+{
+    "filename": "nocube's_better_grindstone_1.0.1_forge_1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9e7d524e1357196a2355b1effab8a8d98fa59440",
+        "sha512": "13aa23544b238fe1f6bfc3047f0b05993368147183fc1fec78bf0fb3cb4f27e9548122bb49fbb5068dda1548aa62420e5ecce4775192b689661bde90aa13f606",
+        "murmur2": 1251622374
+    },
+    "fileSize": 10434,
+    "sources": {
+        "curseforge": {
+            "projectId": 793082,
+            "fileUrl": "https://edge.forgecdn.net/files/4711/296/nocube's_better_grindstone_1.0.1_forge_1.20.1.jar",
+            "fileId": 4711296
+        }
+    }
+}

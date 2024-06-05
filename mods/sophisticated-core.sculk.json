@@ -1,0 +1,17 @@
+{
+    "filename": "sophisticatedcore-1.20.1-0.6.22.611.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f2f9639f50d04fa4f6ae7a2e972428f40a8f80d4",
+        "sha512": "92395aa1fde3b79a437351f631d318670d90af36e0fb515ae92948210f6dca8ed2426307a965f59e20a2ee0ca90e5753265839cb76256a23934c86d58131c175",
+        "murmur2": 193578106
+    },
+    "fileSize": 1080551,
+    "sources": {
+        "curseforge": {
+            "projectId": 618298,
+            "fileUrl": "https://edge.forgecdn.net/files/5326/245/sophisticatedcore-1.20.1-0.6.22.611.jar",
+            "fileId": 5326245
+        }
+    }
+}

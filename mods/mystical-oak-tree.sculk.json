@@ -1,0 +1,21 @@
+{
+    "filename": "mysticaloaktree-1.20-1.11.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "56dfd68a726f5d0d75e47d2518021e4a7e81b943",
+        "sha512": "f5505e240cd3080f5b344f6a18cfd97f407df9a0e6fb918e9f78d757e79ae306e2cb95218e2e6bb7bbcf176c02d2c796ba1610cb8b89205bc544f53ded389ddd",
+        "murmur2": 536674838
+    },
+    "fileSize": 231836,
+    "sources": {
+        "curseforge": {
+            "projectId": 691002,
+            "fileUrl": "https://edge.forgecdn.net/files/4654/234/mysticaloaktree-1.20-1.11.jar",
+            "fileId": 4654234
+        },
+        "modrinth": {
+            "projectId": "eUma2vmY",
+            "fileUrl": "https://cdn.modrinth.com/data/eUma2vmY/versions/u2rYyWU1/mysticaloaktree-1.20-1.11.jar"
+        }
+    }
+}

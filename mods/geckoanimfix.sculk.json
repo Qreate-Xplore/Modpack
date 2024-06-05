@@ -1,0 +1,21 @@
+{
+    "filename": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5",
+        "sha512": "12c17477ad82bad2d80348732ee1e0d19cf1b68ca64527a251af46e664a8a5473bfba4262441d5bb0b5ff2b5f515df4387d4fce327d5906e3c3d073eb9bd9652",
+        "murmur2": 3119093921
+    },
+    "fileSize": 6239,
+    "sources": {
+        "curseforge": {
+            "projectId": 959388,
+            "fileUrl": "https://edge.forgecdn.net/files/5018/199/GeckoLibOculusCompat-Forge-1.0.1.jar",
+            "fileId": 5018199
+        },
+        "modrinth": {
+            "projectId": "TbriQCWD",
+            "fileUrl": "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar"
+        }
+    }
+}

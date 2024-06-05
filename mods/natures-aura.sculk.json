@@ -1,0 +1,21 @@
+{
+    "filename": "NaturesAura-39.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c0f6e2421088f06abf5c1be2f49f39639552b1d0",
+        "sha512": "db075a28ff6e6c7775f3a9dcc62fb781b699965cdfb2ef9586b19c652df800feaf4e6e841c1aa574f9d593f402a790018534c220e6564a05dd56716315ae8075",
+        "murmur2": 2086622523
+    },
+    "fileSize": 1435571,
+    "sources": {
+        "curseforge": {
+            "projectId": 306626,
+            "fileUrl": "https://edge.forgecdn.net/files/4963/590/NaturesAura-39.4.jar",
+            "fileId": 4963590
+        },
+        "modrinth": {
+            "projectId": "4cJkN3aF",
+            "fileUrl": "https://cdn.modrinth.com/data/4cJkN3aF/versions/8UiPp0gC/NaturesAura-39.4.jar"
+        }
+    }
+}

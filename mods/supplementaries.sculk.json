@@ -1,0 +1,17 @@
+{
+    "filename": "supplementaries-1.20-2.8.11.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c1a9df899898ff660a5c9ffaada00205f687b0e6",
+        "sha512": "3faf53c8878e3d7882a3e70d4185a85739b9d6770b261825c9056c52cac624c03a258a9be17874dddc39992390999d625d90dfe898500d7d506a09c388d89337",
+        "murmur2": 498890182
+    },
+    "fileSize": 14519559,
+    "sources": {
+        "curseforge": {
+            "projectId": 412082,
+            "fileUrl": "https://edge.forgecdn.net/files/5340/612/supplementaries-1.20-2.8.11.jar",
+            "fileId": 5340612
+        }
+    }
+}

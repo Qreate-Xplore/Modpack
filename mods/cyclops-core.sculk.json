@@ -1,0 +1,17 @@
+{
+    "filename": "CyclopsCore-1.20.1-1.19.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "566885b0fba6d689329f7d7c4bc1e127f48936e9",
+        "sha512": "943527451985207fe97cf76408f828b878ff1670c31730d3bb4dab2fa387f8a0e8d2c32fac4931efeb135f77a820befc2df5404f38e7367926065cc08dc8e88b",
+        "murmur2": 397321704
+    },
+    "fileSize": 904578,
+    "sources": {
+        "curseforge": {
+            "projectId": 232758,
+            "fileUrl": "https://edge.forgecdn.net/files/5262/63/CyclopsCore-1.20.1-1.19.1.jar",
+            "fileId": 5262063
+        }
+    }
+}

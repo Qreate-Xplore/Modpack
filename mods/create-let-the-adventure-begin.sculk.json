@@ -1,0 +1,21 @@
+{
+    "filename": "create_let_the_adventure_begin_forge-1.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9fb5ea27bb548aabd458808c6769700db6707ce3",
+        "sha512": "27cbc85e6b22c4182633892e9ef6758424796893d752c43a4a220c366ba5783c466d04cf2848f2ca88948eecb0ca26ac83b45643bbffc0e0d71f7d3f90536076",
+        "murmur2": 2399337245
+    },
+    "fileSize": 2325463,
+    "sources": {
+        "curseforge": {
+            "projectId": 1007872,
+            "fileUrl": "https://edge.forgecdn.net/files/5304/571/create_let_the_adventure_begin_forge-1.0.1.jar",
+            "fileId": 5304571
+        },
+        "modrinth": {
+            "projectId": "fUa6OtBG",
+            "fileUrl": "https://cdn.modrinth.com/data/fUa6OtBG/versions/t6dKdbhL/create_let_the_adventure_begin_forge-1.0.1.jar"
+        }
+    }
+}

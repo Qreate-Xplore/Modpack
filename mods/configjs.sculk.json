@@ -1,0 +1,21 @@
+{
+    "filename": "configjs-1.0.1-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9cec0100de9935856845bd60d244df5ab6884cb8",
+        "sha512": "a3dc5f11ea86d3586de5273b99d16bd3d920c9e88d7cb99f68bed298908b9626990ad1ad77daa72103824eef819fbfd738c144acae8f5ab733627b9c3708b956",
+        "murmur2": 2043813707
+    },
+    "fileSize": 37566,
+    "sources": {
+        "curseforge": {
+            "projectId": 955036,
+            "fileUrl": "https://edge.forgecdn.net/files/4995/588/configjs-1.0.1-1.20.1.jar",
+            "fileId": 4995588
+        },
+        "modrinth": {
+            "projectId": "hyn6Rt7w",
+            "fileUrl": "https://cdn.modrinth.com/data/hyn6Rt7w/versions/wJ6LwBbm/configjs-1.0.1-1.20.1.jar"
+        }
+    }
+}

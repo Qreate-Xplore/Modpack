@@ -1,0 +1,17 @@
+{
+    "filename": "CommonCapabilities-1.20.1-2.9.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e20fb911b03a6c85bc068e98a1a37c338c4bf8c4",
+        "sha512": "42307a9aa02a9fe842182315f5e83729dbcb6912aff96b7c64789d7b49658d9a38536ad87357d074280c21fdf5a44f1cc75717146b7d764983f47c46f59f7b13",
+        "murmur2": 1041369759
+    },
+    "fileSize": 246130,
+    "sources": {
+        "curseforge": {
+            "projectId": 247007,
+            "fileUrl": "https://edge.forgecdn.net/files/4987/207/CommonCapabilities-1.20.1-2.9.1.jar",
+            "fileId": 4987207
+        }
+    }
+}

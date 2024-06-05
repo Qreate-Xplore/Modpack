@@ -1,0 +1,21 @@
+{
+    "filename": "occultism_kubejs-1.20.1-1.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b5e33b96b832a0ed3acfe4b8bab1a9f870ad6f00",
+        "sha512": "65f566c8c48282284ec766e7580a02c2d01fe8b83b8fac4bafb5d9d9a00f0a6dd988460a0ffec9df3cec95585ba7a0751fb1f2cdc9601d13cbf5601e4a3a723d",
+        "murmur2": 3263865037
+    },
+    "fileSize": 414299,
+    "sources": {
+        "curseforge": {
+            "projectId": 525693,
+            "fileUrl": "https://edge.forgecdn.net/files/5154/371/occultism_kubejs-1.20.1-1.0.0.jar",
+            "fileId": 5154371
+        },
+        "modrinth": {
+            "projectId": "u5J68aYW",
+            "fileUrl": "https://cdn.modrinth.com/data/u5J68aYW/versions/BhOa2fom/occultism_kubejs-1.20.1-1.0.0.jar"
+        }
+    }
+}

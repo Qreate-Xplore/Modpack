@@ -1,0 +1,21 @@
+{
+    "filename": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa",
+        "sha512": "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde513fa0a6f8d002f27168130850bf358d405cd2120c979927d7e88fe3d3",
+        "murmur2": 381211649
+    },
+    "fileSize": 19471,
+    "sources": {
+        "curseforge": {
+            "projectId": 280510,
+            "fileUrl": "https://edge.forgecdn.net/files/4911/84/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "fileId": 4911084
+        },
+        "modrinth": {
+            "projectId": "lOOpEntO",
+            "fileUrl": "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar"
+        }
+    }
+}

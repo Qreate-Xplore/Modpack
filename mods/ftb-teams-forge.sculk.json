@@ -1,0 +1,17 @@
+{
+    "filename": "ftb-teams-forge-2001.3.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "bb5a1f3ac9d44c5e9b319768e7166e877879aaaa",
+        "sha512": "7b5d889b498f352bc624fdad041b11f4f89f63c52a4c99a244285d1ec240fc0df73cc93a8184424ad544f6b6f8c2b5269485855c713a16808d30911d91209af0",
+        "murmur2": 2582832179
+    },
+    "fileSize": 247666,
+    "sources": {
+        "curseforge": {
+            "projectId": 404468,
+            "fileUrl": "https://edge.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar",
+            "fileId": 5267190
+        }
+    }
+}

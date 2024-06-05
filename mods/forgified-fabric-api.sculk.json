@@ -1,0 +1,21 @@
+{
+    "filename": "fabric-api-0.92.1+1.11.8+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c4231359d245029d7e21e38e9f69832c4260dd86",
+        "sha512": "ee74c3aa4c9c30286b6ebd1d2595bc46fed24928f2ce18f63756a353ca1f390186785277aec97fdf296ac47243880b46a0541415dd5164f897614968b4d09bb9",
+        "murmur2": 4246751173
+    },
+    "fileSize": 3040470,
+    "sources": {
+        "curseforge": {
+            "projectId": 889079,
+            "fileUrl": "https://edge.forgecdn.net/files/5269/956/fabric-api-0.92.1%2b1.11.8%2b1.20.1.jar",
+            "fileId": 5269956
+        },
+        "modrinth": {
+            "projectId": "Aqlf1Shp",
+            "fileUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/DXF7HH4f/fabric-api-0.92.1%2B1.11.8%2B1.20.1.jar"
+        }
+    }
+}

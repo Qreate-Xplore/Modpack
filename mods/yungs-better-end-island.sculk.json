@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+        "sha512": "a51b76fc41d19276bea2ebe081b153d3be53c502ef9de93593990f8b7bf644e3e4fd4cff17477abce16692f23aff3077be1762606f10ca1058771741ad652e2e",
+        "murmur2": 3970260058
+    },
+    "fileSize": 387111,
+    "sources": {
+        "curseforge": {
+            "projectId": 901344,
+            "fileUrl": "https://edge.forgecdn.net/files/5193/815/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "fileId": 5193815
+        },
+        "modrinth": {
+            "projectId": "2BwBOmBQ",
+            "fileUrl": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "Stellarity-v2-0e.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d54f54446b7afaed0c7bdf9679bc376f4913d16c",
+        "sha512": "ea0233799a8919fc6c701751b7977ec2387b2b17a89cd0d7fa5dd8ac044bae5036886100819332944c7a55b7236963e8c2123a76a0b38ec773d85c4bdff50568",
+        "murmur2": 575993331
+    },
+    "fileSize": 12562436,
+    "sources": {
+        "curseforge": {
+            "projectId": 883166,
+            "fileUrl": "https://edge.forgecdn.net/files/4714/310/Stellarity-v2-0e.jar",
+            "fileId": 4714310
+        },
+        "modrinth": {
+            "projectId": "bZgeDzN8",
+            "fileUrl": "https://cdn.modrinth.com/data/bZgeDzN8/versions/RKcXZAPf/Stellarity-v2-0e.jar"
+        }
+    }
+}

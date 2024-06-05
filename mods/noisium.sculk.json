@@ -1,0 +1,21 @@
+{
+    "filename": "noisium-forge-2.0.3+mc1.20-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4cec669eb885f344206ca314e245ee62a19861cb",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33",
+        "murmur2": 3402806720
+    },
+    "fileSize": 220842,
+    "sources": {
+        "curseforge": {
+            "projectId": 930207,
+            "fileUrl": "https://edge.forgecdn.net/files/5302/292/noisium-forge-2.0.3%2bmc1.20-1.20.1.jar",
+            "fileId": 5302292
+        },
+        "modrinth": {
+            "projectId": "KuNKN7d2",
+            "fileUrl": "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar"
+        }
+    }
+}

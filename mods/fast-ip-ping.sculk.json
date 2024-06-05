@@ -1,0 +1,21 @@
+{
+    "filename": "fast-ip-ping-mc1.20.4-forge-v1.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d2ae47cc0e30f9dd354de6af5db0a65401dab631",
+        "sha512": "fd762d85e6f546c491e917096940814119e7a1cea9212c0ee7368cdee5f1d9829dfff70a787e467162e4464861a14d725c3a135915f820611df783eb453695e5",
+        "murmur2": 3018127981
+    },
+    "fileSize": 10537,
+    "sources": {
+        "curseforge": {
+            "projectId": 904356,
+            "fileUrl": "https://edge.forgecdn.net/files/4976/608/fast-ip-ping-mc1.20.4-forge-v1.0.1.jar",
+            "fileId": 4976608
+        },
+        "modrinth": {
+            "projectId": "9mtu0sUO",
+            "fileUrl": "https://cdn.modrinth.com/data/9mtu0sUO/versions/f6pkJC6p/fast-ip-ping-mc1.20.4-forge-v1.0.1.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "mopeds_1.1_1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "eac14c1a2faa61d5cc57fb44cb95743729a41f63",
+        "sha512": "aec37e2209e5dc376283b574fc23a52be947ca93c33e1abff1f3180b1571ef620a9cfa9521bc9a106850a935bd52032c1b436570c679b1ba43e256da222b6dff",
+        "murmur2": 33951215
+    },
+    "fileSize": 1145309,
+    "sources": {
+        "curseforge": {
+            "projectId": 965638,
+            "fileUrl": "https://edge.forgecdn.net/files/5229/643/mopeds_1.1_1.20.1.jar",
+            "fileId": 5229643
+        }
+    }
+}

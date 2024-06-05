@@ -1,0 +1,21 @@
+{
+    "filename": "mns-1.0.1-1.20-forge.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "49669e04356c3e568040487be24ce864da40f4bc",
+        "sha512": "42286637deff6d4d9c6aa53bd78383c063ea20610c164bdc1fb3fd5d55cd6e64ba13988c541cce902dc073f26529cb6f8f9917c9447c13f24602e7afd63ba75b",
+        "murmur2": 4168531349
+    },
+    "fileSize": 1634621,
+    "sources": {
+        "curseforge": {
+            "projectId": 967466,
+            "fileUrl": "https://edge.forgecdn.net/files/5261/987/mns-1.0.1-1.20-forge.jar",
+            "fileId": 5261987
+        },
+        "modrinth": {
+            "projectId": "nGUXvjTa",
+            "fileUrl": "https://cdn.modrinth.com/data/nGUXvjTa/versions/qawBJ6PD/mns-1.0.1-1.20-forge.jar"
+        }
+    }
+}

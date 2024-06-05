@@ -1,0 +1,21 @@
+{
+    "filename": "lios_overhauled_villages-1.18.2-1.20.4-v0.0.3.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "256a6d502c01aa0e25d90768951cc45f13255fa7",
+        "sha512": "ae5c2e9f7853c6194619bf157a40aef6975393ea6e531fea889190d2ff9023edd43e5f2271a47c6d7f5fea90bb7687099803af4140f693d2a6725419faf16f0c",
+        "murmur2": 550219341
+    },
+    "fileSize": 1227163,
+    "sources": {
+        "curseforge": {
+            "projectId": 950005,
+            "fileUrl": "https://edge.forgecdn.net/files/5076/241/lios_overhauled_villages-1.18.2-1.20.4-v0.0.3.jar",
+            "fileId": 5076241
+        },
+        "modrinth": {
+            "projectId": "piqpXT8s",
+            "fileUrl": "https://cdn.modrinth.com/data/piqpXT8s/versions/W4XLInlR/lios_overhauled_villages-1.18.2-1.20.4-v0.0.3.jar"
+        }
+    }
+}

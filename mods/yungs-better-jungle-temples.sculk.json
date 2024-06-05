@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+        "sha512": "433d84ca6a8f223376bc8e30c7ca2407294876c2fe8ef51fec9f12358b5b4f84c76031abba74a256eec12146817690224b141668890ebba99decd411d6b37b9c",
+        "murmur2": 2549372144
+    },
+    "fileSize": 806652,
+    "sources": {
+        "curseforge": {
+            "projectId": 897669,
+            "fileUrl": "https://edge.forgecdn.net/files/5331/760/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+            "fileId": 5331760
+        },
+        "modrinth": {
+            "projectId": "z9Ve58Ih",
+            "fileUrl": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "guardvillagers-1.20.1-1.6.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "740ec45a44f107820f7b3e282fbd923270e44e57",
+        "sha512": "8906489c3d300226373d8843006e7723a90bd520b3c114f03b9e955139f6000c84937ce32c065526a5ea9696ec79915b497b75a1ba8857e9b49d0283446754ed",
+        "murmur2": 425719618
+    },
+    "fileSize": 203497,
+    "sources": {
+        "curseforge": {
+            "projectId": 360203,
+            "fileUrl": "https://edge.forgecdn.net/files/5297/214/guardvillagers-1.20.1-1.6.5.jar",
+            "fileId": 5297214
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5adbcc67259deaad1e1625dae3947b415ed81bac",
+        "sha512": "fda8cd8a64ef8f0e84fbbda9c621bd8bb83ed90b4712e490c47f0051a010ececeaf324af0a15e05565a597e40e210ea691176578749d908c9b73c82a1b8cab23",
+        "murmur2": 3806041649
+    },
+    "fileSize": 102190,
+    "sources": {
+        "curseforge": {
+            "projectId": 560595,
+            "fileUrl": "https://edge.forgecdn.net/files/4813/803/toomanyglyphs-1.20.1-2.3.2.12345.jar",
+            "fileId": 4813803
+        }
+    }
+}

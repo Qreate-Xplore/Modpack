@@ -1,0 +1,21 @@
+{
+    "filename": "formationsnether-1.0.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fcf83f6d50541333aaaa837b4d59ea2d13871a88",
+        "sha512": "f5b2381a05751e6183c58929dde74e73e5ecd332de1f2f6b958d3f77f60d18ed5fb54d1400054fb09472d0128d36ee74b335c3374d2e9762b44e78aa025d3c4b",
+        "murmur2": 1519811448
+    },
+    "fileSize": 953269,
+    "sources": {
+        "curseforge": {
+            "projectId": 918840,
+            "fileUrl": "https://edge.forgecdn.net/files/5296/570/formationsnether-1.0.4.jar",
+            "fileId": 5296570
+        },
+        "modrinth": {
+            "projectId": "cGvQGRls",
+            "fileUrl": "https://cdn.modrinth.com/data/cGvQGRls/versions/OuVh7nTj/formationsnether-1.0.4.jar"
+        }
+    }
+}

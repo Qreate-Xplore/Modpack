@@ -1,0 +1,17 @@
+{
+    "filename": "gottschcore-1.20.1-2.1.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4956c53aa562bfc6629567a0c8c26b71d7c1bd9b",
+        "sha512": "d173fe4746c43d6f96715e3b102d8ffc8dfa35c39da232555ea5fb800236293e1a6d153cedf183adc88f0b422bd772adcc70a4598b43dd25f8b7259d9d4e04f4",
+        "murmur2": 953277370
+    },
+    "fileSize": 181080,
+    "sources": {
+        "curseforge": {
+            "projectId": 272450,
+            "fileUrl": "https://edge.forgecdn.net/files/4743/322/gottschcore-1.20.1-2.1.0.jar",
+            "fileId": 4743322
+        }
+    }
+}

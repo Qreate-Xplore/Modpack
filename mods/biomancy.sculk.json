@@ -1,0 +1,21 @@
+{
+    "filename": "biomancy-forge-1.20.1-2.4.4.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5c529a7dc7a7d612754586937ddb0588bf87c5ec",
+        "sha512": "67ca89241feaaa87dc0a6446b592a8d97217bcf34899d1845f421ebd4dda6ea40ccfdc4fe80172ec89fe49d75dd1454c3008661c61d41b50fcb4489e1c5ddc99",
+        "murmur2": 2172844917
+    },
+    "fileSize": 4056055,
+    "sources": {
+        "curseforge": {
+            "projectId": 492939,
+            "fileUrl": "https://edge.forgecdn.net/files/5102/778/biomancy-forge-1.20.1-2.4.4.0.jar",
+            "fileId": 5102778
+        },
+        "modrinth": {
+            "projectId": "uAAuyU4M",
+            "fileUrl": "https://cdn.modrinth.com/data/uAAuyU4M/versions/u9EEqRye/biomancy-forge-1.20.1-2.4.4.0.jar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "filename": "extractinator-forge-1.20.1-2.3.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "be666bcf34f558a5b1999ae1fbae7a4a803e0e6f",
+        "sha512": "33c3f935c17ec4c6dca9d73a8cbc0ad7049ff1bc693552027d3746f78e543f4c579c9658d661d266f233727ab38ffb659713c3078736f9965e69f6d3c5101ed1",
+        "murmur2": 993539917
+    },
+    "fileSize": 117038,
+    "sources": {
+        "curseforge": {
+            "projectId": 567114,
+            "fileUrl": "https://edge.forgecdn.net/files/4863/801/extractinator-forge-1.20.1-2.3.0.jar",
+            "fileId": 4863801
+        },
+        "modrinth": {
+            "projectId": "2EPioYNN",
+            "fileUrl": "https://cdn.modrinth.com/data/2EPioYNN/versions/7hJ6iUPA/extractinator-forge-1.20.1-2.3.0.jar"
+        }
+    }
+}

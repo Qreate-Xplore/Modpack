@@ -1,0 +1,17 @@
+{
+    "filename": "Simple Corinthium 1.2.2-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7cabf826f11b44112993f8f48e26b1dc0d602397",
+        "sha512": "64b54df7414dca7fa837a86eed24514892e992dbd3dcb3b9523b9c69d4e1e9401fd20a2a25f93d0cb7bb5c900817dbf3bf05a616fefd24fe7a0b97b035f3abcf",
+        "murmur2": 1243793045
+    },
+    "fileSize": 58832,
+    "sources": {
+        "curseforge": {
+            "projectId": 674426,
+            "fileUrl": "https://edge.forgecdn.net/files/4727/967/Simple Corinthium 1.2.2-1.20.1.jar",
+            "fileId": 4727967
+        }
+    }
+}

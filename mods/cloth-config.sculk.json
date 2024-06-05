@@ -1,0 +1,21 @@
+{
+    "filename": "cloth-config-11.1.118-forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c46ca3fba95691873a765f4e79750c615f33e446",
+        "sha512": "5f8017fb496e65ce25ecb249927602d578fc235fc80c5db335e071ee9c108680b3c8c1f82dfafaf21c90e46a174b6717a3946feea5295a3c8ace5b11201ff7c5",
+        "murmur2": 4036549752
+    },
+    "fileSize": 1168391,
+    "sources": {
+        "curseforge": {
+            "projectId": 348521,
+            "fileUrl": "https://edge.forgecdn.net/files/4973/441/cloth-config-11.1.118-forge.jar",
+            "fileId": 4973441
+        },
+        "modrinth": {
+            "projectId": "9s6osm5g",
+            "fileUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar"
+        }
+    }
+}

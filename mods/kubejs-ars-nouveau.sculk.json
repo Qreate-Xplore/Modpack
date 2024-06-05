@@ -1,0 +1,17 @@
+{
+    "filename": "kubejsarsnouveau-1.2.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e54620c7e9879768d947827325f1e133b75c283d",
+        "sha512": "02c886e63291c21508c4a77e0f7f34e82adb94be649e9025d03aadc88e7eb706f1994f4664fd6bd390f98421e08038ff06b5282f68430732b70e3b1f4e18b6c4",
+        "murmur2": 130701387
+    },
+    "fileSize": 13543,
+    "sources": {
+        "curseforge": {
+            "projectId": 833926,
+            "fileUrl": "https://edge.forgecdn.net/files/4920/407/kubejsarsnouveau-1.2.2.jar",
+            "fileId": 4920407
+        }
+    }
+}

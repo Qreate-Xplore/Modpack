@@ -1,0 +1,21 @@
+{
+    "filename": "packetfixer-forge-1.4.0-1.19-to-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "bff94fc4c6dfc0854f50bcfee8037826cf953e93",
+        "sha512": "ddeda64cfe17cdfb436ee45eb662ee26c22686ac4c15ba60ad4695f5a596456282dd0e36ba391da036555302cc4845408a399f1f468704cc37da99c1a4d35b5d",
+        "murmur2": 2603832437
+    },
+    "fileSize": 19304,
+    "sources": {
+        "curseforge": {
+            "projectId": 689467,
+            "fileUrl": "https://edge.forgecdn.net/files/5373/921/packetfixer-forge-1.4.0-1.19-to-1.20.1.jar",
+            "fileId": 5373921
+        },
+        "modrinth": {
+            "projectId": "c7m1mi73",
+            "fileUrl": "https://cdn.modrinth.com/data/c7m1mi73/versions/Ero7kHKR/packetfixer-forge-1.4.0-1.19-to-1.20.1.jar"
+        }
+    }
+}

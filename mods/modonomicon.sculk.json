@@ -1,0 +1,21 @@
+{
+    "filename": "modonomicon-1.20.1-forge-1.72.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "87126774209f90b871a01225aa67c27dbfc775c8",
+        "sha512": "c96ad48f63afd555dd89f483b80f38048b0560cc4fea65683239c4a5e8234075ca42e780e8aac0000e2a556912814bbf3f88ec48aaf5652a7d3993587bed5c4d",
+        "murmur2": 165925157
+    },
+    "fileSize": 2230362,
+    "sources": {
+        "curseforge": {
+            "projectId": 538392,
+            "fileUrl": "https://edge.forgecdn.net/files/5353/40/modonomicon-1.20.1-forge-1.72.0.jar",
+            "fileId": 5353040
+        },
+        "modrinth": {
+            "projectId": "692GClaE",
+            "fileUrl": "https://cdn.modrinth.com/data/692GClaE/versions/P6aUPwCn/modonomicon-1.20.1-forge-1.72.0.jar"
+        }
+    }
+}

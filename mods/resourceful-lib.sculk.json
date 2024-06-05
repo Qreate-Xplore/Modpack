@@ -1,0 +1,21 @@
+{
+    "filename": "resourcefullib-forge-1.20.1-2.1.25.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ece094e553111a5b2beafb7b71c416737a2ead43",
+        "sha512": "14574387b93f3067617af6ee244673bb49fa07a9d626fbc730cffb6d4e9622eca6d00121dda0f997ab47479331e05dc7d0c7537224cf1781ca7f78819eeabc9c",
+        "murmur2": 3165359757
+    },
+    "fileSize": 424027,
+    "sources": {
+        "curseforge": {
+            "projectId": 570073,
+            "fileUrl": "https://edge.forgecdn.net/files/5361/260/resourcefullib-forge-1.20.1-2.1.25.jar",
+            "fileId": 5361260
+        },
+        "modrinth": {
+            "projectId": "G1hIVOrD",
+            "fileUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/XO3P1hbK/resourcefullib-forge-1.20.1-2.1.25.jar"
+        }
+    }
+}

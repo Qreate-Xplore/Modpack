@@ -1,0 +1,21 @@
+{
+    "filename": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+        "sha512": "bceefeaf84dffd7386a61118d6b1c6c2107e17e7a8f4340eff2c1f0234dba0e6d8f43903521d5a70334362ab6e4069788e5b29cf42d8ee9cd4f2a98feb64112b",
+        "murmur2": 4156404560
+    },
+    "fileSize": 619255,
+    "sources": {
+        "curseforge": {
+            "projectId": 817651,
+            "fileUrl": "https://edge.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "fileId": 5193465
+        },
+        "modrinth": {
+            "projectId": "Z2mXHnxP",
+            "fileUrl": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+        }
+    }
+}

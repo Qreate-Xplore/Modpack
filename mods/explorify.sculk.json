@@ -1,0 +1,21 @@
+{
+    "filename": "explorify-v1.4.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dd28a037daff1ba5785a482cd714fffa4fa40765",
+        "sha512": "fc47ddf8a31553a90615cdc54c2f61f2bdaa916840337cb0182bed41280d119a469d5447993c2472e32315b94bea77a8bbde845fed013798594fc35a21692661",
+        "murmur2": 1742209632
+    },
+    "fileSize": 204832,
+    "sources": {
+        "curseforge": {
+            "projectId": 698309,
+            "fileUrl": "https://edge.forgecdn.net/files/5277/999/explorify-v1.4.0.jar",
+            "fileId": 5277999
+        },
+        "modrinth": {
+            "projectId": "HSfsxuTo",
+            "fileUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/XfMVshu1/explorify-v1.4.0.jar"
+        }
+    }
+}

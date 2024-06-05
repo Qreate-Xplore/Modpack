@@ -1,0 +1,21 @@
+{
+    "filename": "sawmill-1.20-1.3.15.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "62fd13c292a81bedb39efa6a4f63239efcf4f6fa",
+        "sha512": "b2a7efbfd8f278847213c29a23d918b66545408f8e7223434fcd3290292c0556753988b15ef979bcf3e7dee899fdfd5142b958f87a4f79e7c6c9d49302022000",
+        "murmur2": 2872937676
+    },
+    "fileSize": 570809,
+    "sources": {
+        "curseforge": {
+            "projectId": 964817,
+            "fileUrl": "https://edge.forgecdn.net/files/5367/700/sawmill-1.20-1.3.15.jar",
+            "fileId": 5367700
+        },
+        "modrinth": {
+            "projectId": "WRaRZdTd",
+            "fileUrl": "https://cdn.modrinth.com/data/WRaRZdTd/versions/O541mAsq/sawmill-1.20-1.3.15.jar"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "filename": "caelus-forge-3.2.0+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+        "sha512": "c2cd101a569fc124a3c25b692cce5825ebfce908985532dba6cb694407da09404654c7c9877ac0295327eb3351fca1d3a6088ca23ef98f76d3eabf7ad4d7d5ff",
+        "murmur2": 2212904341
+    },
+    "fileSize": 40125,
+    "sources": {
+        "curseforge": {
+            "projectId": 308989,
+            "fileUrl": "https://edge.forgecdn.net/files/5281/700/caelus-forge-3.2.0%2b1.20.1.jar",
+            "fileId": 5281700
+        }
+    }
+}

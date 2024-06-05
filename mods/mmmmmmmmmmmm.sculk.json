@@ -1,0 +1,21 @@
+{
+    "filename": "dummmmmmy-1.20-1.8.17b.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f80dabf265fa10b67a14dc5f2a30f3859fb1975c",
+        "sha512": "25a34d6d46ecfa6c654f08295805a4a17bf9419f734ce3c89e12abb148de9b72ce9050e6370ea69d914fa57486a67a28ba0d24bd7a1f6788e581beaec3dc1a45",
+        "murmur2": 647210701
+    },
+    "fileSize": 337950,
+    "sources": {
+        "curseforge": {
+            "projectId": 225738,
+            "fileUrl": "https://edge.forgecdn.net/files/5319/203/dummmmmmy-1.20-1.8.17b.jar",
+            "fileId": 5319203
+        },
+        "modrinth": {
+            "projectId": "Adega8YN",
+            "fileUrl": "https://cdn.modrinth.com/data/Adega8YN/versions/dGifKxWx/dummmmmmy-1.20-1.8.17b.jar"
+        }
+    }
+}

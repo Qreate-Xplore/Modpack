@@ -1,0 +1,21 @@
+{
+    "filename": "deeperdarker-forge-1.20.1-1.2.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b7cd826ae029ad99234501abefef37fc6f3e57d8",
+        "sha512": "0127579808db9815f2457428093561c93167c131edadd15e961516f77a62a099a4503b0d6e0da5d3f5e11da031cde9973cdad03bfce318f9c3e976978ed9653a",
+        "murmur2": 1830103696
+    },
+    "fileSize": 17461944,
+    "sources": {
+        "curseforge": {
+            "projectId": 659011,
+            "fileUrl": "https://edge.forgecdn.net/files/4807/511/deeperdarker-forge-1.20.1-1.2.1.jar",
+            "fileId": 4807511
+        },
+        "modrinth": {
+            "projectId": "fnAffV0n",
+            "fileUrl": "https://cdn.modrinth.com/data/fnAffV0n/versions/tqPSIRGd/deeperdarker-forge-1.20.1-1.2.1.jar"
+        }
+    }
+}

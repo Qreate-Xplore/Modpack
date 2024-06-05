@@ -1,0 +1,21 @@
+{
+    "filename": "titanium-1.20.1-3.8.28.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3c0ee724e19484101e2fbfc28e5d04b299bc92b2",
+        "sha512": "70df7aaefc165ddf79bab45abe71d1161e549553b6be067fb66299dfa5f15aff583ff206b52cec216044a8fb34e575bfb44dee9045a37afe35e55bc1501f4238",
+        "murmur2": 1338452560
+    },
+    "fileSize": 621854,
+    "sources": {
+        "curseforge": {
+            "projectId": 287342,
+            "fileUrl": "https://edge.forgecdn.net/files/5356/476/titanium-1.20.1-3.8.28.jar",
+            "fileId": 5356476
+        },
+        "modrinth": {
+            "projectId": "1Ro7m06l",
+            "fileUrl": "https://cdn.modrinth.com/data/1Ro7m06l/versions/NqY5UYxd/titanium-1.20.1-3.8.28.jar"
+        }
+    }
+}

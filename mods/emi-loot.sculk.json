@@ -1,0 +1,21 @@
+{
+    "filename": "emi_loot-0.6.5+1.20.1+forge.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "dbaf0e9e00267860015d8991f0c4c38e39a994ed",
+        "sha512": "7e497a4bb9188d5fd25cc526ed538ca120a6f73c2e55b6e549ef3922ff60bc9c15b10862c853c3757bb3cd6ffb81e041e62919ffb11e10d416c97f92bb7746ce",
+        "murmur2": 2127440846
+    },
+    "fileSize": 346986,
+    "sources": {
+        "curseforge": {
+            "projectId": 681783,
+            "fileUrl": "https://edge.forgecdn.net/files/4971/64/emi_loot-0.6.5%2b1.20.1%2bforge.jar",
+            "fileId": 4971064
+        },
+        "modrinth": {
+            "projectId": "qbbO7Jns",
+            "fileUrl": "https://cdn.modrinth.com/data/qbbO7Jns/versions/91c49w5V/emi_loot-0.6.5%2B1.20.1%2Bforge.jar"
+        }
+    }
+}

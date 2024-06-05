@@ -1,0 +1,21 @@
+{
+    "filename": "pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2d7e7f38da47439e5586e6c93e52b13eeb304d96",
+        "sha512": "c4dbf0e0dda8bf1e397443a81245270883be57b2a2d5553fd5905aae62e1e279edf49273a2b7864e9a55c155260adb4574ec74bbab9c001d95bb015422c45102",
+        "murmur2": 3428480901
+    },
+    "fileSize": 10779680,
+    "sources": {
+        "curseforge": {
+            "projectId": 281849,
+            "fileUrl": "https://edge.forgecdn.net/files/5279/325/pneumaticcraft-repressurized-6.0.15%2bmc1.20.1.jar",
+            "fileId": 5279325
+        },
+        "modrinth": {
+            "projectId": "ncAcdgk7",
+            "fileUrl": "https://cdn.modrinth.com/data/ncAcdgk7/versions/Pq4YT1ta/pneumaticcraft-repressurized-6.0.15%2Bmc1.20.1.jar"
+        }
+    }
+}

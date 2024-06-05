@@ -1,0 +1,21 @@
+{
+    "filename": "modernfix-forge-5.17.0+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "9a6230d6f39353047771a458618b583d68d35d61",
+        "sha512": "15eb8f731d3c2125977d0c9fc48d23ee0a28fc52a464f9ae731f6e17f415fc9a5f19cc7d0afe81d44cea17dcbf34330c18f43fa9e762036c4a72430646ca10a8",
+        "murmur2": 3680831481
+    },
+    "fileSize": 738345,
+    "sources": {
+        "curseforge": {
+            "projectId": 790626,
+            "fileUrl": "https://edge.forgecdn.net/files/5288/164/modernfix-forge-5.17.0%2bmc1.20.1.jar",
+            "fileId": 5288164
+        },
+        "modrinth": {
+            "projectId": "nmDcB62a",
+            "fileUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/BpXImv5B/modernfix-forge-5.17.0%2Bmc1.20.1.jar"
+        }
+    }
+}

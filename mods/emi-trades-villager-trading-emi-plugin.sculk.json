@@ -1,0 +1,21 @@
+{
+    "filename": "emitrades-forge-1.2.1+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4",
+        "sha512": "b0344906a3da867373edf6a4d5a7bcb1d0aa0aaf11825244b9d1d5aeb1aec1c5d023b754ab8f881905c7086ba11d2cdc5740ba29ab967b4549346531bcbc1b86",
+        "murmur2": 53908515
+    },
+    "fileSize": 53378,
+    "sources": {
+        "curseforge": {
+            "projectId": 735523,
+            "fileUrl": "https://edge.forgecdn.net/files/4901/194/emitrades-forge-1.2.1%2bmc1.20.1.jar",
+            "fileId": 4901194
+        },
+        "modrinth": {
+            "projectId": "j2HhbEE7",
+            "fileUrl": "https://cdn.modrinth.com/data/j2HhbEE7/versions/LBT7pcVH/emitrades-forge-1.2.1%2Bmc1.20.1.jar"
+        }
+    }
+}

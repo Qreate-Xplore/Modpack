@@ -1,0 +1,21 @@
+{
+    "filename": "ad_astra-forge-1.20.1-1.15.18.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4bcd0ac9aa80107b6b7f02deef4cdc727becd099",
+        "sha512": "be63d1e11b76edee3bdedcece4f09f11ab57c7c9705f0e079b46a972f30ffc0c883b791d284b07f17ea07ae82cde1dea305327fb51c18fd0892677fa405558b6",
+        "murmur2": 2101863931
+    },
+    "fileSize": 7461158,
+    "sources": {
+        "curseforge": {
+            "projectId": 635042,
+            "fileUrl": "https://edge.forgecdn.net/files/5116/766/ad_astra-forge-1.20.1-1.15.18.jar",
+            "fileId": 5116766
+        },
+        "modrinth": {
+            "projectId": "3ufwT9JF",
+            "fileUrl": "https://cdn.modrinth.com/data/3ufwT9JF/versions/WUGYX9Me/ad_astra-forge-1.20.1-1.15.18.jar"
+        }
+    }
+}

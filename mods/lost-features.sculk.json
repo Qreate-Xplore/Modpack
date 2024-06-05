@@ -1,0 +1,21 @@
+{
+    "filename": "LostFeatures-0.7.2.2.1-Forge-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "3e8ffbf53a96954e4e2fc25d9754a8e2f01a813d",
+        "sha512": "141a1ee9af237e1152ea4aa8508f6dd8742bf558aff091f6febd07a786d14fc5f219057c7cc43a1cbc7647a3d6cf395f67e1bf2da6baaa497015ad5e38085bdb",
+        "murmur2": 213687204
+    },
+    "fileSize": 553446,
+    "sources": {
+        "curseforge": {
+            "projectId": 811351,
+            "fileUrl": "https://edge.forgecdn.net/files/4760/457/LostFeatures-0.7.2.2.1-Forge-1.20.1.jar",
+            "fileId": 4760457
+        },
+        "modrinth": {
+            "projectId": "hNRL1Wry",
+            "fileUrl": "https://cdn.modrinth.com/data/hNRL1Wry/versions/zwJjC7v8/LostFeatures-0.7.2.2.1-Forge-1.20.1.jar"
+        }
+    }
+}

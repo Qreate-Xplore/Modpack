@@ -1,0 +1,17 @@
+{
+    "filename": "themillmanlib-1.20.1-0.3.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "aa29f4da50273eba9a4b3cb45766d11fd5c84f36",
+        "sha512": "5eedd77b990146586853b1e7f2442060fd45ebad2c650dd42400ac7c9bdd375da12278d4a82b5527c7bee6f5c28f180e1c3610f9309635470c83a6f3ff1b5ef6",
+        "murmur2": 1194209619
+    },
+    "fileSize": 379524,
+    "sources": {
+        "curseforge": {
+            "projectId": 575288,
+            "fileUrl": "https://edge.forgecdn.net/files/4835/370/themillmanlib-1.20.1-0.3.0.jar",
+            "fileId": 4835370
+        }
+    }
+}
